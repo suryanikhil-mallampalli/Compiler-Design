@@ -1,0 +1,10000 @@
+T0: b 
+T1: a 
+T2: e a b d 
+T3: c a e b d 
+T4: d c b 
+T5: d c a 
+T6: c d a e 
+T7: e c b a 
+T8: a 
+T9: e d b a 
+T10: d e 
+T11: d e 
+T12: e d b c 
+T13: b 
+T14: a e 
+T15: e 
+T16: b a d e 
+T17: c d a 
+T18: c e b 
+T19: d 
+T20: d e a c 
+T21: c a 
+T22: a c e d b 
+T23: a c b 
+T24: b e c a 
+T25: a 
+T26: a b e 
+T27: b d 
+T28: e 
+T29: b c a 
+T30: d a e c 
+T31: e a d b c 
+T32: a 
+T33: e a 
+T34: c d e b a 
+T35: b e d 
+T36: d b a 
+T37: b 
+T38: b 
+T39: b e a 
+T40: c a d 
+T41: b 
+T42: e 
+T43: a b 
+T44: d c e 
+T45: a d e c b 
+T46: a b 
+T47: d 
+T48: b a e c d 
+T49: c 
+T50: c b a e d 
+T51: b a 
+T52: d b a 
+T53: b e a 
+T54: b c e 
+T55: a d b 
+T56: d a 
+T57: a c 
+T58: b d a 
+T59: e d 
+T60: d b e a 
+T61: e a 
+T62: b d a 
+T63: d c e b a 
+T64: a 
+T65: d e b 
+T66: c 
+T67: a 
+T68: d c 
+T69: a e c d 
+T70: e b d 
+T71: a e c d b 
+T72: a c d 
+T73: c e d b a 
+T74: c 
+T75: c a 
+T76: b e c d a 
+T77: d 
+T78: b c d e 
+T79: c e a 
+T80: b 
+T81: a e b d 
+T82: d c 
+T83: c d a 
+T84: d c a 
+T85: b d a e c 
+T86: a d b c 
+T87: e 
+T88: e a 
+T89: b c 
+T90: d 
+T91: e d a b c 
+T92: b a d e 
+T93: e 
+T94: a e c 
+T95: a 
+T96: e a d b 
+T97: e 
+T98: a 
+T99: a d c 
+T100: b 
+T101: a b 
+T102: e b d 
+T103: e a 
+T104: e d a 
+T105: a 
+T106: a d 
+T107: c d a b 
+T108: c 
+T109: a e d c 
+T110: b d e 
+T111: d c b a e 
+T112: d a e b c 
+T113: a 
+T114: a c b 
+T115: c d e a 
+T116: a c e 
+T117: a e 
+T118: b d a e c 
+T119: d e a 
+T120: a c b e 
+T121: c a 
+T122: e 
+T123: a e d c b 
+T124: c d a e b 
+T125: b c a e d 
+T126: b 
+T127: c d a e b 
+T128: b c d e 
+T129: b e d c a 
+T130: d c e a 
+T131: c b d 
+T132: c d a e b 
+T133: c d a e b 
+T134: d 
+T135: a e d 
+T136: c e a b 
+T137: d a 
+T138: d e c b a 
+T139: e d c 
+T140: b a e c d 
+T141: c d b e a 
+T142: e d 
+T143: e d b 
+T144: a 
+T145: e 
+T146: e c b a d 
+T147: e 
+T148: b d c 
+T149: a 
+T150: a d e 
+T151: a e d b c 
+T152: a c b d e 
+T153: a c e d 
+T154: e c b a d 
+T155: a d b e 
+T156: c d a e b 
+T157: b d c 
+T158: b c 
+T159: c b a e d 
+T160: c b e 
+T161: a b d c 
+T162: c e d b 
+T163: b c d a 
+T164: e d 
+T165: a b 
+T166: c e d b 
+T167: a b d 
+T168: a b c e d 
+T169: c d b a e 
+T170: c b 
+T171: d 
+T172: e a b 
+T173: b e 
+T174: c d 
+T175: e a d b 
+T176: e a 
+T177: b a d e c 
+T178: b c 
+T179: d b e c a 
+T180: a d c 
+T181: d b 
+T182: e c a b 
+T183: c d a e b 
+T184: e b d c a 
+T185: d 
+T186: d c e a b 
+T187: c e 
+T188: c d e a b 
+T189: e a b c d 
+T190: c 
+T191: d e 
+T192: d a b 
+T193: e c b 
+T194: b e 
+T195: c 
+T196: b c a d e 
+T197: b e 
+T198: d a b 
+T199: c d b a 
+T200: c e a d b 
+T201: d e b 
+T202: c a b e d 
+T203: c b d a e 
+T204: b e a d 
+T205: b 
+T206: d a b c 
+T207: c e b d a 
+T208: e b 
+T209: e a 
+T210: b c d e a 
+T211: b 
+T212: a c d e b 
+T213: e b 
+T214: c 
+T215: e c d 
+T216: b a c d e 
+T217: e 
+T218: b e d c 
+T219: e a d 
+T220: b c d e a 
+T221: e b c 
+T222: c d e b 
+T223: b e a d 
+T224: d e c a 
+T225: a d c e 
+T226: b e d c a 
+T227: c 
+T228: c 
+T229: e b a d c 
+T230: d c 
+T231: a 
+T232: a d b e c 
+T233: c d e b a 
+T234: b c e 
+T235: d e 
+T236: e 
+T237: b d a c e 
+T238: b c a e 
+T239: c d 
+T240: b d e 
+T241: b d 
+T242: a e c b 
+T243: c b 
+T244: b 
+T245: b 
+T246: b d c e 
+T247: b a d 
+T248: b e d a 
+T249: e c b d 
+T250: a c 
+T251: e 
+T252: a d c 
+T253: a e d 
+T254: d e a 
+T255: d e a c b 
+T256: e 
+T257: e d 
+T258: e d c a 
+T259: d e a c b 
+T260: a d 
+T261: d c 
+T262: c e 
+T263: d e 
+T264: e a d b 
+T265: c d e b 
+T266: a c 
+T267: c e 
+T268: e d 
+T269: b e a 
+T270: e d a c 
+T271: c d a e b 
+T272: e b d c a 
+T273: b a c 
+T274: d b e 
+T275: d e c a 
+T276: c d a e 
+T277: b e a d c 
+T278: c a d 
+T279: d e a 
+T280: a 
+T281: b d e 
+T282: d a b 
+T283: d 
+T284: b c e a d 
+T285: d 
+T286: c e 
+T287: b e c d a 
+T288: c e b d 
+T289: d e 
+T290: e b a d 
+T291: e b c a d 
+T292: c 
+T293: e b c 
+T294: b d c e a 
+T295: e d a c b 
+T296: c e b a d 
+T297: e a d b c 
+T298: d 
+T299: b a 
+T300: c b 
+T301: d e c 
+T302: b c a d e 
+T303: a d b 
+T304: e a 
+T305: e b d c a 
+T306: e 
+T307: c d e a b 
+T308: b d 
+T309: d a b e c 
+T310: c b e 
+T311: b d c a 
+T312: c d e b 
+T313: d b 
+T314: e 
+T315: e a b d c 
+T316: c e b d a 
+T317: c a b e d 
+T318: b c e a d 
+T319: c a b 
+T320: b e a d 
+T321: e 
+T322: d e c 
+T323: e c a d 
+T324: c e 
+T325: d b c a e 
+T326: e d b a c 
+T327: b e d c a 
+T328: c b a d e 
+T329: e 
+T330: c e b d a 
+T331: d b c a 
+T332: e b d a c 
+T333: d c 
+T334: e 
+T335: e d b 
+T336: a c d e 
+T337: d 
+T338: d b 
+T339: d e a b c 
+T340: d 
+T341: e d c a b 
+T342: b a c e 
+T343: d e 
+T344: a c b d e 
+T345: b 
+T346: d c a e b 
+T347: e c d b a 
+T348: a d b c 
+T349: a d c b e 
+T350: b d c 
+T351: c b d a 
+T352: d b 
+T353: b c d 
+T354: c 
+T355: b a c 
+T356: c a b e 
+T357: b e c d a 
+T358: a d c e 
+T359: e 
+T360: b a 
+T361: c d e b a 
+T362: e d c b a 
+T363: b 
+T364: e c 
+T365: d c e b 
+T366: d e c 
+T367: a c d 
+T368: c 
+T369: d b 
+T370: b d 
+T371: d b a c 
+T372: d c 
+T373: d b a e c 
+T374: c a d b e 
+T375: b a d c 
+T376: a e b d c 
+T377: c e 
+T378: c a b 
+T379: a e 
+T380: e b d c a 
+T381: e 
+T382: e a 
+T383: e d b 
+T384: d a b c e 
+T385: b e c 
+T386: c e 
+T387: b a d c e 
+T388: b e 
+T389: e c b d 
+T390: c b a e d 
+T391: b c 
+T392: e c d b 
+T393: e c d b a 
+T394: c 
+T395: e b a c d 
+T396: e 
+T397: c d 
+T398: c a b 
+T399: d 
+T400: d b e c 
+T401: e b 
+T402: d b c a 
+T403: e c a 
+T404: c 
+T405: d c b a e 
+T406: c a e 
+T407: a d c 
+T408: a b d c e 
+T409: d a e 
+T410: d b a c 
+T411: e 
+T412: a b c d e 
+T413: b d e c a 
+T414: d c a b 
+T415: e c b a d 
+T416: b d e a c 
+T417: d b e 
+T418: c e 
+T419: d c e a b 
+T420: b e c d 
+T421: c a d b 
+T422: c d a b 
+T423: b d a c 
+T424: d 
+T425: e 
+T426: c d b a 
+T427: b e c 
+T428: b e d c 
+T429: d 
+T430: b d e 
+T431: d c 
+T432: b e 
+T433: c b d a e 
+T434: b d c a e 
+T435: a e 
+T436: c 
+T437: d b c e a 
+T438: a d e c 
+T439: a e d 
+T440: a b e 
+T441: d e 
+T442: d b 
+T443: a 
+T444: e d b a c 
+T445: d c e 
+T446: c e d 
+T447: a b d 
+T448: e c b 
+T449: a 
+T450: b d c e 
+T451: e c 
+T452: b c a 
+T453: b e 
+T454: e c b d a 
+T455: a b c 
+T456: a 
+T457: a d c e 
+T458: c e 
+T459: c d b a e 
+T460: b d e 
+T461: c a 
+T462: e c a b 
+T463: c e d a b 
+T464: a d c b e 
+T465: c d b a 
+T466: d 
+T467: b a e d c 
+T468: a b d e c 
+T469: b c 
+T470: b c a e 
+T471: c b d e a 
+T472: b 
+T473: b d c e a 
+T474: b d a c e 
+T475: d a b e 
+T476: d a e b c 
+T477: a e d 
+T478: e a c d b 
+T479: c a e d b 
+T480: d e b a 
+T481: d c e b 
+T482: b 
+T483: a d e b c 
+T484: d 
+T485: b a e 
+T486: e a 
+T487: e b 
+T488: d a c 
+T489: b e 
+T490: e c 
+T491: c e 
+T492: b d 
+T493: b d e 
+T494: b d e a 
+T495: a b d e c 
+T496: a d 
+T497: c 
+T498: b c d 
+T499: e a b c d 
+T500: d 
+T501: d b 
+T502: d a 
+T503: b 
+T504: d c b 
+T505: d b e 
+T506: d b e c a 
+T507: d 
+T508: d b e 
+T509: a c 
+T510: b a e 
+T511: d e b a 
+T512: c e 
+T513: c a 
+T514: d 
+T515: a d c 
+T516: e b a d 
+T517: b d e 
+T518: a d e 
+T519: b 
+T520: b d 
+T521: d a e 
+T522: a 
+T523: c e d b a 
+T524: e a c 
+T525: c 
+T526: b d a e 
+T527: c 
+T528: a c d e 
+T529: b e c 
+T530: d e b c a 
+T531: b d a e 
+T532: e b a 
+T533: a b d e c 
+T534: d a c e 
+T535: a d 
+T536: c 
+T537: b d e c a 
+T538: c e d b a 
+T539: b a e d c 
+T540: e c a 
+T541: e d a 
+T542: b a e 
+T543: e c a b d 
+T544: e 
+T545: d a e 
+T546: c 
+T547: b e d c 
+T548: c d a b e 
+T549: a c e d b 
+T550: c 
+T551: c d e 
+T552: a b 
+T553: d 
+T554: a e b 
+T555: e d b a 
+T556: d b 
+T557: c 
+T558: e c 
+T559: a d 
+T560: c a d 
+T561: d c a 
+T562: e 
+T563: e d a c b 
+T564: b c 
+T565: d b e c 
+T566: d a b e c 
+T567: d b 
+T568: d 
+T569: b c a d 
+T570: d c e 
+T571: d c e 
+T572: c 
+T573: a c e 
+T574: a e b 
+T575: c 
+T576: e c 
+T577: a c d 
+T578: c a b e d 
+T579: c b d e 
+T580: a e d 
+T581: e 
+T582: a d e 
+T583: d 
+T584: b a d 
+T585: e c a b 
+T586: c d b e 
+T587: c 
+T588: a 
+T589: e b 
+T590: b a e d 
+T591: b c a d 
+T592: b c a d e 
+T593: c e a b 
+T594: e b c d 
+T595: c e a 
+T596: d c a b 
+T597: c b a d 
+T598: a d e 
+T599: b 
+T600: d e 
+T601: c b d e 
+T602: d c e a 
+T603: b a c 
+T604: c a d 
+T605: e d a c b 
+T606: d 
+T607: a d c e b 
+T608: d 
+T609: e a b d c 
+T610: a b c e 
+T611: c d b a 
+T612: d 
+T613: b d a c 
+T614: c e 
+T615: a c b 
+T616: d e b c a 
+T617: d a b e 
+T618: e b d c a 
+T619: b d c e a 
+T620: c a e 
+T621: e 
+T622: e b 
+T623: c d 
+T624: b d e c 
+T625: c d e b 
+T626: c b d e a 
+T627: d a 
+T628: e a c d 
+T629: e c b 
+T630: d a e c b 
+T631: b c 
+T632: c d e a 
+T633: d b 
+T634: d b 
+T635: b c d 
+T636: a d 
+T637: a d c 
+T638: a d b 
+T639: e a c d 
+T640: e b 
+T641: c a d b e 
+T642: a d 
+T643: e d 
+T644: b c a 
+T645: d b e c 
+T646: e 
+T647: b 
+T648: a d b c 
+T649: a d e c 
+T650: d a e b 
+T651: b e a c 
+T652: a b e 
+T653: d a 
+T654: a 
+T655: d b a e 
+T656: c a 
+T657: e c d b 
+T658: b c e 
+T659: a b e 
+T660: c d a e 
+T661: a d c 
+T662: a 
+T663: c a e 
+T664: d c a b 
+T665: b a e d 
+T666: a b c 
+T667: d a b c 
+T668: e a 
+T669: b e d a 
+T670: b 
+T671: a 
+T672: b 
+T673: b c a 
+T674: b a e 
+T675: e d a c 
+T676: a 
+T677: c e 
+T678: c e 
+T679: c e d a 
+T680: d a b 
+T681: d c b 
+T682: e d b c 
+T683: a b d e 
+T684: c 
+T685: d e b 
+T686: a c e d b 
+T687: c a d b 
+T688: c b 
+T689: a b d e c 
+T690: e c 
+T691: b 
+T692: c 
+T693: e b d a c 
+T694: e d b c 
+T695: c a d 
+T696: e d 
+T697: a b e c 
+T698: b e a c d 
+T699: d a c e 
+T700: a e b c 
+T701: a b d c 
+T702: e c 
+T703: d e 
+T704: b d e c a 
+T705: b c d e a 
+T706: a c 
+T707: c 
+T708: b d 
+T709: c e b a 
+T710: a c e 
+T711: b d e 
+T712: c a b d e 
+T713: a 
+T714: d e b a c 
+T715: a e b d 
+T716: e d c b 
+T717: a e c 
+T718: b a d c e 
+T719: d b a 
+T720: b a e c d 
+T721: e 
+T722: d b c a e 
+T723: d a e 
+T724: d b a 
+T725: a c b 
+T726: c e b a d 
+T727: e b d 
+T728: c b d e 
+T729: e c b a 
+T730: e d 
+T731: c a d b e 
+T732: d 
+T733: a b d 
+T734: e c d 
+T735: c d b a 
+T736: c a 
+T737: e d 
+T738: e a c d b 
+T739: a b d e c 
+T740: c 
+T741: e a c 
+T742: b e c d 
+T743: d b 
+T744: d 
+T745: b 
+T746: d b a e c 
+T747: a e b c d 
+T748: c d 
+T749: c b d 
+T750: e b 
+T751: d b e c a 
+T752: d 
+T753: c b 
+T754: a e c d 
+T755: c b e 
+T756: d 
+T757: c a 
+T758: a b e c 
+T759: d 
+T760: d c 
+T761: c 
+T762: b d c e 
+T763: b 
+T764: a 
+T765: c 
+T766: d c e b a 
+T767: c b a 
+T768: d c b 
+T769: d b c a e 
+T770: b d a 
+T771: a d e c b 
+T772: b 
+T773: d b a e 
+T774: b c e 
+T775: d e c 
+T776: d b e 
+T777: a 
+T778: e c b 
+T779: d 
+T780: d a 
+T781: c a b e d 
+T782: e c a 
+T783: e b d a c 
+T784: c b e 
+T785: b a 
+T786: b 
+T787: a e 
+T788: c e a b 
+T789: b d 
+T790: e a c d b 
+T791: b e 
+T792: b a c 
+T793: d c e b 
+T794: a 
+T795: e a d c 
+T796: b d e c 
+T797: d a e b 
+T798: a d b 
+T799: d a e b 
+T800: a d b 
+T801: b a 
+T802: a c d e 
+T803: d c b e a 
+T804: e a 
+T805: a b d e 
+T806: a e 
+T807: c a b e d 
+T808: a e c b d 
+T809: c 
+T810: c b 
+T811: c e b d a 
+T812: e b 
+T813: a 
+T814: c a d b e 
+T815: b a d c 
+T816: e b a c d 
+T817: d a e b c 
+T818: a 
+T819: e b d c a 
+T820: c a b e d 
+T821: e 
+T822: a e d b 
+T823: b c e a d 
+T824: b c 
+T825: d b e a c 
+T826: d e b c 
+T827: e a d c 
+T828: d b a c 
+T829: e a b 
+T830: b d e c a 
+T831: b 
+T832: a d c b 
+T833: c 
+T834: d a c e b 
+T835: b a c 
+T836: a c b 
+T837: b 
+T838: e a c b d 
+T839: e c b a d 
+T840: c 
+T841: c a 
+T842: e a c 
+T843: b d 
+T844: d b a c e 
+T845: b d 
+T846: a d c 
+T847: e a d c b 
+T848: d e a c b 
+T849: a 
+T850: e d c a b 
+T851: a b e 
+T852: e d a 
+T853: b 
+T854: e 
+T855: a 
+T856: d 
+T857: a b e 
+T858: a 
+T859: a b c 
+T860: a e d b c 
+T861: d a e b 
+T862: c b a e 
+T863: d e b a 
+T864: e a b 
+T865: d a e c b 
+T866: e 
+T867: c b d e a 
+T868: d b c e a 
+T869: a 
+T870: d a b e c 
+T871: b 
+T872: c 
+T873: c d 
+T874: a e b c 
+T875: e d a 
+T876: c b e a d 
+T877: d e b a c 
+T878: b 
+T879: b c a d 
+T880: e 
+T881: d 
+T882: a d e 
+T883: e a 
+T884: b a c e 
+T885: e b a d 
+T886: b e 
+T887: c 
+T888: d b a e 
+T889: d 
+T890: c e 
+T891: c 
+T892: d e c 
+T893: e a c 
+T894: d a c b e 
+T895: c e 
+T896: a 
+T897: a e 
+T898: b c a d e 
+T899: b a e d c 
+T900: b d c 
+T901: c b 
+T902: c 
+T903: d 
+T904: c d e a 
+T905: d c b 
+T906: d c a e b 
+T907: e c 
+T908: e c 
+T909: a c e d 
+T910: a b d c e 
+T911: c e 
+T912: c e d b 
+T913: d e c 
+T914: e b a d 
+T915: d e b a 
+T916: e c b 
+T917: e 
+T918: e a 
+T919: b c e 
+T920: d b 
+T921: e d a 
+T922: d b 
+T923: a d b c 
+T924: a e d 
+T925: d b e a c 
+T926: e 
+T927: e c d a 
+T928: c e a 
+T929: e 
+T930: e d 
+T931: c e b 
+T932: b d a c 
+T933: b 
+T934: c a b 
+T935: e 
+T936: d 
+T937: d a b 
+T938: d b c e 
+T939: a d b e 
+T940: a b e c 
+T941: a c 
+T942: a b c e d 
+T943: d c e 
+T944: b e 
+T945: b 
+T946: c e a 
+T947: c d b e a 
+T948: d 
+T949: d e c b a 
+T950: e b 
+T951: b 
+T952: a 
+T953: e 
+T954: e d c 
+T955: c b 
+T956: b c d 
+T957: e 
+T958: e c a b 
+T959: e 
+T960: a c b 
+T961: c d b 
+T962: d 
+T963: b 
+T964: b e 
+T965: e a d c b 
+T966: d c 
+T967: d a c b e 
+T968: d b e c a 
+T969: e a b c d 
+T970: e d b a c 
+T971: b d e c 
+T972: c b a d e 
+T973: c d 
+T974: a b d 
+T975: a e 
+T976: b c d e 
+T977: c d b e a 
+T978: a e c d b 
+T979: b d e c a 
+T980: e a d b 
+T981: d 
+T982: b 
+T983: a d b e 
+T984: b 
+T985: a 
+T986: e b c 
+T987: b e c d 
+T988: a d e b c 
+T989: b c e d 
+T990: c d a b e 
+T991: c b 
+T992: d 
+T993: a d 
+T994: e d 
+T995: e d c 
+T996: d e b c 
+T997: a e c d b 
+T998: d a 
+T999: b 
+T1000: e 
+T1001: e 
+T1002: c b e a d 
+T1003: c e b a 
+T1004: e d c a b 
+T1005: c a d e 
+T1006: c a e d 
+T1007: d 
+T1008: e 
+T1009: a c b 
+T1010: b c e a 
+T1011: a 
+T1012: c b 
+T1013: c 
+T1014: c d 
+T1015: c a b e d 
+T1016: e a c b d 
+T1017: b a 
+T1018: b e c 
+T1019: b 
+T1020: c 
+T1021: d c a e b 
+T1022: d c 
+T1023: e b d a c 
+T1024: e d c 
+T1025: a b 
+T1026: b e d 
+T1027: d e c 
+T1028: c a d b e 
+T1029: b d e c a 
+T1030: e 
+T1031: a d c 
+T1032: b a c 
+T1033: e 
+T1034: d 
+T1035: e a b c d 
+T1036: b e 
+T1037: b e 
+T1038: e 
+T1039: d c 
+T1040: e b 
+T1041: a e b c 
+T1042: a d c e b 
+T1043: e d c a b 
+T1044: c d a b e 
+T1045: b d c e a 
+T1046: e d c 
+T1047: b 
+T1048: b d a 
+T1049: d c a e b 
+T1050: e b a d c 
+T1051: e d 
+T1052: e 
+T1053: e a 
+T1054: d a c 
+T1055: a 
+T1056: a d 
+T1057: b e a d c 
+T1058: c b d e 
+T1059: e a b 
+T1060: e d 
+T1061: b 
+T1062: a e 
+T1063: c 
+T1064: d a b 
+T1065: d b e 
+T1066: e b d c a 
+T1067: c a b 
+T1068: b a c 
+T1069: a e c b d 
+T1070: e d a b 
+T1071: b a c 
+T1072: d 
+T1073: e b d c 
+T1074: c b a d 
+T1075: a c d e 
+T1076: e b 
+T1077: c d e b a 
+T1078: b e 
+T1079: e d c a b 
+T1080: e c d 
+T1081: d 
+T1082: a d c 
+T1083: e 
+T1084: a 
+T1085: c e 
+T1086: e d a b 
+T1087: a d b c e 
+T1088: e c 
+T1089: d b c 
+T1090: a b c 
+T1091: d b a 
+T1092: e a 
+T1093: a b e c d 
+T1094: a 
+T1095: a b e c d 
+T1096: a d c e 
+T1097: c 
+T1098: b c 
+T1099: e 
+T1100: a d e 
+T1101: a d c e 
+T1102: e a c b d 
+T1103: b e d 
+T1104: c a e d 
+T1105: d 
+T1106: b e c d 
+T1107: c d 
+T1108: c d 
+T1109: b a e 
+T1110: b a d 
+T1111: b a c d 
+T1112: a e b c d 
+T1113: e c d a b 
+T1114: e c d b 
+T1115: a e c 
+T1116: e 
+T1117: a b 
+T1118: c 
+T1119: a d 
+T1120: c 
+T1121: b 
+T1122: e a b 
+T1123: e a c 
+T1124: c 
+T1125: b 
+T1126: e a b 
+T1127: e c b a 
+T1128: d c a b e 
+T1129: c e 
+T1130: d b e c 
+T1131: d b e c a 
+T1132: e 
+T1133: d c e a b 
+T1134: c 
+T1135: d a e b 
+T1136: e 
+T1137: b e a c d 
+T1138: e b d c 
+T1139: a b d c 
+T1140: a c e b 
+T1141: b a 
+T1142: c d e 
+T1143: b d a 
+T1144: e c a d b 
+T1145: b e a c d 
+T1146: d b c e a 
+T1147: d c e b a 
+T1148: e a b 
+T1149: c d a e b 
+T1150: d 
+T1151: d a b e c 
+T1152: b 
+T1153: b a e d c 
+T1154: c 
+T1155: c b a 
+T1156: a d b 
+T1157: a d c b e 
+T1158: e c b d 
+T1159: a e d b c 
+T1160: e d b c a 
+T1161: a b d c 
+T1162: c b e a d 
+T1163: a d 
+T1164: c e a d 
+T1165: a b 
+T1166: a e c 
+T1167: e a b d c 
+T1168: a e c d b 
+T1169: d b e 
+T1170: c e 
+T1171: b a d c e 
+T1172: d a b e 
+T1173: a d c 
+T1174: c a b d e 
+T1175: b c a d 
+T1176: d b a 
+T1177: c b d a e 
+T1178: b a d 
+T1179: c e d 
+T1180: e d c b 
+T1181: d c 
+T1182: b d a c 
+T1183: c d 
+T1184: d a b c 
+T1185: e d b c 
+T1186: a 
+T1187: b a e 
+T1188: d c 
+T1189: b a e 
+T1190: a 
+T1191: b 
+T1192: a d b e 
+T1193: b d a e c 
+T1194: c 
+T1195: b e d 
+T1196: e a d b c 
+T1197: b c a e d 
+T1198: e d a 
+T1199: b a 
+T1200: a b 
+T1201: b d c 
+T1202: d c 
+T1203: a e c 
+T1204: a b c d e 
+T1205: a e 
+T1206: e a c b 
+T1207: e a c 
+T1208: c d e a b 
+T1209: c a 
+T1210: c b d e 
+T1211: d b 
+T1212: a c d e b 
+T1213: e 
+T1214: c e 
+T1215: b a e d c 
+T1216: d e 
+T1217: b d c a e 
+T1218: e d a c b 
+T1219: d 
+T1220: b c e d 
+T1221: a e b d c 
+T1222: a 
+T1223: d e c b a 
+T1224: b d 
+T1225: e c a 
+T1226: b c 
+T1227: c e 
+T1228: c a e 
+T1229: b d c a e 
+T1230: e a b 
+T1231: c e a b d 
+T1232: a c b e d 
+T1233: e a c 
+T1234: d b 
+T1235: c e 
+T1236: e a c b 
+T1237: b a 
+T1238: a 
+T1239: a c 
+T1240: a 
+T1241: a 
+T1242: c b e a 
+T1243: c d a e 
+T1244: c e 
+T1245: e a b d c 
+T1246: c a b d e 
+T1247: c 
+T1248: a b c 
+T1249: a c e d b 
+T1250: b d e c a 
+T1251: d a e 
+T1252: e 
+T1253: c e d 
+T1254: b c 
+T1255: b c a d e 
+T1256: c e 
+T1257: d b a c 
+T1258: b e a d c 
+T1259: c a e d 
+T1260: d b a 
+T1261: b c a e d 
+T1262: a c e d b 
+T1263: c a b 
+T1264: d b a e 
+T1265: d 
+T1266: c d 
+T1267: a e d b c 
+T1268: c 
+T1269: a b d c e 
+T1270: e c a 
+T1271: e a b d 
+T1272: b d e a 
+T1273: a 
+T1274: c b a 
+T1275: e d c b 
+T1276: d a 
+T1277: d a e c b 
+T1278: e a d 
+T1279: b c a e 
+T1280: c a b e 
+T1281: a e c d b 
+T1282: b a e c 
+T1283: b e a 
+T1284: a 
+T1285: a b 
+T1286: b d e c 
+T1287: c a b d 
+T1288: e c b 
+T1289: b a e c 
+T1290: a e 
+T1291: e 
+T1292: a b 
+T1293: d a e b c 
+T1294: b d a 
+T1295: a c b d 
+T1296: c e d b a 
+T1297: d a b e c 
+T1298: a 
+T1299: b c d 
+T1300: b d e a c 
+T1301: d e a b c 
+T1302: a c b 
+T1303: c a e b 
+T1304: d a c b e 
+T1305: e b 
+T1306: b 
+T1307: d c a 
+T1308: b e c a 
+T1309: b e 
+T1310: d c b e 
+T1311: c 
+T1312: b c d 
+T1313: d b e a c 
+T1314: e c b a 
+T1315: a 
+T1316: c b e 
+T1317: e a 
+T1318: c d 
+T1319: c d b 
+T1320: c a b d 
+T1321: d b e a 
+T1322: b d 
+T1323: d e 
+T1324: e a 
+T1325: d b a e c 
+T1326: c b d a e 
+T1327: a c e 
+T1328: a e d c 
+T1329: a d b 
+T1330: c a d b 
+T1331: e c 
+T1332: e b a 
+T1333: e c a 
+T1334: d c a b e 
+T1335: a 
+T1336: a e d c b 
+T1337: d b 
+T1338: b 
+T1339: e b 
+T1340: c a 
+T1341: b 
+T1342: a b e c 
+T1343: d 
+T1344: a e 
+T1345: e b c d a 
+T1346: a b 
+T1347: e d a c 
+T1348: e a c b d 
+T1349: b a e c 
+T1350: d b 
+T1351: d 
+T1352: b 
+T1353: c e a d b 
+T1354: d e 
+T1355: c d e b 
+T1356: b d e 
+T1357: b a 
+T1358: e c d b 
+T1359: e a b c d 
+T1360: c a e d b 
+T1361: e 
+T1362: c 
+T1363: d e c b 
+T1364: a e c b 
+T1365: b 
+T1366: b e c 
+T1367: b 
+T1368: e d c 
+T1369: c 
+T1370: d a e c 
+T1371: c e b a 
+T1372: c 
+T1373: a d c b 
+T1374: b c 
+T1375: b a e c d 
+T1376: b e a c d 
+T1377: b e a c 
+T1378: e c a 
+T1379: c e b d a 
+T1380: d a 
+T1381: c d b e 
+T1382: e b c 
+T1383: e 
+T1384: b d 
+T1385: d e 
+T1386: b d 
+T1387: a 
+T1388: c b 
+T1389: a b d e c 
+T1390: b c a e d 
+T1391: e a b c 
+T1392: b a 
+T1393: d a c e 
+T1394: a d 
+T1395: a 
+T1396: c b a e d 
+T1397: e 
+T1398: b 
+T1399: c 
+T1400: a 
+T1401: d a 
+T1402: e a c d b 
+T1403: b e d 
+T1404: c e d b a 
+T1405: a d c 
+T1406: e b 
+T1407: c a d b e 
+T1408: b e c d a 
+T1409: d 
+T1410: d b e 
+T1411: b a e c 
+T1412: a 
+T1413: b d a 
+T1414: b d a e 
+T1415: a b c e 
+T1416: e a b 
+T1417: c e a 
+T1418: b e c a d 
+T1419: a e 
+T1420: d a c b 
+T1421: e b c 
+T1422: a d b e c 
+T1423: a 
+T1424: d 
+T1425: d b e 
+T1426: b e c 
+T1427: e c a d 
+T1428: b d c e a 
+T1429: d c e b 
+T1430: d 
+T1431: c a d b e 
+T1432: a b 
+T1433: a c b d 
+T1434: e c 
+T1435: e b c 
+T1436: e c 
+T1437: d c a 
+T1438: e a 
+T1439: d b a 
+T1440: d 
+T1441: e 
+T1442: a c 
+T1443: c d a 
+T1444: d b c 
+T1445: b c 
+T1446: b 
+T1447: d c 
+T1448: d c a 
+T1449: c d a b 
+T1450: a 
+T1451: d a c b 
+T1452: e a b c d 
+T1453: a c d 
+T1454: e d a c 
+T1455: a b c d 
+T1456: d c e b a 
+T1457: e c d 
+T1458: e a b c d 
+T1459: b 
+T1460: a e 
+T1461: a e d b c 
+T1462: c d 
+T1463: b d 
+T1464: d b 
+T1465: c e 
+T1466: d a 
+T1467: a b e c d 
+T1468: d 
+T1469: c d a b 
+T1470: b d e c 
+T1471: a d b e c 
+T1472: b d a 
+T1473: c b d 
+T1474: c d 
+T1475: d 
+T1476: c a 
+T1477: c 
+T1478: c 
+T1479: b 
+T1480: b a 
+T1481: d e a c 
+T1482: c b a d e 
+T1483: d c b 
+T1484: e b 
+T1485: c 
+T1486: d c a b 
+T1487: b 
+T1488: e a c d 
+T1489: d c 
+T1490: d a 
+T1491: a e d b 
+T1492: d b 
+T1493: e c 
+T1494: c b d e a 
+T1495: b e 
+T1496: e b a c d 
+T1497: c 
+T1498: b a e 
+T1499: e 
+T1500: c b e a d 
+T1501: d a e c b 
+T1502: d c b 
+T1503: a b e d c 
+T1504: b a 
+T1505: e a d b 
+T1506: e c a 
+T1507: b e c d a 
+T1508: d b 
+T1509: b e 
+T1510: b e 
+T1511: d 
+T1512: e d c a b 
+T1513: d 
+T1514: a e b c d 
+T1515: d b a 
+T1516: c b 
+T1517: a d c e b 
+T1518: c e d b 
+T1519: c b 
+T1520: b d 
+T1521: e 
+T1522: d a 
+T1523: e b c d a 
+T1524: d c a b e 
+T1525: c b 
+T1526: d b 
+T1527: b a c 
+T1528: e a 
+T1529: b c a d e 
+T1530: d a e c b 
+T1531: e d 
+T1532: d 
+T1533: a c b e 
+T1534: c b e 
+T1535: d c b a 
+T1536: a e c b d 
+T1537: e d c 
+T1538: e d 
+T1539: d 
+T1540: d b a 
+T1541: d a e c b 
+T1542: d c a e b 
+T1543: d a 
+T1544: d 
+T1545: e c 
+T1546: c b d 
+T1547: c 
+T1548: e c d a 
+T1549: e 
+T1550: c 
+T1551: d a e c 
+T1552: a c d e b 
+T1553: c a b 
+T1554: c d e 
+T1555: c a d e 
+T1556: b a d 
+T1557: a e 
+T1558: a b d e 
+T1559: a d c e 
+T1560: e a 
+T1561: e a 
+T1562: d 
+T1563: b c e 
+T1564: e c d a b 
+T1565: c b a d e 
+T1566: a b c 
+T1567: a 
+T1568: d c b a 
+T1569: b d e c 
+T1570: c a d e 
+T1571: d e a b c 
+T1572: b c a d e 
+T1573: a e d c b 
+T1574: a e d 
+T1575: a b 
+T1576: e a c b 
+T1577: b d c e 
+T1578: e 
+T1579: b d 
+T1580: a c e b 
+T1581: e 
+T1582: c e 
+T1583: c d b e a 
+T1584: c b e 
+T1585: e a d c b 
+T1586: b 
+T1587: c 
+T1588: d 
+T1589: b a e c 
+T1590: c e a 
+T1591: c b 
+T1592: e c d b 
+T1593: d b e c a 
+T1594: b d e a 
+T1595: c 
+T1596: e d 
+T1597: a d e c b 
+T1598: a b e 
+T1599: b a d c 
+T1600: e a b 
+T1601: c a b e 
+T1602: d b c 
+T1603: d 
+T1604: e a b c d 
+T1605: a d 
+T1606: e b 
+T1607: e d 
+T1608: d b a 
+T1609: c d 
+T1610: b 
+T1611: c a b 
+T1612: e b c d a 
+T1613: b 
+T1614: e 
+T1615: b 
+T1616: a e c 
+T1617: b e d 
+T1618: a c d b e 
+T1619: d e a 
+T1620: c a e d b 
+T1621: c a 
+T1622: a b d c 
+T1623: a c e b 
+T1624: b e 
+T1625: c d b a e 
+T1626: e b c a d 
+T1627: a 
+T1628: e c b 
+T1629: e a 
+T1630: b d c a e 
+T1631: d c e 
+T1632: c a b e 
+T1633: a b c d e 
+T1634: b c e d 
+T1635: d a e b c 
+T1636: b a 
+T1637: b d c e 
+T1638: c b 
+T1639: e a c d b 
+T1640: a d 
+T1641: d a b c 
+T1642: c e a 
+T1643: b d 
+T1644: e d 
+T1645: e a b 
+T1646: d b a c e 
+T1647: e 
+T1648: a d b c 
+T1649: e d 
+T1650: c a d b e 
+T1651: c d e a 
+T1652: d c b e 
+T1653: d e a c 
+T1654: e 
+T1655: d b a 
+T1656: e b 
+T1657: c 
+T1658: d a e c 
+T1659: e b c 
+T1660: b e d c 
+T1661: c d b a 
+T1662: b c e a d 
+T1663: a b d c e 
+T1664: d b 
+T1665: a b 
+T1666: e a b d 
+T1667: e d b 
+T1668: a e d b c 
+T1669: b a 
+T1670: c a 
+T1671: b c e a d 
+T1672: c 
+T1673: a 
+T1674: e d a 
+T1675: a e d 
+T1676: b e 
+T1677: d c a 
+T1678: d c b e a 
+T1679: b e c 
+T1680: d c 
+T1681: c e 
+T1682: e 
+T1683: d c a b e 
+T1684: a c d 
+T1685: d a b e c 
+T1686: d e 
+T1687: c d b e 
+T1688: b a e c 
+T1689: d 
+T1690: e d 
+T1691: c a 
+T1692: e 
+T1693: b e d 
+T1694: c e d 
+T1695: a 
+T1696: b e a c 
+T1697: c b a e 
+T1698: e 
+T1699: a c b d 
+T1700: a d 
+T1701: e d c 
+T1702: d a c b e 
+T1703: d e a b 
+T1704: a 
+T1705: e 
+T1706: b e c d a 
+T1707: d c b 
+T1708: e b d c 
+T1709: a d c e b 
+T1710: d b 
+T1711: d b c e 
+T1712: c 
+T1713: d a b c 
+T1714: a e b 
+T1715: a b e c d 
+T1716: a c e b 
+T1717: a e b d c 
+T1718: d b a e c 
+T1719: c e b d a 
+T1720: e a 
+T1721: a e b 
+T1722: a c 
+T1723: b e a 
+T1724: b a 
+T1725: e a b 
+T1726: b a c d 
+T1727: d a b e 
+T1728: e a b d 
+T1729: d a e c 
+T1730: a c 
+T1731: d e 
+T1732: d 
+T1733: a e 
+T1734: a b 
+T1735: a d 
+T1736: c a d b 
+T1737: d b c 
+T1738: d b a e 
+T1739: a 
+T1740: c 
+T1741: d 
+T1742: a c e b 
+T1743: d e a b 
+T1744: d a e c b 
+T1745: a d 
+T1746: b a d e 
+T1747: e c b a d 
+T1748: b d 
+T1749: a c 
+T1750: d 
+T1751: d c b 
+T1752: e d c b a 
+T1753: c d b a 
+T1754: a c e 
+T1755: b a d 
+T1756: d e b c a 
+T1757: c 
+T1758: d b a 
+T1759: c 
+T1760: c d e 
+T1761: b 
+T1762: a b d c 
+T1763: d c b a e 
+T1764: b 
+T1765: b d 
+T1766: c e a b 
+T1767: a e 
+T1768: b 
+T1769: e 
+T1770: b 
+T1771: a c e d 
+T1772: d c e b a 
+T1773: d b 
+T1774: e c d 
+T1775: a e d c 
+T1776: b a d e c 
+T1777: b d c e 
+T1778: d c a e b 
+T1779: c b d 
+T1780: d e c b 
+T1781: d b e 
+T1782: d c a b e 
+T1783: d b c a 
+T1784: b c d a 
+T1785: a e b 
+T1786: c a e b 
+T1787: e d 
+T1788: e 
+T1789: e b d c 
+T1790: a d e 
+T1791: e c d a b 
+T1792: e b c a d 
+T1793: d c b e 
+T1794: e a b d c 
+T1795: a e b 
+T1796: b d a 
+T1797: b 
+T1798: a c 
+T1799: e b d a 
+T1800: a e c d 
+T1801: d a c b e 
+T1802: e c b d a 
+T1803: b a e d 
+T1804: b c e a d 
+T1805: b c e a d 
+T1806: b e a d 
+T1807: a c e d b 
+T1808: a b 
+T1809: c e 
+T1810: a 
+T1811: e c d b 
+T1812: a 
+T1813: a c d 
+T1814: d a 
+T1815: c a b e d 
+T1816: e c d a b 
+T1817: e d a b 
+T1818: e a d b c 
+T1819: a d e c b 
+T1820: a d c 
+T1821: b a e c 
+T1822: e 
+T1823: a 
+T1824: d a c 
+T1825: b a d c e 
+T1826: a e c 
+T1827: c 
+T1828: a c b 
+T1829: e d a b c 
+T1830: c d e 
+T1831: a 
+T1832: b d 
+T1833: b c d e 
+T1834: b d e 
+T1835: d a c e b 
+T1836: b a d 
+T1837: c a e d 
+T1838: d e b a 
+T1839: b e a c d 
+T1840: d b a 
+T1841: d a c b e 
+T1842: c 
+T1843: e 
+T1844: c e d a 
+T1845: b 
+T1846: d a 
+T1847: e d a c 
+T1848: e a d 
+T1849: c b d e 
+T1850: c a d e 
+T1851: b c 
+T1852: d e 
+T1853: c 
+T1854: b 
+T1855: b a d e c 
+T1856: d a b 
+T1857: a e 
+T1858: e 
+T1859: c d a 
+T1860: e c a d b 
+T1861: c d a e 
+T1862: b a 
+T1863: c 
+T1864: e b d 
+T1865: c a 
+T1866: b a e c 
+T1867: e 
+T1868: a c 
+T1869: b d c 
+T1870: b e 
+T1871: c b d a 
+T1872: b 
+T1873: d e b c a 
+T1874: b a e d 
+T1875: e c d a 
+T1876: c b e d 
+T1877: d 
+T1878: b 
+T1879: b a c e 
+T1880: a e 
+T1881: c b a d 
+T1882: c 
+T1883: a 
+T1884: a d 
+T1885: b 
+T1886: c a 
+T1887: e 
+T1888: a d c e 
+T1889: e a 
+T1890: c 
+T1891: b e c a 
+T1892: e c 
+T1893: b e c 
+T1894: d b c a e 
+T1895: d e c 
+T1896: c e a b 
+T1897: b e a d 
+T1898: e d 
+T1899: a 
+T1900: b e a c 
+T1901: c d e b a 
+T1902: d 
+T1903: c a 
+T1904: d b e c 
+T1905: d c b e 
+T1906: b 
+T1907: d b e a 
+T1908: d 
+T1909: a d b e 
+T1910: c d 
+T1911: a e d b 
+T1912: c a 
+T1913: a e b d c 
+T1914: c e a b 
+T1915: d c b a 
+T1916: e b a 
+T1917: e 
+T1918: d e b c a 
+T1919: c e 
+T1920: b d e 
+T1921: d e b c a 
+T1922: d a 
+T1923: e 
+T1924: b e d 
+T1925: b d 
+T1926: e c b 
+T1927: e a c b 
+T1928: c 
+T1929: c a b d 
+T1930: b a c 
+T1931: c a 
+T1932: a c b e d 
+T1933: d c b 
+T1934: a c 
+T1935: c b a e 
+T1936: b d 
+T1937: d b 
+T1938: c a b 
+T1939: a e 
+T1940: d e c a b 
+T1941: b d a 
+T1942: e a b c d 
+T1943: b d e a c 
+T1944: a e d c 
+T1945: d 
+T1946: b d e 
+T1947: b d c a 
+T1948: b 
+T1949: d a c 
+T1950: d a e b 
+T1951: d b c a e 
+T1952: c 
+T1953: b d c 
+T1954: c e b a 
+T1955: e b 
+T1956: c 
+T1957: b a 
+T1958: a c e b 
+T1959: a d e 
+T1960: b d 
+T1961: e b 
+T1962: b 
+T1963: a e 
+T1964: b e d 
+T1965: e 
+T1966: a b e d 
+T1967: a e c 
+T1968: d e c 
+T1969: b a 
+T1970: d e 
+T1971: c a d b e 
+T1972: d b e c a 
+T1973: b e d c 
+T1974: e a b 
+T1975: c a d b e 
+T1976: c a 
+T1977: b e c 
+T1978: a b d e 
+T1979: b d 
+T1980: d a b 
+T1981: b a 
+T1982: e a b 
+T1983: d a 
+T1984: b e d a c 
+T1985: d a b e 
+T1986: d a c b e 
+T1987: c e a b 
+T1988: d c e 
+T1989: a 
+T1990: e a d c 
+T1991: d 
+T1992: a d c e b 
+T1993: e 
+T1994: b c 
+T1995: a d e b 
+T1996: e 
+T1997: d e 
+T1998: d 
+T1999: a 
+T2000: d c 
+T2001: b d 
+T2002: b e d 
+T2003: a d c e b 
+T2004: c a e 
+T2005: e b d a 
+T2006: a 
+T2007: d a b c e 
+T2008: c e 
+T2009: b 
+T2010: a 
+T2011: d 
+T2012: b c d a 
+T2013: a c b e 
+T2014: c e 
+T2015: d 
+T2016: d a 
+T2017: c b d a e 
+T2018: c d e 
+T2019: a e c 
+T2020: e d 
+T2021: c a d 
+T2022: e b c d 
+T2023: e c 
+T2024: a 
+T2025: d e a b 
+T2026: e a 
+T2027: c 
+T2028: c d e 
+T2029: c d e 
+T2030: e b 
+T2031: a c 
+T2032: c e a 
+T2033: a d c b 
+T2034: c a b e d 
+T2035: a b c d e 
+T2036: e c d 
+T2037: a b 
+T2038: e 
+T2039: a 
+T2040: d b e 
+T2041: c b e d 
+T2042: a b c d e 
+T2043: a 
+T2044: b d c 
+T2045: e 
+T2046: e 
+T2047: d e a b 
+T2048: e c a 
+T2049: b 
+T2050: e c a b d 
+T2051: a d b c 
+T2052: c 
+T2053: a c e d 
+T2054: a e 
+T2055: a c d 
+T2056: d c b 
+T2057: c e a b 
+T2058: d b e a 
+T2059: d a e b 
+T2060: c a e d 
+T2061: e a 
+T2062: c 
+T2063: d c e b 
+T2064: b a e d c 
+T2065: e a c d b 
+T2066: a 
+T2067: a 
+T2068: b e d c a 
+T2069: c a 
+T2070: e a 
+T2071: a c b e d 
+T2072: d 
+T2073: a b e 
+T2074: c b e 
+T2075: a d c 
+T2076: d c e a 
+T2077: c e d a 
+T2078: d e 
+T2079: a c 
+T2080: c d b 
+T2081: b d e 
+T2082: c b 
+T2083: c d e a 
+T2084: e b c 
+T2085: d 
+T2086: d 
+T2087: d b e c a 
+T2088: c a b e d 
+T2089: c a b d 
+T2090: c a b 
+T2091: c e b 
+T2092: c 
+T2093: e b a c d 
+T2094: d a 
+T2095: e a 
+T2096: a b e d 
+T2097: c d e a b 
+T2098: e d b a c 
+T2099: d c a e 
+T2100: b e 
+T2101: c a b d 
+T2102: a c e d 
+T2103: a b d 
+T2104: d c 
+T2105: c a 
+T2106: b c a 
+T2107: d a b 
+T2108: c e 
+T2109: b d e a 
+T2110: b 
+T2111: b d a 
+T2112: c a 
+T2113: a 
+T2114: c a 
+T2115: a c b e d 
+T2116: d e a 
+T2117: c b d e a 
+T2118: e d c a b 
+T2119: e b 
+T2120: e d 
+T2121: e a c d b 
+T2122: a d c e b 
+T2123: c 
+T2124: d e 
+T2125: a b d e 
+T2126: a 
+T2127: b e 
+T2128: d e c a 
+T2129: c b e d 
+T2130: e 
+T2131: a b e d c 
+T2132: e d 
+T2133: c 
+T2134: b c 
+T2135: c a b e d 
+T2136: c d e a 
+T2137: d c e 
+T2138: d b c 
+T2139: b a c 
+T2140: d c e b a 
+T2141: b e c 
+T2142: a b 
+T2143: e 
+T2144: b c e d a 
+T2145: b c a 
+T2146: c 
+T2147: a c d 
+T2148: a d c 
+T2149: c b e 
+T2150: c b 
+T2151: e d a c 
+T2152: e d a 
+T2153: e d b a c 
+T2154: e d 
+T2155: c e b 
+T2156: e d b a c 
+T2157: e b c 
+T2158: e 
+T2159: c e b d 
+T2160: b a c e d 
+T2161: e b 
+T2162: d b e a 
+T2163: e c d a 
+T2164: b e d a c 
+T2165: b e a d c 
+T2166: b c d 
+T2167: e a b c 
+T2168: d a e b 
+T2169: a b d 
+T2170: e c d b a 
+T2171: c b d a 
+T2172: a b e 
+T2173: b c d 
+T2174: d a e b 
+T2175: d e a 
+T2176: c b e a 
+T2177: b e d c a 
+T2178: c a b 
+T2179: c d a e 
+T2180: d 
+T2181: c d a e 
+T2182: a b d 
+T2183: b 
+T2184: e c d a b 
+T2185: b a e d 
+T2186: b d c e 
+T2187: d 
+T2188: e 
+T2189: d 
+T2190: b d a e 
+T2191: b e c 
+T2192: b a e d c 
+T2193: c d b e 
+T2194: d e b 
+T2195: d b a e c 
+T2196: a c d e 
+T2197: d 
+T2198: b c e a 
+T2199: d a 
+T2200: e b 
+T2201: a c b e 
+T2202: e 
+T2203: d c e a 
+T2204: c 
+T2205: a 
+T2206: e a c d b 
+T2207: b 
+T2208: a c 
+T2209: a b 
+T2210: d a c 
+T2211: d 
+T2212: e b d a c 
+T2213: d b 
+T2214: e a b c d 
+T2215: b c e a d 
+T2216: d b e 
+T2217: a 
+T2218: d b c a e 
+T2219: c b 
+T2220: b a 
+T2221: c e a d 
+T2222: d a e b c 
+T2223: c b d a e 
+T2224: a b 
+T2225: d e 
+T2226: e a d 
+T2227: b a c d 
+T2228: e c b a 
+T2229: e b 
+T2230: b a d c 
+T2231: a c b d e 
+T2232: e c b 
+T2233: e c d b 
+T2234: d a e 
+T2235: d c b e a 
+T2236: e b a 
+T2237: e a b d 
+T2238: c b e 
+T2239: d e b a c 
+T2240: b a e d 
+T2241: c 
+T2242: e 
+T2243: c b d a e 
+T2244: d 
+T2245: d 
+T2246: c 
+T2247: b e a c d 
+T2248: e c d 
+T2249: a b 
+T2250: a c 
+T2251: b e d 
+T2252: a c b 
+T2253: d 
+T2254: d b 
+T2255: a b c d e 
+T2256: b d a c e 
+T2257: a 
+T2258: c d b a 
+T2259: c a e b d 
+T2260: b a d e c 
+T2261: b c a 
+T2262: d a e c 
+T2263: e b d a c 
+T2264: a e b 
+T2265: d a b 
+T2266: e b a 
+T2267: a b e d c 
+T2268: c e 
+T2269: c 
+T2270: e 
+T2271: c a 
+T2272: a d c e b 
+T2273: a 
+T2274: a e b d 
+T2275: d 
+T2276: a d 
+T2277: b c d 
+T2278: c b d a 
+T2279: d b 
+T2280: a e c d b 
+T2281: d a 
+T2282: d a b c e 
+T2283: b 
+T2284: e b c d a 
+T2285: e d a 
+T2286: e b 
+T2287: d e c b 
+T2288: d c 
+T2289: c d b 
+T2290: d a 
+T2291: e b a d c 
+T2292: d b e a c 
+T2293: d 
+T2294: b c 
+T2295: c a e b 
+T2296: d b a e 
+T2297: e 
+T2298: e b c d 
+T2299: c d a 
+T2300: d a b c e 
+T2301: c d b 
+T2302: a c e 
+T2303: b 
+T2304: c e a b d 
+T2305: a c 
+T2306: a e 
+T2307: b c e a 
+T2308: d c a 
+T2309: c e a d 
+T2310: c b 
+T2311: c 
+T2312: e d 
+T2313: c b 
+T2314: c 
+T2315: b a c d e 
+T2316: c d e a 
+T2317: c d 
+T2318: b 
+T2319: a e b 
+T2320: d a 
+T2321: e b a c d 
+T2322: c 
+T2323: d a b 
+T2324: d c a b e 
+T2325: b d 
+T2326: c b d a 
+T2327: e b 
+T2328: d e 
+T2329: d a e 
+T2330: d a b c e 
+T2331: e 
+T2332: a c d b 
+T2333: d a e b 
+T2334: e a d c 
+T2335: c d a b e 
+T2336: c e d a 
+T2337: d b c a e 
+T2338: a 
+T2339: d e a c b 
+T2340: c a 
+T2341: d c e b 
+T2342: e d a 
+T2343: b c 
+T2344: c b 
+T2345: c a e 
+T2346: c 
+T2347: a b 
+T2348: a 
+T2349: e a b d c 
+T2350: b a d c e 
+T2351: b c e a 
+T2352: e d b c 
+T2353: a 
+T2354: a b d 
+T2355: a c 
+T2356: d c e b 
+T2357: a b d e c 
+T2358: d e b c a 
+T2359: b 
+T2360: b c a e 
+T2361: a c e b d 
+T2362: b d e c 
+T2363: b a 
+T2364: e d c b a 
+T2365: b 
+T2366: a e d 
+T2367: c 
+T2368: b a 
+T2369: e 
+T2370: a b e 
+T2371: b e c 
+T2372: a c d e 
+T2373: b d e a 
+T2374: e d 
+T2375: e c 
+T2376: b 
+T2377: c a d e 
+T2378: a b d 
+T2379: e b c a 
+T2380: a e c b 
+T2381: a 
+T2382: d e c a b 
+T2383: d a b c 
+T2384: e d b c 
+T2385: e 
+T2386: d b e 
+T2387: a c 
+T2388: a b c e 
+T2389: d a c 
+T2390: e c d a b 
+T2391: b d a 
+T2392: a e b d 
+T2393: c 
+T2394: a c 
+T2395: d 
+T2396: b e d c a 
+T2397: a 
+T2398: a d 
+T2399: d c 
+T2400: a 
+T2401: a e d b c 
+T2402: c b 
+T2403: e 
+T2404: c a b e d 
+T2405: d 
+T2406: d e a c b 
+T2407: b a d c e 
+T2408: e a b 
+T2409: c 
+T2410: d b a c e 
+T2411: c b d 
+T2412: a 
+T2413: c 
+T2414: c a 
+T2415: b a 
+T2416: b c 
+T2417: b 
+T2418: b e a d 
+T2419: a 
+T2420: e b d 
+T2421: c a 
+T2422: b e c 
+T2423: e a b 
+T2424: a d 
+T2425: a e d b 
+T2426: a c d 
+T2427: c e a b d 
+T2428: d b c 
+T2429: d e a c b 
+T2430: c a d 
+T2431: c e 
+T2432: d e c 
+T2433: e b a 
+T2434: e 
+T2435: a c 
+T2436: c d 
+T2437: e c d 
+T2438: a 
+T2439: c b d e 
+T2440: d 
+T2441: c b 
+T2442: a d e c 
+T2443: e 
+T2444: a e b 
+T2445: d 
+T2446: b d c 
+T2447: b d e 
+T2448: d a 
+T2449: b c d 
+T2450: a e 
+T2451: c d 
+T2452: d c e b 
+T2453: a e b 
+T2454: d e b a 
+T2455: d c a e 
+T2456: d a c b 
+T2457: d 
+T2458: b d a c 
+T2459: a e c d 
+T2460: a e c d b 
+T2461: d a c 
+T2462: b c e 
+T2463: a d b e 
+T2464: d a c e 
+T2465: e d b a c 
+T2466: c b 
+T2467: c d 
+T2468: c b e d 
+T2469: d e c 
+T2470: d e b c 
+T2471: c b e d 
+T2472: b a e c 
+T2473: a d e b c 
+T2474: d a c 
+T2475: d c a 
+T2476: b e d 
+T2477: c d b a 
+T2478: b 
+T2479: a c 
+T2480: e a d b c 
+T2481: c 
+T2482: c b a 
+T2483: a c e d 
+T2484: a c d 
+T2485: a c d b 
+T2486: c 
+T2487: e d b a c 
+T2488: c b 
+T2489: e a b c d 
+T2490: d b e c a 
+T2491: a c b e 
+T2492: e a b c d 
+T2493: d e 
+T2494: b a c 
+T2495: a 
+T2496: b d e c a 
+T2497: e 
+T2498: d 
+T2499: d e a 
+T2500: a d e b 
+T2501: c b d 
+T2502: e b a d c 
+T2503: c d 
+T2504: c b a e d 
+T2505: c d b a e 
+T2506: c d b e 
+T2507: c 
+T2508: b d a e c 
+T2509: e a d c 
+T2510: e b c 
+T2511: a 
+T2512: c e b a 
+T2513: a 
+T2514: c a e d 
+T2515: c e b a d 
+T2516: b d c e a 
+T2517: c 
+T2518: a 
+T2519: c d e 
+T2520: c d a b e 
+T2521: a e b 
+T2522: a c d 
+T2523: d b e 
+T2524: e a b c d 
+T2525: c d a b e 
+T2526: e d c b 
+T2527: d c e b a 
+T2528: b 
+T2529: e 
+T2530: e 
+T2531: c a 
+T2532: b d c a e 
+T2533: c b 
+T2534: a b d 
+T2535: c 
+T2536: b d 
+T2537: c b 
+T2538: d c e 
+T2539: c b 
+T2540: c b e a d 
+T2541: b e c 
+T2542: a b c 
+T2543: a b d e c 
+T2544: d 
+T2545: d 
+T2546: a c 
+T2547: b 
+T2548: e b c a 
+T2549: b e d 
+T2550: e b a d c 
+T2551: d b c a e 
+T2552: a 
+T2553: c 
+T2554: b d c a e 
+T2555: d e b a c 
+T2556: e d b a 
+T2557: c 
+T2558: c 
+T2559: b 
+T2560: a b 
+T2561: c 
+T2562: e b c a d 
+T2563: c 
+T2564: b d 
+T2565: a e 
+T2566: b e c a d 
+T2567: a e b d c 
+T2568: d 
+T2569: d a c 
+T2570: e d c b a 
+T2571: d c a 
+T2572: a c e 
+T2573: e 
+T2574: d a b c 
+T2575: c a b d e 
+T2576: c b a 
+T2577: d e 
+T2578: c d a e b 
+T2579: a c d 
+T2580: c a d b e 
+T2581: b c a e 
+T2582: e c b a d 
+T2583: d 
+T2584: e c 
+T2585: e b 
+T2586: b a e d c 
+T2587: a b d e c 
+T2588: a 
+T2589: d a b c e 
+T2590: d c b a e 
+T2591: b c 
+T2592: e b 
+T2593: b e c d 
+T2594: a 
+T2595: a b c 
+T2596: a d 
+T2597: e a d c b 
+T2598: a 
+T2599: e c b 
+T2600: b e c d 
+T2601: a 
+T2602: c a d e 
+T2603: c 
+T2604: b 
+T2605: b c a 
+T2606: b 
+T2607: c e d b 
+T2608: d e a c 
+T2609: d c e 
+T2610: d c a b 
+T2611: a c d e 
+T2612: a c 
+T2613: a b e 
+T2614: a d 
+T2615: c d a e b 
+T2616: d b 
+T2617: e d a 
+T2618: c d a 
+T2619: c b e d a 
+T2620: d 
+T2621: c a 
+T2622: c d a b e 
+T2623: c 
+T2624: c e 
+T2625: d 
+T2626: a e 
+T2627: e b d 
+T2628: d c 
+T2629: c e d a b 
+T2630: e a d b c 
+T2631: e d a c b 
+T2632: a b 
+T2633: d 
+T2634: a d c 
+T2635: a 
+T2636: e 
+T2637: b e c 
+T2638: d c 
+T2639: a 
+T2640: d 
+T2641: e a b d c 
+T2642: a c e b 
+T2643: d e a b c 
+T2644: d 
+T2645: a e 
+T2646: a e b c 
+T2647: c d a 
+T2648: d b a 
+T2649: e a 
+T2650: b c d e a 
+T2651: c a 
+T2652: b e a d c 
+T2653: e c a 
+T2654: c e d 
+T2655: c a e 
+T2656: e d 
+T2657: a b 
+T2658: e b d c 
+T2659: a c b e d 
+T2660: b a 
+T2661: d a c e b 
+T2662: c b d 
+T2663: e 
+T2664: d b e 
+T2665: d a b e 
+T2666: a e c 
+T2667: e c b 
+T2668: d 
+T2669: e b c 
+T2670: d 
+T2671: d c 
+T2672: c 
+T2673: a b c e 
+T2674: c e d 
+T2675: a c d b 
+T2676: c e 
+T2677: c b a 
+T2678: c a b 
+T2679: e 
+T2680: c 
+T2681: e 
+T2682: b e c a d 
+T2683: b a d 
+T2684: a b e d c 
+T2685: d a e 
+T2686: c 
+T2687: e 
+T2688: d a b 
+T2689: d b a 
+T2690: e b 
+T2691: c a e 
+T2692: a b c 
+T2693: d e a c 
+T2694: b c e d 
+T2695: a d b c e 
+T2696: a d e 
+T2697: a d c e b 
+T2698: b a e c 
+T2699: d a b 
+T2700: b 
+T2701: a e b 
+T2702: c e a d 
+T2703: c d 
+T2704: e b 
+T2705: c 
+T2706: d e a c b 
+T2707: d b c 
+T2708: d c a b e 
+T2709: a e b d c 
+T2710: d b a 
+T2711: a 
+T2712: d c 
+T2713: d e 
+T2714: b a c 
+T2715: a c d b e 
+T2716: e 
+T2717: c b 
+T2718: b a e c 
+T2719: a d c e 
+T2720: a c e d 
+T2721: c d b e 
+T2722: b c a d e 
+T2723: a b c d 
+T2724: a 
+T2725: b 
+T2726: c d 
+T2727: c e d b a 
+T2728: b e d a c 
+T2729: e 
+T2730: c b 
+T2731: c a e b d 
+T2732: a c e d 
+T2733: a 
+T2734: e b 
+T2735: c d 
+T2736: c d a b 
+T2737: d a 
+T2738: d a 
+T2739: b 
+T2740: b a c e 
+T2741: b a e d 
+T2742: e d c b a 
+T2743: e c d 
+T2744: b e 
+T2745: d b e a c 
+T2746: e a b d 
+T2747: c 
+T2748: d a c 
+T2749: a b d 
+T2750: c a 
+T2751: e b c a 
+T2752: e d 
+T2753: b d e 
+T2754: a c b 
+T2755: c e 
+T2756: d c e a 
+T2757: d e c b a 
+T2758: c e a 
+T2759: d a b 
+T2760: c a 
+T2761: b c e d a 
+T2762: e 
+T2763: a d b 
+T2764: b 
+T2765: c a 
+T2766: b d a e 
+T2767: b e d c 
+T2768: a 
+T2769: b a 
+T2770: a c 
+T2771: e c d a b 
+T2772: a 
+T2773: b 
+T2774: e d c a 
+T2775: d b 
+T2776: c 
+T2777: c e 
+T2778: a e b 
+T2779: d a 
+T2780: e c b d 
+T2781: d e 
+T2782: b c a e d 
+T2783: c a b e d 
+T2784: c d 
+T2785: a c b 
+T2786: b c a d e 
+T2787: e a d 
+T2788: e c b a d 
+T2789: d 
+T2790: b c e 
+T2791: e 
+T2792: c d b e 
+T2793: e c 
+T2794: d 
+T2795: d c a e b 
+T2796: c 
+T2797: d c a b e 
+T2798: e d c b a 
+T2799: b 
+T2800: a c b d e 
+T2801: b c a 
+T2802: d b e 
+T2803: c 
+T2804: e 
+T2805: e b d c a 
+T2806: a b d 
+T2807: c a 
+T2808: a c e d b 
+T2809: d 
+T2810: a d c 
+T2811: c a e d b 
+T2812: a d e c b 
+T2813: c a d 
+T2814: a e d 
+T2815: d a b e 
+T2816: d 
+T2817: c e a 
+T2818: b 
+T2819: d e c 
+T2820: c d a b e 
+T2821: d e 
+T2822: b 
+T2823: e 
+T2824: e 
+T2825: c e 
+T2826: a e b 
+T2827: a e c 
+T2828: e b d a 
+T2829: d e 
+T2830: a d c e b 
+T2831: c d 
+T2832: a b 
+T2833: a 
+T2834: b e c a d 
+T2835: d a e b c 
+T2836: e b d c 
+T2837: e d a 
+T2838: e b 
+T2839: d c e b a 
+T2840: d 
+T2841: a 
+T2842: e c d 
+T2843: e 
+T2844: c 
+T2845: b 
+T2846: b 
+T2847: c a d e 
+T2848: c b a 
+T2849: a 
+T2850: e b c 
+T2851: c b d a 
+T2852: c d 
+T2853: c 
+T2854: e b d a c 
+T2855: d 
+T2856: d 
+T2857: e c b a d 
+T2858: c 
+T2859: a 
+T2860: c e d a 
+T2861: d c 
+T2862: e a c 
+T2863: e d a 
+T2864: b a c d e 
+T2865: b d c a 
+T2866: a e d c b 
+T2867: e 
+T2868: d b e 
+T2869: b a c d e 
+T2870: c 
+T2871: c b a e 
+T2872: d a 
+T2873: a 
+T2874: d e a b 
+T2875: d 
+T2876: d a c 
+T2877: e b c 
+T2878: d c e b 
+T2879: d b a c e 
+T2880: a 
+T2881: e 
+T2882: a d e c 
+T2883: e 
+T2884: d c b 
+T2885: e b c d 
+T2886: b e 
+T2887: c e a b 
+T2888: d a e c 
+T2889: e b 
+T2890: e a d b 
+T2891: d e 
+T2892: a e d b 
+T2893: a d e b 
+T2894: e a 
+T2895: a b d 
+T2896: c e b d 
+T2897: e d c b 
+T2898: a 
+T2899: d a e b c 
+T2900: b 
+T2901: a c 
+T2902: b c d e a 
+T2903: e a 
+T2904: c d b 
+T2905: e a 
+T2906: a c e d 
+T2907: b 
+T2908: d b e 
+T2909: a d 
+T2910: c e a 
+T2911: d c a b 
+T2912: b c 
+T2913: d a 
+T2914: c e 
+T2915: c e b 
+T2916: c b a e 
+T2917: d b a 
+T2918: e b a 
+T2919: b c e 
+T2920: a c d e 
+T2921: c b e 
+T2922: c d 
+T2923: a d c 
+T2924: d 
+T2925: d c b e 
+T2926: b e 
+T2927: a b d 
+T2928: d b a e 
+T2929: d c b e a 
+T2930: d e 
+T2931: c b a 
+T2932: a d c b 
+T2933: c d a e 
+T2934: b d e c 
+T2935: c 
+T2936: b e 
+T2937: c d a 
+T2938: d b a 
+T2939: b 
+T2940: d 
+T2941: d b a c 
+T2942: c b 
+T2943: b e a d 
+T2944: e b 
+T2945: d a e b c 
+T2946: e d c a b 
+T2947: e d a 
+T2948: a b d 
+T2949: a b d e c 
+T2950: e 
+T2951: d e 
+T2952: c a d e 
+T2953: e 
+T2954: e d 
+T2955: b 
+T2956: a e c 
+T2957: e d b a 
+T2958: b d e c 
+T2959: c a 
+T2960: d a c e 
+T2961: b c d e 
+T2962: b d 
+T2963: d 
+T2964: b d a c 
+T2965: b c 
+T2966: b e 
+T2967: b c d e a 
+T2968: e a 
+T2969: a b e c 
+T2970: e a b d c 
+T2971: d b a c e 
+T2972: d e 
+T2973: a 
+T2974: c 
+T2975: a d c 
+T2976: b 
+T2977: d b a e 
+T2978: e b d a 
+T2979: c b 
+T2980: a e c d 
+T2981: a 
+T2982: b e a 
+T2983: a c e b 
+T2984: a b 
+T2985: e d a c 
+T2986: c 
+T2987: d 
+T2988: b a d e c 
+T2989: e d a 
+T2990: c a e 
+T2991: b 
+T2992: b a d c 
+T2993: a e b 
+T2994: c d a 
+T2995: d e a c 
+T2996: c b 
+T2997: e c d a b 
+T2998: d 
+T2999: a b 
+T3000: d c 
+T3001: b a e c 
+T3002: c b 
+T3003: c a b d e 
+T3004: b e c a 
+T3005: d e c 
+T3006: a 
+T3007: d 
+T3008: d 
+T3009: b d e a c 
+T3010: d 
+T3011: d a c b 
+T3012: c d e 
+T3013: b 
+T3014: d e a 
+T3015: d 
+T3016: a c b e 
+T3017: a 
+T3018: c 
+T3019: e b a 
+T3020: d b c e a 
+T3021: a b d e 
+T3022: a c 
+T3023: e 
+T3024: a e b d c 
+T3025: b e d 
+T3026: d a b 
+T3027: a 
+T3028: c e d a b 
+T3029: b c 
+T3030: e a d b c 
+T3031: e d b a 
+T3032: c 
+T3033: d b a c 
+T3034: b a c 
+T3035: c d e a b 
+T3036: e b c 
+T3037: b d c a 
+T3038: b e a 
+T3039: b 
+T3040: b a e 
+T3041: d e c b a 
+T3042: d 
+T3043: c a b 
+T3044: e c 
+T3045: b 
+T3046: c a b 
+T3047: d e b c 
+T3048: e a d c 
+T3049: c e 
+T3050: d e 
+T3051: e 
+T3052: a c b 
+T3053: a e c 
+T3054: d e 
+T3055: e b c a 
+T3056: c b d e a 
+T3057: d e c a b 
+T3058: b a c d e 
+T3059: a c e b 
+T3060: a 
+T3061: d b e a 
+T3062: a c b d e 
+T3063: d a e 
+T3064: a e c d b 
+T3065: a e 
+T3066: b a d e 
+T3067: c e d 
+T3068: a d b c e 
+T3069: e d 
+T3070: b d c a e 
+T3071: c e b a d 
+T3072: e d 
+T3073: d a 
+T3074: e b a d 
+T3075: a d 
+T3076: c d b e a 
+T3077: d b 
+T3078: d 
+T3079: d a 
+T3080: b 
+T3081: b c 
+T3082: a e d b 
+T3083: b a e c d 
+T3084: b d e 
+T3085: b d c 
+T3086: e c d a 
+T3087: a e 
+T3088: e c 
+T3089: d a b 
+T3090: c a e 
+T3091: b 
+T3092: e c 
+T3093: b 
+T3094: d a 
+T3095: d e b 
+T3096: a 
+T3097: a c d 
+T3098: e b 
+T3099: e 
+T3100: c a d 
+T3101: b a c e 
+T3102: b 
+T3103: b 
+T3104: b 
+T3105: c 
+T3106: c 
+T3107: b a c e d 
+T3108: e 
+T3109: d b 
+T3110: e b a c d 
+T3111: e d a 
+T3112: b c d 
+T3113: b d a e c 
+T3114: a c 
+T3115: e c a d 
+T3116: c 
+T3117: e c 
+T3118: a 
+T3119: b a 
+T3120: a b d c e 
+T3121: a 
+T3122: e a c b 
+T3123: a c 
+T3124: d e a c b 
+T3125: b d 
+T3126: e d c b 
+T3127: c 
+T3128: e 
+T3129: c e d b a 
+T3130: b 
+T3131: b c a d e 
+T3132: a 
+T3133: d e a c b 
+T3134: a 
+T3135: b d 
+T3136: a 
+T3137: b e c a 
+T3138: e a 
+T3139: e a d b 
+T3140: c 
+T3141: c a e 
+T3142: d b e c a 
+T3143: b d a e c 
+T3144: a e c 
+T3145: b 
+T3146: b e c a d 
+T3147: d b a c 
+T3148: d e a c 
+T3149: a e d 
+T3150: b e 
+T3151: d c e a 
+T3152: b 
+T3153: a b d c e 
+T3154: b 
+T3155: b d c e 
+T3156: a b d 
+T3157: e c d b 
+T3158: e d c b a 
+T3159: d 
+T3160: e b 
+T3161: e b a d 
+T3162: e c b d a 
+T3163: d b a c e 
+T3164: d e b a c 
+T3165: d b a e 
+T3166: b e a c d 
+T3167: a c 
+T3168: b a d e c 
+T3169: d 
+T3170: e c d a b 
+T3171: e a d 
+T3172: a b e 
+T3173: c b a 
+T3174: b d a 
+T3175: b a d e c 
+T3176: c 
+T3177: b e 
+T3178: b c d e a 
+T3179: b e c a d 
+T3180: c a b d e 
+T3181: e c d b a 
+T3182: d c e a 
+T3183: a c 
+T3184: c a d e b 
+T3185: b d a c 
+T3186: d a e b 
+T3187: a d e b 
+T3188: b e c d 
+T3189: c a e 
+T3190: c a 
+T3191: d b e c 
+T3192: e 
+T3193: e 
+T3194: d b a c e 
+T3195: e a b c d 
+T3196: b a d 
+T3197: e b d 
+T3198: a 
+T3199: e b a c d 
+T3200: d a 
+T3201: a e 
+T3202: c d e a b 
+T3203: c b e a d 
+T3204: a c 
+T3205: a d 
+T3206: d a 
+T3207: c d 
+T3208: e c d a b 
+T3209: b 
+T3210: d b 
+T3211: e d b 
+T3212: d b 
+T3213: d b a e 
+T3214: a c b e 
+T3215: a b d c e 
+T3216: b a d c 
+T3217: b 
+T3218: b a c e 
+T3219: d 
+T3220: b a c 
+T3221: d c e a b 
+T3222: a d 
+T3223: d b 
+T3224: b 
+T3225: d a b c 
+T3226: e 
+T3227: d a e 
+T3228: e a d b 
+T3229: e a b d 
+T3230: e b a 
+T3231: e 
+T3232: a c 
+T3233: a e c d 
+T3234: e 
+T3235: a b e d 
+T3236: b 
+T3237: a 
+T3238: b d c a 
+T3239: a 
+T3240: a c 
+T3241: a e d b 
+T3242: e c d a b 
+T3243: e b d a 
+T3244: e a 
+T3245: a c 
+T3246: c 
+T3247: b a 
+T3248: b a d c 
+T3249: c 
+T3250: b a c d e 
+T3251: d 
+T3252: e d c a b 
+T3253: c d 
+T3254: d a 
+T3255: c e 
+T3256: d b 
+T3257: b d 
+T3258: b a d e 
+T3259: b d 
+T3260: b c 
+T3261: d c a e 
+T3262: d 
+T3263: e 
+T3264: b 
+T3265: a e 
+T3266: e c 
+T3267: d b e c a 
+T3268: a b 
+T3269: b c e 
+T3270: e b c d a 
+T3271: b e c d a 
+T3272: e 
+T3273: b a e c 
+T3274: d c e a 
+T3275: a c d b e 
+T3276: a d 
+T3277: d 
+T3278: a c b 
+T3279: e c d a 
+T3280: a c e d b 
+T3281: a c d 
+T3282: c a 
+T3283: e b d 
+T3284: c e a 
+T3285: a b c d 
+T3286: a c d e 
+T3287: c e 
+T3288: d 
+T3289: a b 
+T3290: b 
+T3291: b d e c a 
+T3292: a b e c 
+T3293: c d e b 
+T3294: b d 
+T3295: e d 
+T3296: e 
+T3297: c d 
+T3298: c b e 
+T3299: a c 
+T3300: b a c e 
+T3301: e a b c 
+T3302: c 
+T3303: b c e a 
+T3304: e a d 
+T3305: d 
+T3306: b c e d 
+T3307: e a d 
+T3308: b a e 
+T3309: e 
+T3310: a c e d b 
+T3311: a d 
+T3312: c e b 
+T3313: c d e b a 
+T3314: e d c 
+T3315: b 
+T3316: d a c b 
+T3317: a 
+T3318: c b a 
+T3319: c 
+T3320: c d b e a 
+T3321: d e a 
+T3322: d b e 
+T3323: e a b d 
+T3324: b 
+T3325: d c 
+T3326: b 
+T3327: d b 
+T3328: a b e 
+T3329: e d c a 
+T3330: e c d 
+T3331: e d 
+T3332: c e a b d 
+T3333: d c a e 
+T3334: a d 
+T3335: b 
+T3336: c 
+T3337: a d e c b 
+T3338: a e b d 
+T3339: c b e 
+T3340: d c b a e 
+T3341: c d e b 
+T3342: d a c 
+T3343: a 
+T3344: a 
+T3345: e c 
+T3346: d a b c e 
+T3347: d 
+T3348: c d 
+T3349: b c 
+T3350: e b a 
+T3351: b a e c d 
+T3352: c b e d a 
+T3353: d e c a b 
+T3354: e d b 
+T3355: c a b 
+T3356: b a 
+T3357: c b 
+T3358: b d e c 
+T3359: e a d b 
+T3360: b d a e c 
+T3361: b d a c e 
+T3362: c a 
+T3363: b c 
+T3364: d c e 
+T3365: c 
+T3366: d 
+T3367: e c b d 
+T3368: e c 
+T3369: c b a d 
+T3370: d b 
+T3371: d a c b 
+T3372: e 
+T3373: d e b 
+T3374: b c d 
+T3375: c b e 
+T3376: d c e a 
+T3377: a e c b d 
+T3378: e c b a d 
+T3379: c 
+T3380: e a b c d 
+T3381: c 
+T3382: e 
+T3383: c 
+T3384: c 
+T3385: c a 
+T3386: a b c e 
+T3387: d 
+T3388: b d c e a 
+T3389: e a b c 
+T3390: c b e 
+T3391: a 
+T3392: e a d 
+T3393: d e b a 
+T3394: a d c e b 
+T3395: e 
+T3396: d a 
+T3397: e b c d a 
+T3398: b c a 
+T3399: e c 
+T3400: e 
+T3401: a d c b 
+T3402: b d 
+T3403: a e 
+T3404: c a e 
+T3405: e b d a c 
+T3406: d a c 
+T3407: a c b e d 
+T3408: e a c d b 
+T3409: c d a 
+T3410: a 
+T3411: e 
+T3412: e a d c 
+T3413: e a b d 
+T3414: e 
+T3415: e c b d 
+T3416: b e a d 
+T3417: d b c a 
+T3418: e 
+T3419: d 
+T3420: d a c e 
+T3421: e 
+T3422: e a c 
+T3423: a c b 
+T3424: e a d c 
+T3425: d a e 
+T3426: b d c 
+T3427: e d b 
+T3428: b d c e 
+T3429: e c 
+T3430: b d c a 
+T3431: d 
+T3432: a e c b 
+T3433: c 
+T3434: e d c a 
+T3435: e b c a d 
+T3436: d c 
+T3437: a e b c d 
+T3438: a c d e 
+T3439: b 
+T3440: a b c e 
+T3441: a d b 
+T3442: a c b e 
+T3443: c d a e b 
+T3444: b d 
+T3445: e 
+T3446: c a b 
+T3447: c a e b 
+T3448: c e b a d 
+T3449: e 
+T3450: c d 
+T3451: b e d a 
+T3452: b e 
+T3453: d 
+T3454: c d a 
+T3455: d a c b e 
+T3456: d a c 
+T3457: a e d 
+T3458: a d e c 
+T3459: e a c d b 
+T3460: b d c a 
+T3461: c a 
+T3462: b 
+T3463: e d b a c 
+T3464: c e 
+T3465: d b a 
+T3466: e c 
+T3467: c a e d 
+T3468: d e b a 
+T3469: e b 
+T3470: e a b 
+T3471: b 
+T3472: d e b a 
+T3473: d 
+T3474: e c a d b 
+T3475: b c a d 
+T3476: e 
+T3477: e a d 
+T3478: a d c b e 
+T3479: d 
+T3480: d b c 
+T3481: c d b 
+T3482: b 
+T3483: e 
+T3484: e b c d 
+T3485: d e b a 
+T3486: a 
+T3487: b c e d a 
+T3488: b a e d 
+T3489: b a 
+T3490: c b e d a 
+T3491: c d e 
+T3492: a e c b d 
+T3493: a d e c 
+T3494: b d c 
+T3495: b e 
+T3496: b c e 
+T3497: c d 
+T3498: d 
+T3499: b a 
+T3500: e b c d a 
+T3501: e c a d 
+T3502: b 
+T3503: c d e a 
+T3504: d a e c 
+T3505: e d 
+T3506: d e c b a 
+T3507: c e d b 
+T3508: c e d 
+T3509: c b 
+T3510: c d b a e 
+T3511: c b e a d 
+T3512: c e 
+T3513: e b 
+T3514: b e a c 
+T3515: e d a c 
+T3516: e b c a d 
+T3517: d a e b 
+T3518: d e c a 
+T3519: c e b 
+T3520: a e c b d 
+T3521: e a d c b 
+T3522: b a d 
+T3523: a c e 
+T3524: a b d e 
+T3525: a d e 
+T3526: c b e a 
+T3527: a b d 
+T3528: e a b 
+T3529: a e 
+T3530: e a 
+T3531: a 
+T3532: d 
+T3533: e d b 
+T3534: e b 
+T3535: d b 
+T3536: b e c d a 
+T3537: d 
+T3538: a d c 
+T3539: d b e 
+T3540: c a e 
+T3541: a d c 
+T3542: e c 
+T3543: c b d 
+T3544: e b c 
+T3545: c a d b 
+T3546: a e c d b 
+T3547: a b d c e 
+T3548: d c a e 
+T3549: b e 
+T3550: b d c a e 
+T3551: a b 
+T3552: d a c e b 
+T3553: e a c 
+T3554: e c d b a 
+T3555: c b e 
+T3556: b e c 
+T3557: d e 
+T3558: d c 
+T3559: c b e d 
+T3560: a c 
+T3561: b a d 
+T3562: a e d b 
+T3563: a e b c 
+T3564: b a e c d 
+T3565: d b a c e 
+T3566: e c d 
+T3567: b d 
+T3568: e b c 
+T3569: b d c 
+T3570: d e b a 
+T3571: d e a 
+T3572: b c e a 
+T3573: c b d e 
+T3574: c e d 
+T3575: d 
+T3576: d c a 
+T3577: a c e b d 
+T3578: d c e b 
+T3579: d c b 
+T3580: b c 
+T3581: a 
+T3582: d 
+T3583: d b 
+T3584: a c e d b 
+T3585: e c a b 
+T3586: a e 
+T3587: e b c a d 
+T3588: d c b e 
+T3589: b d e c 
+T3590: c 
+T3591: e a 
+T3592: b c d a e 
+T3593: b d 
+T3594: c a e b 
+T3595: d 
+T3596: e b c d 
+T3597: a b 
+T3598: a b c 
+T3599: e b a c d 
+T3600: b a d 
+T3601: c d a b 
+T3602: c 
+T3603: e c d 
+T3604: c b 
+T3605: e d c a b 
+T3606: b 
+T3607: d b e 
+T3608: b 
+T3609: a e d 
+T3610: d e c 
+T3611: b d c a 
+T3612: c 
+T3613: a 
+T3614: d a b e c 
+T3615: d e c 
+T3616: a c e d b 
+T3617: c 
+T3618: b a e 
+T3619: a b 
+T3620: e 
+T3621: a b 
+T3622: a b 
+T3623: b 
+T3624: d b 
+T3625: c a b d 
+T3626: a b d c 
+T3627: b a 
+T3628: a e d c 
+T3629: c e b d 
+T3630: b d c a e 
+T3631: d c 
+T3632: a d c 
+T3633: c 
+T3634: e 
+T3635: a e c 
+T3636: b d a e c 
+T3637: c b 
+T3638: d 
+T3639: a e d c b 
+T3640: d e b c a 
+T3641: a b c 
+T3642: d e a 
+T3643: c d b a e 
+T3644: a e 
+T3645: a e d c 
+T3646: a 
+T3647: d a b e c 
+T3648: a d b 
+T3649: b d a c 
+T3650: d b c 
+T3651: c b e 
+T3652: a c e 
+T3653: a e d c 
+T3654: a d b 
+T3655: a 
+T3656: d b 
+T3657: e c a d 
+T3658: b c 
+T3659: e d b a c 
+T3660: a b c e 
+T3661: b 
+T3662: c 
+T3663: b d 
+T3664: e 
+T3665: b 
+T3666: a d b c e 
+T3667: e b d a 
+T3668: b e d c 
+T3669: b d 
+T3670: e a 
+T3671: b a d 
+T3672: c b a e 
+T3673: e c b a d 
+T3674: d a b 
+T3675: a 
+T3676: b d a 
+T3677: a e d 
+T3678: b e a d 
+T3679: d c e 
+T3680: d b 
+T3681: a e 
+T3682: e a d c 
+T3683: d c a e b 
+T3684: c a d e 
+T3685: b c d a 
+T3686: a c 
+T3687: e a d c 
+T3688: a d 
+T3689: e a 
+T3690: c e a 
+T3691: c a 
+T3692: d c 
+T3693: a d 
+T3694: e 
+T3695: e d c a b 
+T3696: c b a d e 
+T3697: c e d 
+T3698: b e d c a 
+T3699: a b e 
+T3700: c d a 
+T3701: a b e c d 
+T3702: c 
+T3703: d e c a 
+T3704: e c 
+T3705: d b 
+T3706: e c b d a 
+T3707: c 
+T3708: d a b 
+T3709: b 
+T3710: e d c b 
+T3711: d a 
+T3712: e 
+T3713: b a d 
+T3714: c d 
+T3715: d 
+T3716: a c b e d 
+T3717: b d a 
+T3718: d b 
+T3719: d b c a 
+T3720: b c d e a 
+T3721: a e 
+T3722: e d b c a 
+T3723: c b e a d 
+T3724: c d e a b 
+T3725: b 
+T3726: d e 
+T3727: b c e d a 
+T3728: a c d b e 
+T3729: e d c 
+T3730: c e d b a 
+T3731: b d a 
+T3732: a e b 
+T3733: d e 
+T3734: e a 
+T3735: c b a d 
+T3736: a d b 
+T3737: e a c b 
+T3738: b c d e 
+T3739: c d a b 
+T3740: a b e d c 
+T3741: b d a 
+T3742: d b a c e 
+T3743: e d 
+T3744: c e b d 
+T3745: d b c a e 
+T3746: e d 
+T3747: a e c 
+T3748: c a e 
+T3749: b d 
+T3750: d a 
+T3751: b a c d 
+T3752: e a b 
+T3753: e a b 
+T3754: a 
+T3755: b a c d e 
+T3756: b c e a d 
+T3757: d a 
+T3758: d b c 
+T3759: d 
+T3760: d c a 
+T3761: d c b 
+T3762: c d e 
+T3763: d 
+T3764: d a 
+T3765: c e 
+T3766: a b c 
+T3767: d a e 
+T3768: d e b a c 
+T3769: b a d 
+T3770: b d a 
+T3771: b 
+T3772: e 
+T3773: e a c d 
+T3774: b 
+T3775: b 
+T3776: e d 
+T3777: a b d e 
+T3778: e a 
+T3779: e c 
+T3780: c 
+T3781: e d c 
+T3782: c e d b a 
+T3783: d e c b 
+T3784: e 
+T3785: b c 
+T3786: d b e a 
+T3787: b e d 
+T3788: e 
+T3789: a b e c 
+T3790: e d b 
+T3791: d e b a 
+T3792: a e b 
+T3793: d c e a 
+T3794: e b c a 
+T3795: e 
+T3796: e b d c a 
+T3797: c e d 
+T3798: e 
+T3799: c 
+T3800: c e d 
+T3801: a d 
+T3802: b c 
+T3803: e a d c b 
+T3804: c d b e 
+T3805: d c b e a 
+T3806: b e d a 
+T3807: a e d b c 
+T3808: c a b e d 
+T3809: d c b 
+T3810: d 
+T3811: a b e c d 
+T3812: b d e 
+T3813: c a d e 
+T3814: e d c a b 
+T3815: c 
+T3816: d e b 
+T3817: d 
+T3818: e c d 
+T3819: b a 
+T3820: a c e 
+T3821: b c d a 
+T3822: c b a 
+T3823: a 
+T3824: d c 
+T3825: b d c e a 
+T3826: e a 
+T3827: b e c d 
+T3828: c b e d a 
+T3829: b 
+T3830: e c b a 
+T3831: c 
+T3832: e b 
+T3833: d e c a b 
+T3834: c d e b a 
+T3835: b 
+T3836: b e c 
+T3837: d c b e 
+T3838: e d a 
+T3839: b e 
+T3840: c d a 
+T3841: d e 
+T3842: e c d b 
+T3843: e a b c d 
+T3844: a 
+T3845: a c b e d 
+T3846: e 
+T3847: e c b 
+T3848: d c e 
+T3849: c e b d 
+T3850: e 
+T3851: e b a d c 
+T3852: a e 
+T3853: b a e 
+T3854: c a e 
+T3855: a c b 
+T3856: c d e 
+T3857: d e c a 
+T3858: b d c a 
+T3859: b c e 
+T3860: b 
+T3861: c d e b a 
+T3862: e d 
+T3863: d e a b c 
+T3864: c d e a b 
+T3865: a e d c b 
+T3866: e 
+T3867: c d a b e 
+T3868: d 
+T3869: e c b a d 
+T3870: a e d 
+T3871: e b a c 
+T3872: e b 
+T3873: c a e d 
+T3874: e b a c 
+T3875: d e a c 
+T3876: a d b e c 
+T3877: a b 
+T3878: c e a d b 
+T3879: e c d a b 
+T3880: d e c 
+T3881: e b 
+T3882: b d c 
+T3883: a d b c e 
+T3884: a d e b c 
+T3885: c b e d 
+T3886: a b d 
+T3887: b c d 
+T3888: d a b c e 
+T3889: a e b d 
+T3890: a 
+T3891: d b e a c 
+T3892: d e c b a 
+T3893: e c d a b 
+T3894: b a e c 
+T3895: e d 
+T3896: c a b d 
+T3897: d e c a b 
+T3898: a 
+T3899: b c e 
+T3900: a b c 
+T3901: c e b 
+T3902: e a d 
+T3903: e b d 
+T3904: d c e a 
+T3905: d a e b c 
+T3906: d b c 
+T3907: e a c d b 
+T3908: c d b e a 
+T3909: b a e 
+T3910: d e b a 
+T3911: b 
+T3912: a d b c 
+T3913: b a e d c 
+T3914: d c e 
+T3915: d b a c e 
+T3916: b d a 
+T3917: b e a c 
+T3918: d e a c 
+T3919: e 
+T3920: e a c 
+T3921: d e c a b 
+T3922: b d c 
+T3923: b c a e 
+T3924: c a 
+T3925: e a d b c 
+T3926: c d a e b 
+T3927: c e b a 
+T3928: a 
+T3929: e 
+T3930: d b c e 
+T3931: c 
+T3932: c d 
+T3933: e d 
+T3934: b d e c 
+T3935: b 
+T3936: d 
+T3937: b e d a 
+T3938: b a e c 
+T3939: c e d 
+T3940: c d b a e 
+T3941: a d 
+T3942: e d 
+T3943: c b d e 
+T3944: d c a 
+T3945: c e a b d 
+T3946: e d b 
+T3947: b 
+T3948: b e 
+T3949: a e d b 
+T3950: e b 
+T3951: b 
+T3952: e a d b c 
+T3953: c a 
+T3954: d 
+T3955: e b d a 
+T3956: d a c e 
+T3957: b e d c a 
+T3958: e c 
+T3959: d e 
+T3960: e a c b 
+T3961: a d 
+T3962: d a b e c 
+T3963: b c d 
+T3964: b a 
+T3965: b 
+T3966: b d e a 
+T3967: e d 
+T3968: a d b c e 
+T3969: e a d c 
+T3970: d b a 
+T3971: e 
+T3972: c a d e 
+T3973: a b 
+T3974: a 
+T3975: e a 
+T3976: d a b e 
+T3977: d c a b e 
+T3978: a 
+T3979: b e c d 
+T3980: e c a 
+T3981: e b d a 
+T3982: a c b e d 
+T3983: e d c a b 
+T3984: c e d a 
+T3985: a 
+T3986: d a b e c 
+T3987: d c b a e 
+T3988: d a e b 
+T3989: e a 
+T3990: d e b c a 
+T3991: d e b 
+T3992: e d b c 
+T3993: e 
+T3994: b e 
+T3995: e d 
+T3996: d e b c a 
+T3997: e c b d a 
+T3998: b e d 
+T3999: d a e b 
+T4000: d 
+T4001: c b d a e 
+T4002: c d b 
+T4003: a b 
+T4004: a b e 
+T4005: c b a e d 
+T4006: e a b 
+T4007: d b c a e 
+T4008: e a d b c 
+T4009: d 
+T4010: c b a 
+T4011: d e a c b 
+T4012: b e 
+T4013: d a e 
+T4014: b a c e d 
+T4015: a b d e 
+T4016: e d 
+T4017: d a 
+T4018: c 
+T4019: d b e a c 
+T4020: e b d a c 
+T4021: e c a b 
+T4022: c d a b 
+T4023: c 
+T4024: e c d b a 
+T4025: d b c 
+T4026: e d 
+T4027: a c b e 
+T4028: b d c e a 
+T4029: e d 
+T4030: d c e 
+T4031: d 
+T4032: c d a b e 
+T4033: c 
+T4034: d a c b e 
+T4035: c 
+T4036: a d c e b 
+T4037: c d 
+T4038: e d c 
+T4039: c b 
+T4040: d a 
+T4041: d a 
+T4042: c b e a d 
+T4043: e c d a b 
+T4044: c e b d a 
+T4045: d b 
+T4046: a e 
+T4047: a c d 
+T4048: e d b a 
+T4049: b 
+T4050: d 
+T4051: a b c d e 
+T4052: b c d a 
+T4053: e a d 
+T4054: a e b c d 
+T4055: e c b d a 
+T4056: c d a e 
+T4057: e c a d 
+T4058: a b d c e 
+T4059: d c b e a 
+T4060: b 
+T4061: c d b 
+T4062: c e b 
+T4063: d b 
+T4064: b e c a d 
+T4065: c e 
+T4066: d 
+T4067: a c b e d 
+T4068: a 
+T4069: e b c 
+T4070: a e c 
+T4071: a b d e c 
+T4072: a 
+T4073: c e d a 
+T4074: c b d e 
+T4075: b c a e 
+T4076: a b d 
+T4077: a c e d 
+T4078: c d b 
+T4079: d c e a b 
+T4080: e d 
+T4081: a b d e 
+T4082: d a b c 
+T4083: b c d 
+T4084: e 
+T4085: d b e a 
+T4086: d 
+T4087: d 
+T4088: e a b 
+T4089: a b d 
+T4090: b a 
+T4091: b 
+T4092: e b 
+T4093: c d b 
+T4094: c d b e a 
+T4095: d a c b e 
+T4096: e d 
+T4097: c d a b e 
+T4098: e 
+T4099: a d 
+T4100: d 
+T4101: b d c a 
+T4102: d c 
+T4103: b c d e 
+T4104: d c 
+T4105: e b a d 
+T4106: d b e c 
+T4107: c d e 
+T4108: c d 
+T4109: b d 
+T4110: a e 
+T4111: a d b 
+T4112: b c 
+T4113: e c d 
+T4114: b a c d e 
+T4115: e c d b a 
+T4116: b 
+T4117: e 
+T4118: e a b c 
+T4119: a d e 
+T4120: e d c b a 
+T4121: a e 
+T4122: a 
+T4123: a c d 
+T4124: d e a 
+T4125: c d e b 
+T4126: a 
+T4127: e 
+T4128: b c e d a 
+T4129: d e a 
+T4130: a d e b 
+T4131: a d c 
+T4132: b c e a 
+T4133: b 
+T4134: c 
+T4135: b e a 
+T4136: d a b c e 
+T4137: d 
+T4138: a b e d 
+T4139: d 
+T4140: e d 
+T4141: c d 
+T4142: c b a e d 
+T4143: e d a b c 
+T4144: e c a d b 
+T4145: a c d 
+T4146: c d b e 
+T4147: a b 
+T4148: c 
+T4149: d b e 
+T4150: a d b 
+T4151: d 
+T4152: c 
+T4153: e b 
+T4154: e b 
+T4155: d c 
+T4156: c a d b e 
+T4157: d a e 
+T4158: d e 
+T4159: b 
+T4160: c a 
+T4161: a e 
+T4162: d e b c 
+T4163: d a b 
+T4164: c d e a 
+T4165: b e 
+T4166: a c d 
+T4167: b 
+T4168: a c 
+T4169: e d c 
+T4170: e b 
+T4171: a b 
+T4172: e d a c b 
+T4173: a d e 
+T4174: a 
+T4175: d b c a 
+T4176: b 
+T4177: d a c b 
+T4178: d e a c b 
+T4179: e b 
+T4180: e b c 
+T4181: a 
+T4182: b c d 
+T4183: c a d e 
+T4184: a b e d c 
+T4185: d b a e 
+T4186: a b c e 
+T4187: e d 
+T4188: e b 
+T4189: b c 
+T4190: e b c 
+T4191: b e c a d 
+T4192: e b a 
+T4193: d a 
+T4194: d a c b 
+T4195: b 
+T4196: a d 
+T4197: a 
+T4198: c d b 
+T4199: e c d 
+T4200: b d e c 
+T4201: b a c 
+T4202: c 
+T4203: b d e 
+T4204: e b d c 
+T4205: d a e b c 
+T4206: d e c 
+T4207: d e a b c 
+T4208: a c 
+T4209: b 
+T4210: d 
+T4211: e 
+T4212: e c 
+T4213: b c e a 
+T4214: c d 
+T4215: e a d c 
+T4216: c b e 
+T4217: a 
+T4218: a c 
+T4219: c b d a 
+T4220: c b e a 
+T4221: c 
+T4222: b 
+T4223: a e b c d 
+T4224: d b e 
+T4225: c d 
+T4226: c b 
+T4227: e a c b 
+T4228: b e c a d 
+T4229: b c 
+T4230: b d 
+T4231: d b c e a 
+T4232: c 
+T4233: d b e c a 
+T4234: e b d 
+T4235: c 
+T4236: c e 
+T4237: a e 
+T4238: d 
+T4239: a d b 
+T4240: a 
+T4241: b d a c 
+T4242: c d a 
+T4243: a b 
+T4244: e 
+T4245: a b e d 
+T4246: e d 
+T4247: b d 
+T4248: d a c 
+T4249: e a d 
+T4250: b d 
+T4251: c d e 
+T4252: d c b e a 
+T4253: c 
+T4254: c d e b 
+T4255: a 
+T4256: c b e d a 
+T4257: e d c b a 
+T4258: e d b a c 
+T4259: c a d b e 
+T4260: b a 
+T4261: b c e a d 
+T4262: d c 
+T4263: d e b 
+T4264: c a e d 
+T4265: c 
+T4266: b 
+T4267: b d e c a 
+T4268: b 
+T4269: c b d 
+T4270: e 
+T4271: e c d 
+T4272: c d 
+T4273: a c e d 
+T4274: e 
+T4275: d 
+T4276: e c b 
+T4277: d 
+T4278: c a 
+T4279: a e c 
+T4280: d a c b 
+T4281: d c 
+T4282: d e 
+T4283: d c e b a 
+T4284: e 
+T4285: a c b e 
+T4286: b d e 
+T4287: b c a e d 
+T4288: a c b e 
+T4289: c d 
+T4290: e c a 
+T4291: a e 
+T4292: e d c b 
+T4293: d a 
+T4294: a c 
+T4295: a 
+T4296: b a c d 
+T4297: c 
+T4298: c 
+T4299: e c a b 
+T4300: b c a e d 
+T4301: e b a 
+T4302: a b d c e 
+T4303: a b 
+T4304: e d c b a 
+T4305: d b c 
+T4306: c b d a e 
+T4307: e a d c 
+T4308: c a 
+T4309: c b d a e 
+T4310: d e 
+T4311: c b a e 
+T4312: c 
+T4313: b 
+T4314: e a d c 
+T4315: b d a c e 
+T4316: d b 
+T4317: d b c a 
+T4318: d 
+T4319: a e c d 
+T4320: c e d b a 
+T4321: c b e d a 
+T4322: c b e a 
+T4323: d e 
+T4324: a c 
+T4325: d c b 
+T4326: d b a 
+T4327: e c d a 
+T4328: b c 
+T4329: a d e 
+T4330: a b d 
+T4331: a b c e 
+T4332: e d c a 
+T4333: c e d a 
+T4334: e 
+T4335: e d 
+T4336: d 
+T4337: b e a 
+T4338: b 
+T4339: b a 
+T4340: e a 
+T4341: c 
+T4342: e d b 
+T4343: c d a e b 
+T4344: b 
+T4345: e 
+T4346: d c 
+T4347: d c a 
+T4348: a b 
+T4349: e c a b 
+T4350: d c a b e 
+T4351: c b e 
+T4352: c 
+T4353: d 
+T4354: a c d e 
+T4355: b 
+T4356: d e b a 
+T4357: a e b d 
+T4358: b d c a 
+T4359: c a e b d 
+T4360: a 
+T4361: b d 
+T4362: b c d a e 
+T4363: b a e d c 
+T4364: a b c e 
+T4365: d e a 
+T4366: e b a d c 
+T4367: a e 
+T4368: b a e 
+T4369: d 
+T4370: d e b a c 
+T4371: c e d b 
+T4372: e d 
+T4373: a d 
+T4374: a c e d 
+T4375: b a d c e 
+T4376: d 
+T4377: b c 
+T4378: e b a 
+T4379: b a c 
+T4380: e b d c a 
+T4381: a d b 
+T4382: a d 
+T4383: b c e a 
+T4384: a c d b e 
+T4385: b 
+T4386: a b c d e 
+T4387: a b e c d 
+T4388: b e d a c 
+T4389: c b 
+T4390: c a 
+T4391: b a e c d 
+T4392: a c d 
+T4393: d 
+T4394: e c a 
+T4395: b 
+T4396: d a 
+T4397: a b e d 
+T4398: b d c e a 
+T4399: b d 
+T4400: a d e 
+T4401: e d b a 
+T4402: c 
+T4403: a c b e d 
+T4404: d b a 
+T4405: d b e 
+T4406: c 
+T4407: a e d c 
+T4408: b e 
+T4409: d b 
+T4410: e 
+T4411: b 
+T4412: b e a 
+T4413: a d e 
+T4414: a b c 
+T4415: b c a e 
+T4416: d c a 
+T4417: e a 
+T4418: d 
+T4419: e d 
+T4420: a d c e b 
+T4421: a c d e 
+T4422: a 
+T4423: e 
+T4424: a c e d 
+T4425: c d e a b 
+T4426: b c e d 
+T4427: d b 
+T4428: c 
+T4429: d a 
+T4430: d c a b 
+T4431: d e a b 
+T4432: d c a e 
+T4433: e 
+T4434: e c d b 
+T4435: c a d e b 
+T4436: e d c a b 
+T4437: b 
+T4438: a 
+T4439: a c d e 
+T4440: a c b e d 
+T4441: d a b e c 
+T4442: e b d a 
+T4443: d e a c b 
+T4444: e c a b 
+T4445: e 
+T4446: d c e 
+T4447: b a c d 
+T4448: e a c d 
+T4449: d 
+T4450: a d c 
+T4451: d a c 
+T4452: a b c 
+T4453: e d 
+T4454: b 
+T4455: c a d 
+T4456: b c d 
+T4457: a 
+T4458: a b 
+T4459: c e d a 
+T4460: d a 
+T4461: e a 
+T4462: e d b 
+T4463: b e 
+T4464: e c d b 
+T4465: d b a c 
+T4466: a c e 
+T4467: e 
+T4468: e d 
+T4469: d c a b e 
+T4470: c a b 
+T4471: e a 
+T4472: d 
+T4473: d a e 
+T4474: b e c a 
+T4475: b d c 
+T4476: d b 
+T4477: a c e d b 
+T4478: e b a d c 
+T4479: a b e d 
+T4480: d e b 
+T4481: d b e c a 
+T4482: a b e 
+T4483: c e 
+T4484: e c b a d 
+T4485: c 
+T4486: d b a c e 
+T4487: c e a 
+T4488: e c 
+T4489: a 
+T4490: d 
+T4491: c 
+T4492: c b d 
+T4493: a 
+T4494: e a d b c 
+T4495: c d a 
+T4496: c a b e d 
+T4497: e a b c 
+T4498: c d a b 
+T4499: b e a c 
+T4500: e b 
+T4501: c a b e 
+T4502: d e a c 
+T4503: c e 
+T4504: a b 
+T4505: a b d 
+T4506: b a e c 
+T4507: e a 
+T4508: e a 
+T4509: b 
+T4510: b c e 
+T4511: c e 
+T4512: c e b d 
+T4513: a 
+T4514: b c 
+T4515: e b c d a 
+T4516: c d b a e 
+T4517: c 
+T4518: e 
+T4519: a 
+T4520: d a e c b 
+T4521: a d c e b 
+T4522: b a 
+T4523: d e 
+T4524: a c 
+T4525: b c a d 
+T4526: c 
+T4527: d b a e c 
+T4528: a e d 
+T4529: a d e 
+T4530: e c d a b 
+T4531: d c b e a 
+T4532: c e 
+T4533: c a d e b 
+T4534: e 
+T4535: c 
+T4536: b c d a 
+T4537: e c a d 
+T4538: b 
+T4539: e 
+T4540: d e a b c 
+T4541: b d 
+T4542: e a c 
+T4543: a d e 
+T4544: e a c 
+T4545: c 
+T4546: d b e a 
+T4547: c 
+T4548: b a e 
+T4549: d b a c e 
+T4550: a d e 
+T4551: d 
+T4552: a d 
+T4553: d a 
+T4554: c b e a d 
+T4555: c d b a e 
+T4556: b e d c a 
+T4557: e 
+T4558: b 
+T4559: d e 
+T4560: e b c d a 
+T4561: d e a b c 
+T4562: d e 
+T4563: a d c e 
+T4564: a b e 
+T4565: a e b d c 
+T4566: c e 
+T4567: b e c 
+T4568: d a 
+T4569: a 
+T4570: a d c b e 
+T4571: d b c e a 
+T4572: e 
+T4573: e d b 
+T4574: d e a b c 
+T4575: b 
+T4576: e a b 
+T4577: b 
+T4578: e 
+T4579: d e 
+T4580: c a b 
+T4581: a e b 
+T4582: a b d c e 
+T4583: b a 
+T4584: b a 
+T4585: a d b e c 
+T4586: a e 
+T4587: b a 
+T4588: c e d b 
+T4589: e b a 
+T4590: c a e 
+T4591: b 
+T4592: a e b c 
+T4593: c d b a e 
+T4594: a b c e 
+T4595: a e 
+T4596: d c a 
+T4597: a 
+T4598: e c 
+T4599: d a e b c 
+T4600: d 
+T4601: d a e b c 
+T4602: b 
+T4603: c b 
+T4604: e d 
+T4605: d 
+T4606: e d a 
+T4607: a 
+T4608: d b e 
+T4609: e 
+T4610: e 
+T4611: e c 
+T4612: e a 
+T4613: d e 
+T4614: d e c 
+T4615: e a d 
+T4616: e a d c b 
+T4617: a c 
+T4618: e 
+T4619: b a c e 
+T4620: a b 
+T4621: e b c a 
+T4622: d 
+T4623: d e 
+T4624: b c a e d 
+T4625: a d e b 
+T4626: a b d 
+T4627: c 
+T4628: b a c e d 
+T4629: e b c 
+T4630: d c e a 
+T4631: a e c d b 
+T4632: c b a 
+T4633: d a b 
+T4634: c 
+T4635: a d b 
+T4636: d c 
+T4637: e a b d 
+T4638: d a e b c 
+T4639: d e c b 
+T4640: e b d a 
+T4641: a 
+T4642: a c d 
+T4643: d a e b c 
+T4644: d 
+T4645: b c d 
+T4646: e c 
+T4647: c 
+T4648: b e a 
+T4649: b a c 
+T4650: c b d a 
+T4651: d a b c 
+T4652: c e 
+T4653: b 
+T4654: b e c d 
+T4655: d 
+T4656: d e c b a 
+T4657: d a e b 
+T4658: d a e b 
+T4659: a c e d 
+T4660: c b 
+T4661: c e b 
+T4662: a d 
+T4663: e a b d 
+T4664: e c b d 
+T4665: d a b 
+T4666: e 
+T4667: c b a e d 
+T4668: c a b d 
+T4669: c e b d 
+T4670: c d e b 
+T4671: d 
+T4672: b d a 
+T4673: a d b e c 
+T4674: a d 
+T4675: c e b a d 
+T4676: c a 
+T4677: d b 
+T4678: e d a b c 
+T4679: d c 
+T4680: b 
+T4681: d a e c 
+T4682: b c e 
+T4683: e a d 
+T4684: e c b a 
+T4685: b a e c 
+T4686: d b a e 
+T4687: c d b e 
+T4688: d 
+T4689: c 
+T4690: a b e c 
+T4691: e 
+T4692: c d 
+T4693: c b 
+T4694: b 
+T4695: a c d e 
+T4696: d a c b 
+T4697: e 
+T4698: e 
+T4699: e a b 
+T4700: c d e 
+T4701: a c b d 
+T4702: c b d 
+T4703: a b 
+T4704: e c d 
+T4705: b e 
+T4706: e 
+T4707: e b d c a 
+T4708: c d 
+T4709: a e c b d 
+T4710: a 
+T4711: c e d 
+T4712: c e a 
+T4713: a b c d e 
+T4714: a e b d 
+T4715: e a 
+T4716: d 
+T4717: b e 
+T4718: b c e a 
+T4719: b 
+T4720: a c b 
+T4721: c a 
+T4722: b d 
+T4723: b d c 
+T4724: a e c d 
+T4725: a b e d c 
+T4726: c e 
+T4727: c e a b d 
+T4728: b 
+T4729: a d b c 
+T4730: b a 
+T4731: a c b d 
+T4732: c d b 
+T4733: a e 
+T4734: e a d c b 
+T4735: d 
+T4736: d 
+T4737: e b d c a 
+T4738: e 
+T4739: b a e c 
+T4740: a e d 
+T4741: c d a 
+T4742: c a d e b 
+T4743: e 
+T4744: a b e 
+T4745: b 
+T4746: e b 
+T4747: a d c b 
+T4748: b e c 
+T4749: c d e 
+T4750: b a d 
+T4751: a e c b d 
+T4752: c 
+T4753: a d e c 
+T4754: b e 
+T4755: e 
+T4756: b e 
+T4757: c b a 
+T4758: b c d a e 
+T4759: d b e a 
+T4760: c a d e 
+T4761: e d a 
+T4762: d c 
+T4763: b 
+T4764: a b 
+T4765: a e b c 
+T4766: a e b c 
+T4767: a c e d 
+T4768: e 
+T4769: d a e c 
+T4770: d e b c 
+T4771: d 
+T4772: e b 
+T4773: e a 
+T4774: d b a 
+T4775: a d c 
+T4776: a b 
+T4777: c 
+T4778: d b c 
+T4779: c e 
+T4780: e c 
+T4781: b d e c 
+T4782: c e d b 
+T4783: e d b c a 
+T4784: a d b e c 
+T4785: e a 
+T4786: e c a d b 
+T4787: b c d 
+T4788: d a b 
+T4789: e b 
+T4790: d 
+T4791: a c b 
+T4792: e d b c 
+T4793: b a d e c 
+T4794: b d 
+T4795: d b a e 
+T4796: a d c e 
+T4797: d a c 
+T4798: d a e c 
+T4799: e b d c 
+T4800: d e a b 
+T4801: e c d b a 
+T4802: d e c 
+T4803: c b a e d 
+T4804: a 
+T4805: a d 
+T4806: d a c 
+T4807: b d a c e 
+T4808: a d 
+T4809: a 
+T4810: a d c 
+T4811: b a d e 
+T4812: b e 
+T4813: b d e c 
+T4814: c e b d 
+T4815: d c b e 
+T4816: e a c b 
+T4817: d a b 
+T4818: a 
+T4819: e a 
+T4820: e d a 
+T4821: b a c d e 
+T4822: a b e 
+T4823: a e c d 
+T4824: c d a 
+T4825: d a 
+T4826: c e b 
+T4827: d e b c a 
+T4828: d a b 
+T4829: a d b e 
+T4830: a d b c e 
+T4831: c b e a d 
+T4832: b d c a 
+T4833: c 
+T4834: a d b e 
+T4835: b d 
+T4836: e 
+T4837: a 
+T4838: e d a 
+T4839: d e c a 
+T4840: a b e 
+T4841: a b c 
+T4842: c e a 
+T4843: b a c d 
+T4844: c 
+T4845: c b d a 
+T4846: e 
+T4847: b e a 
+T4848: b 
+T4849: d a e c 
+T4850: d c e b 
+T4851: a b e 
+T4852: e a d 
+T4853: d e a c 
+T4854: c d e b a 
+T4855: c e 
+T4856: c d e b 
+T4857: e 
+T4858: c e a d b 
+T4859: d 
+T4860: a d c 
+T4861: d b a 
+T4862: c b e d a 
+T4863: e c a d b 
+T4864: e d 
+T4865: c d 
+T4866: d 
+T4867: a c b d 
+T4868: c a 
+T4869: e c 
+T4870: a c 
+T4871: c a e b 
+T4872: b c a e 
+T4873: a e 
+T4874: d c e a b 
+T4875: a e b c 
+T4876: a b d 
+T4877: c 
+T4878: d b c 
+T4879: d 
+T4880: a 
+T4881: d b a e 
+T4882: e d c 
+T4883: d a c 
+T4884: a 
+T4885: b 
+T4886: e b c a 
+T4887: e d 
+T4888: c d a 
+T4889: a b 
+T4890: b 
+T4891: c a 
+T4892: d e b 
+T4893: c e 
+T4894: d e b 
+T4895: c b 
+T4896: b e c d a 
+T4897: a c e b 
+T4898: c d e 
+T4899: c b 
+T4900: d c a b e 
+T4901: d a 
+T4902: c a 
+T4903: a b e 
+T4904: c 
+T4905: b 
+T4906: d b e 
+T4907: e c d 
+T4908: b c d 
+T4909: a 
+T4910: b d c 
+T4911: c d e 
+T4912: c a 
+T4913: a d e b c 
+T4914: a c d b 
+T4915: d e c a 
+T4916: b a d c e 
+T4917: d b 
+T4918: e a d b c 
+T4919: e d c b a 
+T4920: b a d 
+T4921: c a d b e 
+T4922: d b a c e 
+T4923: c 
+T4924: b c d e a 
+T4925: e 
+T4926: d c a b e 
+T4927: c b d 
+T4928: c d a 
+T4929: d e b 
+T4930: b a d 
+T4931: b c 
+T4932: e a 
+T4933: c 
+T4934: c e 
+T4935: c d a b e 
+T4936: c d b a 
+T4937: a b 
+T4938: b d 
+T4939: a d c 
+T4940: e 
+T4941: e c a b d 
+T4942: b a 
+T4943: d b e a 
+T4944: d 
+T4945: d e a b c 
+T4946: a e c b 
+T4947: c d 
+T4948: a 
+T4949: d 
+T4950: c 
+T4951: a e 
+T4952: b d 
+T4953: e a d 
+T4954: b e 
+T4955: a d c 
+T4956: c b 
+T4957: c e b 
+T4958: e b 
+T4959: e 
+T4960: e c d 
+T4961: e b d c a 
+T4962: d c a 
+T4963: c d a 
+T4964: d e c 
+T4965: e b a 
+T4966: c 
+T4967: c e d 
+T4968: c d b e a 
+T4969: c 
+T4970: b e a 
+T4971: b d a e 
+T4972: d b e c 
+T4973: b d e a c 
+T4974: a b e 
+T4975: e d c a 
+T4976: b a c d 
+T4977: b c 
+T4978: d c b 
+T4979: a b c d 
+T4980: e 
+T4981: d c a b 
+T4982: b a d c e 
+T4983: d a b c 
+T4984: a c 
+T4985: e 
+T4986: e 
+T4987: c b a 
+T4988: d c e b 
+T4989: b e d a c 
+T4990: a e 
+T4991: d e 
+T4992: d 
+T4993: c d e b 
+T4994: e 
+T4995: d e c b a 
+T4996: c d 
+T4997: b d e a 
+T4998: e 
+T4999: d e b c 
+T5000: a d b e c 
+T5001: e a 
+T5002: d e 
+T5003: c e 
+T5004: d e a 
+T5005: e c b d 
+T5006: e c d 
+T5007: d b c a 
+T5008: c 
+T5009: e c d b a 
+T5010: d c 
+T5011: a d b e c 
+T5012: a e c 
+T5013: c b 
+T5014: c 
+T5015: e 
+T5016: c b 
+T5017: b a e d c 
+T5018: a d e b c 
+T5019: e a 
+T5020: b c a d e 
+T5021: c a b d 
+T5022: a b e d c 
+T5023: e 
+T5024: a e d b c 
+T5025: c d a b e 
+T5026: a c e 
+T5027: e d c 
+T5028: e b c d a 
+T5029: b a 
+T5030: c 
+T5031: b a e d c 
+T5032: d 
+T5033: a d b c 
+T5034: e 
+T5035: a 
+T5036: c e 
+T5037: c a d e 
+T5038: d b c e a 
+T5039: e d a 
+T5040: c b d 
+T5041: e c b a d 
+T5042: a e d 
+T5043: a b c 
+T5044: a e b d 
+T5045: a 
+T5046: b a 
+T5047: b 
+T5048: c a 
+T5049: a 
+T5050: d b e 
+T5051: d c a e b 
+T5052: d 
+T5053: e b a c 
+T5054: d 
+T5055: a c d 
+T5056: b e c a 
+T5057: a c d 
+T5058: b a d 
+T5059: b d 
+T5060: c a d b e 
+T5061: e c 
+T5062: e b a 
+T5063: a c e 
+T5064: b 
+T5065: c b e a 
+T5066: e b c a d 
+T5067: b e c d a 
+T5068: a b d e 
+T5069: a e c 
+T5070: e a b 
+T5071: b c d a e 
+T5072: b c d 
+T5073: b c a d 
+T5074: c d a 
+T5075: d a e b c 
+T5076: d e 
+T5077: b d c a e 
+T5078: b c 
+T5079: c b a d 
+T5080: a e d 
+T5081: d 
+T5082: e 
+T5083: e c 
+T5084: b c d a e 
+T5085: b d 
+T5086: b d e c 
+T5087: a d e b 
+T5088: b 
+T5089: c e b d 
+T5090: a b e d 
+T5091: c b 
+T5092: d e b c 
+T5093: c b e a d 
+T5094: d c 
+T5095: a d b c e 
+T5096: c a b e d 
+T5097: d c a e b 
+T5098: d 
+T5099: b a d 
+T5100: c d b a 
+T5101: b c e d a 
+T5102: e a c d 
+T5103: e c 
+T5104: e c 
+T5105: a b 
+T5106: c e 
+T5107: c a b d 
+T5108: d 
+T5109: b a d e 
+T5110: a b c e 
+T5111: e d 
+T5112: e c d b 
+T5113: a 
+T5114: c 
+T5115: d b a 
+T5116: b e c 
+T5117: d a 
+T5118: a b d 
+T5119: b c e d 
+T5120: d c 
+T5121: b c a 
+T5122: c 
+T5123: d 
+T5124: e c a b d 
+T5125: b d 
+T5126: e 
+T5127: c d a e b 
+T5128: d e a c b 
+T5129: a e d b 
+T5130: e c 
+T5131: a 
+T5132: d e a 
+T5133: c e d 
+T5134: c b e d a 
+T5135: b 
+T5136: e b 
+T5137: e b c 
+T5138: d 
+T5139: d e c 
+T5140: b 
+T5141: a d b 
+T5142: b a d 
+T5143: e a c b 
+T5144: b d c e a 
+T5145: e c b a d 
+T5146: e 
+T5147: c b d 
+T5148: d a 
+T5149: b e c 
+T5150: b c e d 
+T5151: e a c 
+T5152: d a b 
+T5153: a e 
+T5154: c 
+T5155: e c b d a 
+T5156: e c a 
+T5157: e 
+T5158: e b 
+T5159: d c e 
+T5160: e 
+T5161: d b e a c 
+T5162: b e d 
+T5163: b a c 
+T5164: a 
+T5165: c b e d a 
+T5166: c e a d b 
+T5167: c b e 
+T5168: a 
+T5169: c d 
+T5170: c 
+T5171: a d 
+T5172: b d a 
+T5173: a e b c 
+T5174: d 
+T5175: b 
+T5176: a c d b e 
+T5177: d b 
+T5178: c 
+T5179: a e 
+T5180: e 
+T5181: e b c 
+T5182: a e c 
+T5183: b a 
+T5184: d b c a 
+T5185: c b d e 
+T5186: b 
+T5187: c b 
+T5188: e b d 
+T5189: a c e b d 
+T5190: b e a c d 
+T5191: e a b 
+T5192: c a 
+T5193: c a d 
+T5194: c 
+T5195: e a d b 
+T5196: c 
+T5197: c b a 
+T5198: c a d e b 
+T5199: b 
+T5200: a d e b 
+T5201: d a e 
+T5202: b 
+T5203: c d b e a 
+T5204: e d c a b 
+T5205: e 
+T5206: a 
+T5207: c 
+T5208: d c e b a 
+T5209: c e d a 
+T5210: c e d 
+T5211: c b a 
+T5212: e d 
+T5213: c d b a e 
+T5214: e d 
+T5215: b c d a e 
+T5216: a d e 
+T5217: a d 
+T5218: b c 
+T5219: e b c a 
+T5220: a b d c e 
+T5221: b e a c d 
+T5222: c 
+T5223: b a d e c 
+T5224: a e 
+T5225: d b e a c 
+T5226: e b c a 
+T5227: a e d 
+T5228: e b 
+T5229: a c e 
+T5230: d c b 
+T5231: e b c d 
+T5232: d e 
+T5233: c d 
+T5234: e a d 
+T5235: d e a b c 
+T5236: b a 
+T5237: d a b c e 
+T5238: a c e d b 
+T5239: c 
+T5240: e b a d c 
+T5241: c e 
+T5242: a b e 
+T5243: b 
+T5244: e a c b d 
+T5245: e a d c b 
+T5246: c 
+T5247: d c e b a 
+T5248: b c 
+T5249: b a e c 
+T5250: e a d 
+T5251: e a b d 
+T5252: c e b 
+T5253: a b 
+T5254: e d a c b 
+T5255: b a e c d 
+T5256: c e d 
+T5257: b a e d 
+T5258: d c 
+T5259: a e 
+T5260: a 
+T5261: d e c 
+T5262: a 
+T5263: d e c b a 
+T5264: e c d 
+T5265: d e c a b 
+T5266: a e 
+T5267: c e a d 
+T5268: d 
+T5269: e 
+T5270: e a b 
+T5271: e b 
+T5272: b e c 
+T5273: b a e d 
+T5274: a 
+T5275: c 
+T5276: c b 
+T5277: d a 
+T5278: c b e a 
+T5279: a 
+T5280: b 
+T5281: d c a b e 
+T5282: a e d c b 
+T5283: e c 
+T5284: a c 
+T5285: a d 
+T5286: a b c e d 
+T5287: d e b c 
+T5288: d 
+T5289: b a e d 
+T5290: e a 
+T5291: b c d 
+T5292: e 
+T5293: d e a b 
+T5294: c a e b 
+T5295: d e a 
+T5296: c e 
+T5297: c b 
+T5298: b e a d 
+T5299: c b e a 
+T5300: d c a 
+T5301: c a d e b 
+T5302: a d 
+T5303: e d 
+T5304: e a d c b 
+T5305: c 
+T5306: b 
+T5307: c e b d 
+T5308: d c a e 
+T5309: e c d b 
+T5310: b d 
+T5311: d 
+T5312: c 
+T5313: b c d a e 
+T5314: d b 
+T5315: c a d 
+T5316: e c d 
+T5317: e a c 
+T5318: a c b d e 
+T5319: b d c 
+T5320: c d a b e 
+T5321: e a c b d 
+T5322: e b 
+T5323: a c 
+T5324: d c a b 
+T5325: b e d a 
+T5326: a e c b d 
+T5327: e d 
+T5328: a b d e 
+T5329: d b e a 
+T5330: d c 
+T5331: d c b e a 
+T5332: e d b 
+T5333: c b a e d 
+T5334: b e a c d 
+T5335: e b d 
+T5336: d c a 
+T5337: d 
+T5338: c a d b e 
+T5339: c d e 
+T5340: d a e c b 
+T5341: b c a e 
+T5342: a b c e 
+T5343: e c b d a 
+T5344: d b c 
+T5345: b c 
+T5346: b c d 
+T5347: e d a c b 
+T5348: a c d b 
+T5349: e 
+T5350: a b d c 
+T5351: e b 
+T5352: c 
+T5353: d b 
+T5354: b d 
+T5355: d a 
+T5356: a e 
+T5357: e 
+T5358: a b d c 
+T5359: d e a c b 
+T5360: d 
+T5361: e c d b a 
+T5362: b 
+T5363: e 
+T5364: d a b c 
+T5365: d a c b e 
+T5366: e a c b 
+T5367: c 
+T5368: e a c b 
+T5369: e d c b a 
+T5370: a 
+T5371: d 
+T5372: c a 
+T5373: e c b 
+T5374: a c 
+T5375: c e d a 
+T5376: b a d c 
+T5377: b 
+T5378: a c b d 
+T5379: b d c a 
+T5380: b a c d 
+T5381: b e a 
+T5382: d b e a c 
+T5383: b c e 
+T5384: e 
+T5385: d c 
+T5386: c e a 
+T5387: b c e d 
+T5388: a b e c 
+T5389: d b c e 
+T5390: a 
+T5391: d b 
+T5392: a e 
+T5393: a b 
+T5394: a c d 
+T5395: a b c 
+T5396: d c b 
+T5397: e 
+T5398: c e d a 
+T5399: c d b a e 
+T5400: e 
+T5401: a 
+T5402: d b a e 
+T5403: b c e d 
+T5404: c b d a 
+T5405: a 
+T5406: e c 
+T5407: c b e a 
+T5408: c a b e d 
+T5409: b d c e a 
+T5410: d a 
+T5411: a d e b 
+T5412: b a d c 
+T5413: b 
+T5414: e b d a 
+T5415: b a d 
+T5416: a c 
+T5417: b e d c 
+T5418: e c 
+T5419: a e 
+T5420: a 
+T5421: b d e c 
+T5422: c d a e b 
+T5423: b c d 
+T5424: d a 
+T5425: e 
+T5426: a d 
+T5427: d a e c b 
+T5428: a d c 
+T5429: b a c e d 
+T5430: b e 
+T5431: a 
+T5432: b 
+T5433: d 
+T5434: a b d c 
+T5435: a 
+T5436: d 
+T5437: b c d e a 
+T5438: a c e b 
+T5439: c d b 
+T5440: c e a 
+T5441: c b d e 
+T5442: a e d b c 
+T5443: e a 
+T5444: c d b 
+T5445: c e b a 
+T5446: b a d c e 
+T5447: e 
+T5448: c a d 
+T5449: c e b d a 
+T5450: b e d a c 
+T5451: c a d b e 
+T5452: d b 
+T5453: e a 
+T5454: a 
+T5455: e d b a 
+T5456: d e a c 
+T5457: a d e c b 
+T5458: e d c a 
+T5459: d 
+T5460: e c a d b 
+T5461: b 
+T5462: c a d b 
+T5463: a c b e d 
+T5464: a e b 
+T5465: d e 
+T5466: c d 
+T5467: e c 
+T5468: c b 
+T5469: c d 
+T5470: b d 
+T5471: d a e 
+T5472: c 
+T5473: a e c b 
+T5474: c d e a 
+T5475: b e 
+T5476: b e d c a 
+T5477: e a 
+T5478: b 
+T5479: d 
+T5480: a 
+T5481: d 
+T5482: a e d b c 
+T5483: b c 
+T5484: b e 
+T5485: a b c 
+T5486: d 
+T5487: e a 
+T5488: d 
+T5489: a 
+T5490: c 
+T5491: c e d a 
+T5492: b c d 
+T5493: b d a e 
+T5494: b d e c 
+T5495: b a 
+T5496: d a e b c 
+T5497: a b 
+T5498: d c 
+T5499: e b c a d 
+T5500: e c a 
+T5501: a e 
+T5502: d a e 
+T5503: e d c a 
+T5504: d a c 
+T5505: d 
+T5506: b a 
+T5507: a e c b d 
+T5508: d a e b 
+T5509: c d e 
+T5510: e 
+T5511: b 
+T5512: d c e 
+T5513: b c d a e 
+T5514: e d 
+T5515: e 
+T5516: a c b e d 
+T5517: e 
+T5518: a e c d 
+T5519: e c d 
+T5520: e 
+T5521: d a 
+T5522: a e b c 
+T5523: c a b d e 
+T5524: b a e c d 
+T5525: c 
+T5526: c a b 
+T5527: a c e 
+T5528: a d 
+T5529: b 
+T5530: c 
+T5531: c e b a d 
+T5532: c d b 
+T5533: b 
+T5534: b d e a c 
+T5535: c e b 
+T5536: a b e 
+T5537: b c 
+T5538: d b c a e 
+T5539: b d c e a 
+T5540: c 
+T5541: a e b 
+T5542: e b a d c 
+T5543: e d c a 
+T5544: c b d a e 
+T5545: b c 
+T5546: c 
+T5547: b c a e d 
+T5548: d b e a 
+T5549: b e 
+T5550: b a c d e 
+T5551: a 
+T5552: d a e b 
+T5553: c e b 
+T5554: d 
+T5555: d e b c 
+T5556: a d e 
+T5557: e c a d b 
+T5558: a 
+T5559: c e a 
+T5560: d e a 
+T5561: e 
+T5562: e a c d b 
+T5563: d 
+T5564: d a c e 
+T5565: c b d e a 
+T5566: b a d e 
+T5567: d e 
+T5568: d e a b 
+T5569: c b e d 
+T5570: e c 
+T5571: c 
+T5572: c b 
+T5573: a c b e d 
+T5574: c b a 
+T5575: a c b e 
+T5576: b d e c 
+T5577: a b 
+T5578: e b d a 
+T5579: d e a 
+T5580: d c a e 
+T5581: a 
+T5582: a d e 
+T5583: c d b e 
+T5584: c a e b 
+T5585: a c 
+T5586: e d a c b 
+T5587: a e c d 
+T5588: b e d a 
+T5589: d 
+T5590: e 
+T5591: b c d 
+T5592: a c e d 
+T5593: c d e 
+T5594: b d e c a 
+T5595: a b d 
+T5596: a 
+T5597: d a 
+T5598: d 
+T5599: b d e a 
+T5600: a c e 
+T5601: d b c 
+T5602: a c e 
+T5603: c a b e 
+T5604: a e d b 
+T5605: b e c 
+T5606: e 
+T5607: d b 
+T5608: c b 
+T5609: c a d 
+T5610: e 
+T5611: d c 
+T5612: e b a c 
+T5613: b 
+T5614: b 
+T5615: a b d e 
+T5616: b e a c 
+T5617: e b a d c 
+T5618: a e d 
+T5619: c a 
+T5620: a c 
+T5621: b d c 
+T5622: c a 
+T5623: e d 
+T5624: c e d a b 
+T5625: a c e b d 
+T5626: d b 
+T5627: c b a 
+T5628: e c d a 
+T5629: a e c b 
+T5630: b c e 
+T5631: d a b e c 
+T5632: d c e b a 
+T5633: a 
+T5634: d a e b c 
+T5635: e a 
+T5636: d c b e 
+T5637: e d a 
+T5638: a 
+T5639: e d b a c 
+T5640: e d b 
+T5641: e a d 
+T5642: e a b c d 
+T5643: c 
+T5644: c b 
+T5645: c e b d a 
+T5646: b c d e 
+T5647: e b d a 
+T5648: a e b d 
+T5649: b e c d 
+T5650: a d 
+T5651: d c 
+T5652: d a 
+T5653: c a d b e 
+T5654: d b 
+T5655: d e a 
+T5656: c b 
+T5657: b a e c d 
+T5658: b 
+T5659: b a e 
+T5660: b a e d c 
+T5661: e a 
+T5662: c a e d 
+T5663: e 
+T5664: c a d e b 
+T5665: c e a 
+T5666: e b c 
+T5667: b c 
+T5668: e b c 
+T5669: a d 
+T5670: c e a d 
+T5671: b c e 
+T5672: e c d b a 
+T5673: b a c e 
+T5674: a c b e 
+T5675: e a b d 
+T5676: b 
+T5677: d c b e 
+T5678: a b c 
+T5679: e b c d a 
+T5680: d 
+T5681: e a c d b 
+T5682: a c 
+T5683: c 
+T5684: b a c d e 
+T5685: d c b e 
+T5686: d 
+T5687: a b d c e 
+T5688: c b 
+T5689: c e d a 
+T5690: c e a b d 
+T5691: c 
+T5692: a 
+T5693: c 
+T5694: c a d e 
+T5695: d c b 
+T5696: b e a d c 
+T5697: a 
+T5698: b a c 
+T5699: c b e 
+T5700: b 
+T5701: b c e d 
+T5702: b 
+T5703: a e b 
+T5704: b e d c 
+T5705: b a d c 
+T5706: b a d c 
+T5707: b a d c 
+T5708: e d 
+T5709: c b e a d 
+T5710: b d e 
+T5711: d c a b 
+T5712: b e c a d 
+T5713: b e a c d 
+T5714: c d a b e 
+T5715: c a d e b 
+T5716: e d b a c 
+T5717: d a b 
+T5718: b d 
+T5719: e 
+T5720: a e c b d 
+T5721: d b a c e 
+T5722: c d e 
+T5723: e d 
+T5724: c 
+T5725: c e b 
+T5726: a d 
+T5727: e b 
+T5728: e b c d 
+T5729: c b 
+T5730: b c e d a 
+T5731: d e c a 
+T5732: e c 
+T5733: c b 
+T5734: d c e a b 
+T5735: e a d b 
+T5736: b d e 
+T5737: c 
+T5738: a e c 
+T5739: a e d 
+T5740: a b e c 
+T5741: c d a e b 
+T5742: c b e d a 
+T5743: b e 
+T5744: a e 
+T5745: a d b c e 
+T5746: a c e b d 
+T5747: b c e d 
+T5748: a b c e 
+T5749: b e c d a 
+T5750: e c b d 
+T5751: c e 
+T5752: d 
+T5753: b e d c a 
+T5754: a 
+T5755: d c a 
+T5756: b a c 
+T5757: b e 
+T5758: e c a 
+T5759: b 
+T5760: d b c 
+T5761: e 
+T5762: c a d e 
+T5763: e c b a 
+T5764: d 
+T5765: c e b d 
+T5766: c 
+T5767: e d a 
+T5768: e a c b d 
+T5769: d e 
+T5770: d c e 
+T5771: b a c e d 
+T5772: b c 
+T5773: b a c e d 
+T5774: c 
+T5775: e a d 
+T5776: c b a e 
+T5777: d e 
+T5778: a c 
+T5779: e c b d 
+T5780: e d a b c 
+T5781: c e d b a 
+T5782: d b c 
+T5783: c b 
+T5784: e d 
+T5785: a 
+T5786: e b 
+T5787: d a c b e 
+T5788: e c a d b 
+T5789: d 
+T5790: c 
+T5791: b 
+T5792: e c 
+T5793: d b e a 
+T5794: c a 
+T5795: c e a 
+T5796: a 
+T5797: b c e d 
+T5798: c b 
+T5799: a c e d 
+T5800: c d a 
+T5801: e 
+T5802: a 
+T5803: e c 
+T5804: a e c 
+T5805: a 
+T5806: c d a e 
+T5807: a e 
+T5808: e c b 
+T5809: d a e 
+T5810: a e d b 
+T5811: d a b e 
+T5812: a c e 
+T5813: d 
+T5814: b e 
+T5815: c 
+T5816: e b d 
+T5817: b d c a 
+T5818: d e c b 
+T5819: a 
+T5820: a 
+T5821: e 
+T5822: a 
+T5823: d a b 
+T5824: d a e c b 
+T5825: b 
+T5826: e 
+T5827: c a 
+T5828: d b a e c 
+T5829: b e 
+T5830: c b d a 
+T5831: d b c e a 
+T5832: e 
+T5833: b a c 
+T5834: e 
+T5835: b d 
+T5836: e b a c d 
+T5837: c 
+T5838: a 
+T5839: b a 
+T5840: e d c b 
+T5841: d c a e 
+T5842: c b 
+T5843: b c d 
+T5844: b 
+T5845: a b d e 
+T5846: e a b d c 
+T5847: e a 
+T5848: a e 
+T5849: b c 
+T5850: b c d e 
+T5851: e b c a 
+T5852: c 
+T5853: b e a c d 
+T5854: c e a b d 
+T5855: d e 
+T5856: e c b d 
+T5857: e c d a b 
+T5858: d b a e c 
+T5859: d a b 
+T5860: d b c 
+T5861: c 
+T5862: d b 
+T5863: b e a 
+T5864: d b c 
+T5865: e d 
+T5866: b a d c 
+T5867: c e b a d 
+T5868: b d 
+T5869: a b 
+T5870: a c 
+T5871: c b e a d 
+T5872: d a e 
+T5873: b d a 
+T5874: b 
+T5875: d 
+T5876: b e a c 
+T5877: b c d e 
+T5878: b a d c e 
+T5879: d b e c a 
+T5880: a c e b 
+T5881: c e d a 
+T5882: b c e d 
+T5883: a d e c b 
+T5884: a d b 
+T5885: e 
+T5886: b c e 
+T5887: c 
+T5888: c e a b d 
+T5889: a e 
+T5890: c d e 
+T5891: e d b a c 
+T5892: e b d c a 
+T5893: c e a 
+T5894: a c b 
+T5895: d b a e c 
+T5896: b d e 
+T5897: c d a b 
+T5898: b a e d c 
+T5899: c d e b a 
+T5900: b e c a 
+T5901: a c e 
+T5902: d a c e 
+T5903: d b a 
+T5904: a 
+T5905: d 
+T5906: a e b 
+T5907: e c b 
+T5908: b 
+T5909: e a 
+T5910: e a b 
+T5911: b d a c e 
+T5912: d b a 
+T5913: d e b c a 
+T5914: a 
+T5915: c a 
+T5916: a d 
+T5917: a c e b 
+T5918: a 
+T5919: a c 
+T5920: e b d a c 
+T5921: e a 
+T5922: b c e 
+T5923: b d e c 
+T5924: d e c b a 
+T5925: a 
+T5926: d a b 
+T5927: a b d e 
+T5928: e 
+T5929: e b 
+T5930: d e b 
+T5931: e b d c a 
+T5932: b a e c d 
+T5933: a d c e 
+T5934: b a d e c 
+T5935: e 
+T5936: b a 
+T5937: e 
+T5938: e c b d 
+T5939: c d b a e 
+T5940: c a 
+T5941: a c e 
+T5942: e d a c 
+T5943: b c a e 
+T5944: b a e 
+T5945: e c b a d 
+T5946: a c b 
+T5947: b 
+T5948: e b d a c 
+T5949: c a d 
+T5950: a d b 
+T5951: c d e b 
+T5952: e c a d b 
+T5953: b a c e d 
+T5954: b c e a d 
+T5955: a d e c b 
+T5956: a 
+T5957: e 
+T5958: e b d a 
+T5959: e b c d a 
+T5960: a b c e d 
+T5961: b d c 
+T5962: c a b d 
+T5963: c a d e b 
+T5964: b e a d c 
+T5965: a b 
+T5966: d c a 
+T5967: a 
+T5968: b c e d 
+T5969: a e d 
+T5970: a b 
+T5971: c a e d 
+T5972: b d e c a 
+T5973: c e b 
+T5974: a c 
+T5975: a d b 
+T5976: e d b a 
+T5977: e c a b d 
+T5978: d a c e 
+T5979: e c a 
+T5980: e 
+T5981: a b c e d 
+T5982: b c a d e 
+T5983: e d a c 
+T5984: e b a c 
+T5985: d c a e 
+T5986: d a 
+T5987: d 
+T5988: c a b d e 
+T5989: e b d 
+T5990: d 
+T5991: e d b c a 
+T5992: d a e 
+T5993: c b a 
+T5994: b 
+T5995: e d b 
+T5996: a c b e 
+T5997: c 
+T5998: b d a 
+T5999: a 
+T6000: a e b 
+T6001: c 
+T6002: a c e 
+T6003: d b 
+T6004: e d c b a 
+T6005: d b c 
+T6006: e b c a 
+T6007: b a c d e 
+T6008: e c a 
+T6009: d c b a e 
+T6010: e b d c 
+T6011: d b a c 
+T6012: c e a 
+T6013: b e 
+T6014: c a e 
+T6015: b 
+T6016: c e 
+T6017: a d e 
+T6018: d e 
+T6019: a c e b 
+T6020: d a e b 
+T6021: e b a 
+T6022: a 
+T6023: a 
+T6024: d b c 
+T6025: d e c 
+T6026: e 
+T6027: e b c 
+T6028: d a b e 
+T6029: b 
+T6030: d c 
+T6031: c d e a 
+T6032: c d 
+T6033: c b 
+T6034: c a d 
+T6035: a d c b 
+T6036: e 
+T6037: d b a e c 
+T6038: a 
+T6039: c e 
+T6040: a d b c 
+T6041: e b c a 
+T6042: d 
+T6043: c d a b e 
+T6044: a 
+T6045: d e a 
+T6046: d e c 
+T6047: d e b 
+T6048: c e 
+T6049: c e 
+T6050: b a d c 
+T6051: b a e d 
+T6052: a c e d 
+T6053: d e c b a 
+T6054: a d e 
+T6055: c e b 
+T6056: a c d b e 
+T6057: a e 
+T6058: b 
+T6059: c b d 
+T6060: d e b a c 
+T6061: a 
+T6062: c 
+T6063: d e a 
+T6064: b e a d c 
+T6065: e c b 
+T6066: e 
+T6067: e b 
+T6068: e d a 
+T6069: e c 
+T6070: a c 
+T6071: a e 
+T6072: c 
+T6073: e 
+T6074: a e c d 
+T6075: b a e 
+T6076: c b 
+T6077: e c a 
+T6078: e b 
+T6079: d 
+T6080: b 
+T6081: a c d e 
+T6082: a b e 
+T6083: b e c a 
+T6084: c d b 
+T6085: e c a b 
+T6086: a c 
+T6087: b c e d a 
+T6088: d b c e a 
+T6089: a b e c d 
+T6090: b e a c d 
+T6091: a b e d 
+T6092: b c e a 
+T6093: b c a d e 
+T6094: e d c 
+T6095: e a b 
+T6096: c b 
+T6097: a b 
+T6098: e 
+T6099: e c b d a 
+T6100: b d a c 
+T6101: a c 
+T6102: b e a c 
+T6103: b a d e c 
+T6104: a d c 
+T6105: e c b a d 
+T6106: d 
+T6107: d b 
+T6108: d a b c 
+T6109: b e c d 
+T6110: a d b e c 
+T6111: b d 
+T6112: e b a 
+T6113: a c 
+T6114: b 
+T6115: e d c 
+T6116: d a 
+T6117: d e b 
+T6118: c 
+T6119: d c b 
+T6120: d b a e c 
+T6121: e d c 
+T6122: b e a d c 
+T6123: e 
+T6124: b c d e a 
+T6125: e 
+T6126: a 
+T6127: b e c a 
+T6128: c e d 
+T6129: e 
+T6130: b e a d 
+T6131: d e c a b 
+T6132: d c 
+T6133: d e c b a 
+T6134: b c d 
+T6135: a c e d b 
+T6136: d c 
+T6137: e a b d 
+T6138: d b c e a 
+T6139: e a d 
+T6140: d c a 
+T6141: a c e d b 
+T6142: a 
+T6143: a b c 
+T6144: e d a 
+T6145: b 
+T6146: b 
+T6147: b c 
+T6148: c b a 
+T6149: a e b 
+T6150: d b a c e 
+T6151: c e 
+T6152: b a c d e 
+T6153: c b 
+T6154: c b d e 
+T6155: a d b e c 
+T6156: d e b 
+T6157: d b a 
+T6158: c b e d 
+T6159: e d 
+T6160: b a e d 
+T6161: d c a 
+T6162: e 
+T6163: e 
+T6164: e 
+T6165: d b c 
+T6166: d a c e b 
+T6167: c e 
+T6168: a d b 
+T6169: d b e c 
+T6170: b 
+T6171: b c a 
+T6172: a 
+T6173: e c d 
+T6174: e b c a 
+T6175: c d 
+T6176: e b a c 
+T6177: b d 
+T6178: b d a 
+T6179: b 
+T6180: b e c d a 
+T6181: d a 
+T6182: d 
+T6183: c a 
+T6184: c e a b d 
+T6185: c 
+T6186: a e b c d 
+T6187: e a b d 
+T6188: e d 
+T6189: a b e c d 
+T6190: a c e d 
+T6191: b e a d 
+T6192: a e c d b 
+T6193: b c e 
+T6194: c b d 
+T6195: a b c d 
+T6196: c a e b 
+T6197: e 
+T6198: a e 
+T6199: e d b a c 
+T6200: c 
+T6201: b c e a 
+T6202: c 
+T6203: d 
+T6204: d b 
+T6205: e c a b 
+T6206: a b 
+T6207: e d b a 
+T6208: b 
+T6209: c e b 
+T6210: a 
+T6211: e d c 
+T6212: b d 
+T6213: c e 
+T6214: b c d 
+T6215: e 
+T6216: c b d e 
+T6217: c a d b 
+T6218: e 
+T6219: e 
+T6220: d a b c e 
+T6221: a b 
+T6222: a e c 
+T6223: b d 
+T6224: c 
+T6225: a d b e 
+T6226: e 
+T6227: d b e a c 
+T6228: c e a b 
+T6229: d b 
+T6230: b a 
+T6231: b 
+T6232: b c a d e 
+T6233: c 
+T6234: b c e 
+T6235: d 
+T6236: c d e 
+T6237: a b d e c 
+T6238: e a d 
+T6239: b a 
+T6240: d c 
+T6241: e a c b 
+T6242: e b a c d 
+T6243: d a e 
+T6244: e 
+T6245: b d a e c 
+T6246: c e a b d 
+T6247: e a b c 
+T6248: c a b e 
+T6249: d a 
+T6250: b a 
+T6251: e d 
+T6252: a d 
+T6253: c 
+T6254: d a e 
+T6255: d a e 
+T6256: d b 
+T6257: d b a e 
+T6258: b c 
+T6259: c a e 
+T6260: e d b a c 
+T6261: a e d c 
+T6262: d a e 
+T6263: b a 
+T6264: b a c e d 
+T6265: d b 
+T6266: d 
+T6267: b a e d 
+T6268: e b a d c 
+T6269: c d e a 
+T6270: a c 
+T6271: e b d c 
+T6272: a e d b c 
+T6273: b c a e d 
+T6274: e c 
+T6275: d a b c 
+T6276: c a e 
+T6277: d b e 
+T6278: e d c b 
+T6279: a e c b d 
+T6280: b a 
+T6281: e 
+T6282: c 
+T6283: d a b 
+T6284: d a e 
+T6285: e a b 
+T6286: a 
+T6287: a e 
+T6288: d a b e c 
+T6289: d 
+T6290: d e 
+T6291: a e 
+T6292: a e 
+T6293: b c 
+T6294: e 
+T6295: e 
+T6296: e 
+T6297: b c 
+T6298: a d b c 
+T6299: a e c 
+T6300: c 
+T6301: c b d e 
+T6302: b a 
+T6303: d 
+T6304: d a b e 
+T6305: d e b a 
+T6306: b a 
+T6307: a e 
+T6308: d 
+T6309: d a b 
+T6310: a c 
+T6311: b d c a 
+T6312: e d 
+T6313: e c 
+T6314: e a 
+T6315: d 
+T6316: e 
+T6317: c e 
+T6318: e d 
+T6319: c d 
+T6320: d e c a 
+T6321: b c e a d 
+T6322: c 
+T6323: a e d 
+T6324: d e b c a 
+T6325: d e a 
+T6326: d a e b c 
+T6327: d b e c a 
+T6328: d a c e 
+T6329: a b e d 
+T6330: d a 
+T6331: e a 
+T6332: a 
+T6333: e c b a d 
+T6334: d e a 
+T6335: c d a b e 
+T6336: b 
+T6337: e c 
+T6338: a c 
+T6339: d a b 
+T6340: a 
+T6341: a d c 
+T6342: c d a b e 
+T6343: c e d a 
+T6344: d b 
+T6345: a d 
+T6346: d 
+T6347: e d b a 
+T6348: a c b d 
+T6349: b e 
+T6350: e a b d c 
+T6351: e a c d b 
+T6352: e b 
+T6353: e 
+T6354: d c b e 
+T6355: e a d c b 
+T6356: a 
+T6357: b d e a 
+T6358: b 
+T6359: e 
+T6360: e 
+T6361: a c d b 
+T6362: b c d a e 
+T6363: a 
+T6364: e c 
+T6365: c d e 
+T6366: a c 
+T6367: c d e b a 
+T6368: d c b a 
+T6369: d 
+T6370: d a e c 
+T6371: c b e d 
+T6372: d b c 
+T6373: c d a b e 
+T6374: a 
+T6375: a b 
+T6376: c d a e 
+T6377: b d c a e 
+T6378: c e d b 
+T6379: c e b 
+T6380: d b c 
+T6381: e d b c a 
+T6382: d a 
+T6383: c e 
+T6384: d c b 
+T6385: d b e 
+T6386: d b a c e 
+T6387: c b 
+T6388: a c e d 
+T6389: a 
+T6390: e a d c b 
+T6391: b 
+T6392: e a 
+T6393: e b d c a 
+T6394: c d a b 
+T6395: d 
+T6396: a d c 
+T6397: e b c a 
+T6398: e 
+T6399: d 
+T6400: a d e c b 
+T6401: c e 
+T6402: b c e d a 
+T6403: a b 
+T6404: c 
+T6405: e a c d b 
+T6406: b a c d 
+T6407: c b a 
+T6408: b a c 
+T6409: e 
+T6410: d c 
+T6411: c a e d 
+T6412: d c b e a 
+T6413: e a d b c 
+T6414: c d e b a 
+T6415: b c e d 
+T6416: a 
+T6417: a c d b e 
+T6418: e d c a 
+T6419: b c d 
+T6420: b 
+T6421: c d a 
+T6422: c e b a d 
+T6423: c d e a 
+T6424: a c b e d 
+T6425: a d c e 
+T6426: e d b c 
+T6427: d 
+T6428: a b e c 
+T6429: c b a 
+T6430: a e 
+T6431: e b c 
+T6432: e d 
+T6433: d b e c a 
+T6434: e d c a 
+T6435: c d a b 
+T6436: d a e 
+T6437: c b e 
+T6438: e d 
+T6439: b a c d 
+T6440: e c a b 
+T6441: d b e a c 
+T6442: a e 
+T6443: c d e 
+T6444: d e c a b 
+T6445: d c 
+T6446: a 
+T6447: e c 
+T6448: e a 
+T6449: d a 
+T6450: d a c e 
+T6451: d c a 
+T6452: a c d b e 
+T6453: d e 
+T6454: d c a b e 
+T6455: d a e b c 
+T6456: b 
+T6457: c e 
+T6458: b d a c 
+T6459: e d a b c 
+T6460: d e a c b 
+T6461: c e b a 
+T6462: e b d a c 
+T6463: b a 
+T6464: b 
+T6465: e a 
+T6466: c d a e b 
+T6467: d c a 
+T6468: c 
+T6469: c a e b d 
+T6470: c 
+T6471: e b 
+T6472: a d b e c 
+T6473: c b a 
+T6474: c d 
+T6475: d b e a 
+T6476: b e d c a 
+T6477: b 
+T6478: b 
+T6479: d 
+T6480: c e 
+T6481: b a d 
+T6482: a b 
+T6483: a c d b e 
+T6484: a 
+T6485: b c d e a 
+T6486: e d c 
+T6487: d b 
+T6488: a c d b e 
+T6489: d c 
+T6490: b 
+T6491: e 
+T6492: c d e b 
+T6493: c a d b 
+T6494: a b c e d 
+T6495: e d a b c 
+T6496: d 
+T6497: e b 
+T6498: b a 
+T6499: b 
+T6500: b c d a e 
+T6501: c a d e 
+T6502: d b 
+T6503: d a b e c 
+T6504: b c d 
+T6505: c b e 
+T6506: d c b a 
+T6507: d 
+T6508: d c e 
+T6509: b e a d c 
+T6510: e b 
+T6511: c b d 
+T6512: a 
+T6513: d b 
+T6514: d c a 
+T6515: b a c d 
+T6516: c d a e b 
+T6517: d a 
+T6518: d c b 
+T6519: a d c e 
+T6520: e d 
+T6521: b e 
+T6522: b c a e d 
+T6523: e a b d 
+T6524: e 
+T6525: a c d b 
+T6526: c a 
+T6527: a b e c d 
+T6528: b 
+T6529: e a b c d 
+T6530: a 
+T6531: a d b e c 
+T6532: e d a 
+T6533: a 
+T6534: c 
+T6535: c 
+T6536: d e 
+T6537: c 
+T6538: c 
+T6539: a e b d 
+T6540: d 
+T6541: e a 
+T6542: c b 
+T6543: b d c 
+T6544: b 
+T6545: a d c 
+T6546: d 
+T6547: c 
+T6548: c d a b 
+T6549: b a c e 
+T6550: e d c a b 
+T6551: e b c a d 
+T6552: a b e d c 
+T6553: b e d a c 
+T6554: c a e d 
+T6555: e c b d a 
+T6556: c 
+T6557: b 
+T6558: e a c b 
+T6559: e d 
+T6560: b a e d c 
+T6561: b 
+T6562: d b e a c 
+T6563: c d b e a 
+T6564: d e 
+T6565: d 
+T6566: d a 
+T6567: d 
+T6568: b 
+T6569: e 
+T6570: c e a 
+T6571: a b d c e 
+T6572: b e a d 
+T6573: e a d b c 
+T6574: d 
+T6575: e 
+T6576: b a 
+T6577: c e b a d 
+T6578: a e 
+T6579: b 
+T6580: e b d 
+T6581: d 
+T6582: b e a d c 
+T6583: d b 
+T6584: d c 
+T6585: b a c 
+T6586: a 
+T6587: e a b 
+T6588: e b d 
+T6589: a c b 
+T6590: e b c a 
+T6591: c e a b 
+T6592: e 
+T6593: c d 
+T6594: a e 
+T6595: c b 
+T6596: a b 
+T6597: e c b 
+T6598: c e b d 
+T6599: e 
+T6600: d b a c 
+T6601: c d e 
+T6602: d c b e a 
+T6603: a d c 
+T6604: d c 
+T6605: a e d c 
+T6606: b c 
+T6607: e d a 
+T6608: a d c b e 
+T6609: a e 
+T6610: d e a b 
+T6611: a d e c b 
+T6612: c d 
+T6613: c d 
+T6614: b 
+T6615: d e b c a 
+T6616: d e c b a 
+T6617: b d a 
+T6618: c a d 
+T6619: d 
+T6620: e a d b 
+T6621: c b d 
+T6622: c e 
+T6623: d a c 
+T6624: b c d 
+T6625: a e 
+T6626: c d 
+T6627: e b 
+T6628: e 
+T6629: d b 
+T6630: a e d c b 
+T6631: b d a e 
+T6632: b 
+T6633: d b 
+T6634: a 
+T6635: e c 
+T6636: c b d e a 
+T6637: e b a 
+T6638: a e b c d 
+T6639: a c d e 
+T6640: e b a d 
+T6641: d 
+T6642: e 
+T6643: e c b d a 
+T6644: b 
+T6645: b 
+T6646: e b a c 
+T6647: c 
+T6648: d e c 
+T6649: a 
+T6650: c e d b a 
+T6651: c b 
+T6652: b a e c d 
+T6653: b e 
+T6654: b d e c a 
+T6655: d 
+T6656: a c b 
+T6657: a c b d e 
+T6658: b d a c 
+T6659: b e d c 
+T6660: e c d 
+T6661: e b a d c 
+T6662: d 
+T6663: d 
+T6664: d b 
+T6665: e b 
+T6666: e b d 
+T6667: c d e b a 
+T6668: b e c a 
+T6669: d 
+T6670: e b d c 
+T6671: c d e b 
+T6672: b e 
+T6673: d e c a 
+T6674: e d c a b 
+T6675: b e c d 
+T6676: a d c e b 
+T6677: e b 
+T6678: b e a c d 
+T6679: c 
+T6680: a d b 
+T6681: d e c 
+T6682: b d e 
+T6683: b d e 
+T6684: b 
+T6685: b d c a 
+T6686: e a 
+T6687: c a b e d 
+T6688: c d a 
+T6689: a 
+T6690: e d c b a 
+T6691: b 
+T6692: a d e 
+T6693: e 
+T6694: a e c 
+T6695: a d b e 
+T6696: a c d 
+T6697: d c 
+T6698: c e d b a 
+T6699: d 
+T6700: a b 
+T6701: e c 
+T6702: d 
+T6703: b c 
+T6704: e d b a c 
+T6705: c e 
+T6706: e 
+T6707: a 
+T6708: e a 
+T6709: b c 
+T6710: c e a 
+T6711: d e 
+T6712: d a e 
+T6713: d e a c 
+T6714: a b d 
+T6715: a b c e 
+T6716: a b d c e 
+T6717: c a e 
+T6718: e 
+T6719: b a c e d 
+T6720: a 
+T6721: c e 
+T6722: b d a c e 
+T6723: a c e d 
+T6724: b d e c 
+T6725: a e c b 
+T6726: c b 
+T6727: b a c d e 
+T6728: c d 
+T6729: d 
+T6730: d b a e 
+T6731: b d e a 
+T6732: a d e b 
+T6733: d b 
+T6734: d 
+T6735: b 
+T6736: a e c 
+T6737: a c e d 
+T6738: a b 
+T6739: a c 
+T6740: b d c 
+T6741: c e b d 
+T6742: a d b c e 
+T6743: e b d c a 
+T6744: a c d e 
+T6745: a 
+T6746: d c e a b 
+T6747: e b c 
+T6748: b c e d a 
+T6749: c 
+T6750: c 
+T6751: d a 
+T6752: b a e c 
+T6753: c d a b e 
+T6754: a 
+T6755: a 
+T6756: d c b a e 
+T6757: a c d e b 
+T6758: d b c e a 
+T6759: c d e 
+T6760: b d a e c 
+T6761: e d 
+T6762: d a 
+T6763: e d c b a 
+T6764: c 
+T6765: d 
+T6766: e d c b a 
+T6767: b a d c 
+T6768: c 
+T6769: a e d 
+T6770: c e d a b 
+T6771: d 
+T6772: a e d 
+T6773: d b e a c 
+T6774: e 
+T6775: a b e 
+T6776: b d 
+T6777: c e a d b 
+T6778: c a d b e 
+T6779: d c a e 
+T6780: d a 
+T6781: a 
+T6782: e c 
+T6783: c b d e a 
+T6784: a d 
+T6785: d e c 
+T6786: d e c b a 
+T6787: e 
+T6788: b d c e a 
+T6789: a d b c 
+T6790: b a c e 
+T6791: e d 
+T6792: d a 
+T6793: b c 
+T6794: c e a b d 
+T6795: e 
+T6796: e c 
+T6797: d c 
+T6798: a e c b 
+T6799: b d e 
+T6800: e a d c b 
+T6801: e a b d 
+T6802: d c b e 
+T6803: c d e 
+T6804: d c e b a 
+T6805: a c d b 
+T6806: c d 
+T6807: e 
+T6808: b 
+T6809: b a 
+T6810: a d e c b 
+T6811: d a e c b 
+T6812: c 
+T6813: a d e c 
+T6814: e c a 
+T6815: a c e b 
+T6816: e d a c b 
+T6817: e 
+T6818: b d c e 
+T6819: b c e 
+T6820: e b a 
+T6821: a d e 
+T6822: b 
+T6823: c d 
+T6824: c 
+T6825: d 
+T6826: a e c d b 
+T6827: a b e d 
+T6828: c d e 
+T6829: a c b 
+T6830: a e d c 
+T6831: d b c e 
+T6832: c 
+T6833: e 
+T6834: d a c e 
+T6835: a d e c b 
+T6836: d a b e c 
+T6837: a c b d 
+T6838: b a d c 
+T6839: b d e c 
+T6840: d a c e b 
+T6841: d a e 
+T6842: a e b 
+T6843: c e a b 
+T6844: c 
+T6845: c a d e 
+T6846: e c d a b 
+T6847: c b a 
+T6848: e b 
+T6849: a e b d c 
+T6850: e 
+T6851: c b 
+T6852: c a e d b 
+T6853: c e 
+T6854: a d 
+T6855: c d b 
+T6856: d e 
+T6857: a b 
+T6858: c 
+T6859: d b e a 
+T6860: b 
+T6861: a b 
+T6862: a c e b 
+T6863: c a b e 
+T6864: e c 
+T6865: c a 
+T6866: d 
+T6867: b e a c d 
+T6868: e 
+T6869: d 
+T6870: c 
+T6871: e 
+T6872: a e b 
+T6873: c e d 
+T6874: e b a d c 
+T6875: a 
+T6876: b 
+T6877: c d e 
+T6878: e d 
+T6879: d a 
+T6880: e d b a 
+T6881: d a 
+T6882: d a b c 
+T6883: e c d 
+T6884: b a e 
+T6885: d a e 
+T6886: d 
+T6887: d c a 
+T6888: a e c b d 
+T6889: e d c b 
+T6890: c b 
+T6891: a 
+T6892: d 
+T6893: a e d b 
+T6894: b 
+T6895: e c 
+T6896: c d b 
+T6897: e b d a c 
+T6898: d c a b 
+T6899: e a c d 
+T6900: c b e 
+T6901: d 
+T6902: e d a b 
+T6903: d b c e a 
+T6904: e c a b 
+T6905: c e a 
+T6906: e a b d 
+T6907: b 
+T6908: a c 
+T6909: b d c e a 
+T6910: e b d a c 
+T6911: b 
+T6912: b 
+T6913: c d 
+T6914: a c d 
+T6915: e a d c b 
+T6916: e b 
+T6917: d c a b 
+T6918: a e c d b 
+T6919: b e a d 
+T6920: b c 
+T6921: c a d 
+T6922: a b 
+T6923: e c 
+T6924: d a b 
+T6925: b d e 
+T6926: d b a 
+T6927: b a 
+T6928: a c 
+T6929: a d 
+T6930: e c a d 
+T6931: a 
+T6932: a c d e 
+T6933: b e 
+T6934: d 
+T6935: e c a 
+T6936: a c 
+T6937: a b d 
+T6938: c b d e a 
+T6939: c d a 
+T6940: c e 
+T6941: d b 
+T6942: b e d a c 
+T6943: a c e b d 
+T6944: e a d b c 
+T6945: a e c b 
+T6946: c b 
+T6947: a c d e 
+T6948: a c d 
+T6949: a e 
+T6950: d e 
+T6951: b e c d a 
+T6952: c d b e a 
+T6953: b d 
+T6954: d c e 
+T6955: b e d a c 
+T6956: e 
+T6957: a b e d c 
+T6958: a c 
+T6959: c d a b e 
+T6960: d b a c e 
+T6961: b c e 
+T6962: e d 
+T6963: e a d 
+T6964: a c e 
+T6965: a 
+T6966: e a d 
+T6967: b a d 
+T6968: b e a 
+T6969: b a 
+T6970: e 
+T6971: c e d a b 
+T6972: d 
+T6973: c e a d b 
+T6974: c d e a 
+T6975: e 
+T6976: b d c a 
+T6977: b a 
+T6978: b d a e 
+T6979: a 
+T6980: b a d 
+T6981: e a 
+T6982: d 
+T6983: c e 
+T6984: e b a d 
+T6985: a d c b 
+T6986: d 
+T6987: a c d b e 
+T6988: e 
+T6989: b c 
+T6990: e 
+T6991: c a d b 
+T6992: b 
+T6993: a c d b 
+T6994: d e b a 
+T6995: a e b 
+T6996: e c d 
+T6997: d b e c a 
+T6998: d c e 
+T6999: a 
+T7000: e c a 
+T7001: e c d 
+T7002: a b c 
+T7003: b d 
+T7004: d a 
+T7005: d b a e c 
+T7006: b a d e 
+T7007: c b e 
+T7008: e a 
+T7009: e c 
+T7010: e b c d 
+T7011: a b 
+T7012: e a b c 
+T7013: d a 
+T7014: a 
+T7015: d c e a 
+T7016: a e d c b 
+T7017: c b a e d 
+T7018: a d e 
+T7019: a 
+T7020: d a c 
+T7021: d c b 
+T7022: c 
+T7023: d c a b 
+T7024: a e 
+T7025: b e a d c 
+T7026: d c 
+T7027: e a c 
+T7028: d e c b 
+T7029: c a e d b 
+T7030: c a d 
+T7031: a c d e b 
+T7032: d c e b a 
+T7033: b a d 
+T7034: b e 
+T7035: a e c 
+T7036: e a b c 
+T7037: e b d 
+T7038: a 
+T7039: c b e d a 
+T7040: d c e b 
+T7041: c b a 
+T7042: d 
+T7043: b a d 
+T7044: d a e c b 
+T7045: b d c e 
+T7046: c d 
+T7047: a e 
+T7048: c d a 
+T7049: b c d 
+T7050: a e b 
+T7051: b e 
+T7052: e 
+T7053: c b 
+T7054: a e 
+T7055: d 
+T7056: b 
+T7057: a e c 
+T7058: d 
+T7059: c 
+T7060: c b a 
+T7061: d a c b 
+T7062: a d c e 
+T7063: a b c 
+T7064: a e b c 
+T7065: c b e a d 
+T7066: b c d a e 
+T7067: c a b e 
+T7068: a c e b d 
+T7069: c e d b a 
+T7070: c 
+T7071: c b a d 
+T7072: b 
+T7073: a 
+T7074: b a c d e 
+T7075: a b 
+T7076: d a 
+T7077: a 
+T7078: a c e b 
+T7079: a 
+T7080: b 
+T7081: e c 
+T7082: a 
+T7083: a c b 
+T7084: d e 
+T7085: b c a e 
+T7086: c b a d e 
+T7087: a b 
+T7088: d b c a e 
+T7089: b c 
+T7090: b d e a 
+T7091: c e b d a 
+T7092: d c 
+T7093: a b e c d 
+T7094: b a e 
+T7095: a 
+T7096: e 
+T7097: a d e 
+T7098: e d 
+T7099: d 
+T7100: c d b e a 
+T7101: a d e b c 
+T7102: b c d e 
+T7103: d e b 
+T7104: b 
+T7105: c d e 
+T7106: b c d e a 
+T7107: a 
+T7108: a d 
+T7109: e d a 
+T7110: e a d c b 
+T7111: e d a 
+T7112: b a 
+T7113: b a c 
+T7114: a c 
+T7115: d b 
+T7116: b d c a e 
+T7117: c b a e 
+T7118: b a c 
+T7119: d c 
+T7120: e c d 
+T7121: a c e b d 
+T7122: b d e c a 
+T7123: d c b e 
+T7124: b a c e d 
+T7125: b a c 
+T7126: d c e a b 
+T7127: e a 
+T7128: d e b a 
+T7129: a 
+T7130: e 
+T7131: a 
+T7132: e d c a b 
+T7133: a c d e b 
+T7134: d c b e a 
+T7135: e 
+T7136: a d b c 
+T7137: c a 
+T7138: e 
+T7139: a d 
+T7140: c 
+T7141: d a c b 
+T7142: a c d b e 
+T7143: d e b a 
+T7144: d e 
+T7145: e a c b d 
+T7146: e a b 
+T7147: a c e 
+T7148: c b e d a 
+T7149: e d b c a 
+T7150: a e 
+T7151: c d 
+T7152: d a 
+T7153: b e c a 
+T7154: a d c b 
+T7155: e d b 
+T7156: d b a 
+T7157: d c e a 
+T7158: d b e 
+T7159: e c b 
+T7160: d a e 
+T7161: e b a c d 
+T7162: a d c b 
+T7163: d b 
+T7164: a 
+T7165: e c 
+T7166: a d b e c 
+T7167: e a c b 
+T7168: a e c 
+T7169: e 
+T7170: c 
+T7171: e d a 
+T7172: d 
+T7173: d 
+T7174: a b d e c 
+T7175: c e a b 
+T7176: a d 
+T7177: d c 
+T7178: d b c a 
+T7179: c 
+T7180: e d 
+T7181: a e d c 
+T7182: c e a b 
+T7183: b e c 
+T7184: a 
+T7185: c e a b 
+T7186: d c e 
+T7187: c e 
+T7188: d c b 
+T7189: b c e 
+T7190: d c 
+T7191: d b a c 
+T7192: a d 
+T7193: b 
+T7194: c b 
+T7195: d e 
+T7196: e d c 
+T7197: c 
+T7198: c e b a 
+T7199: d a c e b 
+T7200: d e a b c 
+T7201: c e 
+T7202: c a 
+T7203: a e d b c 
+T7204: a d e c 
+T7205: e c 
+T7206: c e b a 
+T7207: a d e b 
+T7208: c d 
+T7209: b e c 
+T7210: b d 
+T7211: a 
+T7212: b e d c 
+T7213: c a e 
+T7214: e a b c d 
+T7215: d b e 
+T7216: c 
+T7217: d e 
+T7218: c a 
+T7219: e c b d 
+T7220: c e d 
+T7221: b 
+T7222: d a b 
+T7223: e a c 
+T7224: d a b e 
+T7225: d c b a 
+T7226: d c b a e 
+T7227: c a e b d 
+T7228: b 
+T7229: e d 
+T7230: c a 
+T7231: e c 
+T7232: c 
+T7233: c a e b d 
+T7234: b d 
+T7235: d e b a 
+T7236: d c e b 
+T7237: d a 
+T7238: e d 
+T7239: c e a b 
+T7240: b e a d c 
+T7241: e a 
+T7242: e b a 
+T7243: d a c e 
+T7244: e 
+T7245: b d e 
+T7246: d c e b a 
+T7247: e d b a c 
+T7248: c a d 
+T7249: d 
+T7250: d e a c b 
+T7251: b e c 
+T7252: c a d b 
+T7253: b c d 
+T7254: d e 
+T7255: c a 
+T7256: a d c b e 
+T7257: c a b e 
+T7258: e d a c b 
+T7259: e d 
+T7260: d b e a 
+T7261: c d 
+T7262: e a 
+T7263: b a c 
+T7264: a c e d 
+T7265: b e d a c 
+T7266: b c a 
+T7267: a 
+T7268: a 
+T7269: d e c 
+T7270: e 
+T7271: c a d e 
+T7272: b a d 
+T7273: c a e d 
+T7274: c d b 
+T7275: a 
+T7276: d c e b 
+T7277: a 
+T7278: c a d e 
+T7279: e d b c a 
+T7280: c 
+T7281: b c 
+T7282: b e a c d 
+T7283: a b e d 
+T7284: e 
+T7285: b 
+T7286: c e d 
+T7287: c b e a d 
+T7288: d b 
+T7289: b e 
+T7290: a d c e b 
+T7291: d b 
+T7292: c e a 
+T7293: a d 
+T7294: e c a d b 
+T7295: b e 
+T7296: e d a b c 
+T7297: a c b e d 
+T7298: c d 
+T7299: e d a c 
+T7300: e 
+T7301: e c a b d 
+T7302: b 
+T7303: d e a 
+T7304: b c 
+T7305: e c d b 
+T7306: a e c b d 
+T7307: c d 
+T7308: e 
+T7309: e d b 
+T7310: d 
+T7311: d c a 
+T7312: b a d 
+T7313: d 
+T7314: c d b 
+T7315: e 
+T7316: d c 
+T7317: c e 
+T7318: d b c a 
+T7319: c a 
+T7320: b e d 
+T7321: b d c a 
+T7322: b a d e c 
+T7323: d c e 
+T7324: a e 
+T7325: e 
+T7326: e d c b a 
+T7327: c e a b 
+T7328: c b 
+T7329: d c 
+T7330: c a e b 
+T7331: c b 
+T7332: a b e c d 
+T7333: b e c d a 
+T7334: d c e 
+T7335: b 
+T7336: e 
+T7337: e b d a c 
+T7338: b e c a d 
+T7339: c e 
+T7340: e d c a b 
+T7341: e d b 
+T7342: b 
+T7343: a c d 
+T7344: a b 
+T7345: a d e 
+T7346: b e a c 
+T7347: b c e a d 
+T7348: a b d e 
+T7349: a b d 
+T7350: e 
+T7351: b 
+T7352: c a b 
+T7353: e a c b 
+T7354: c b e a d 
+T7355: c a 
+T7356: d e 
+T7357: c d e b 
+T7358: e a c 
+T7359: e 
+T7360: b 
+T7361: b c d a e 
+T7362: d 
+T7363: e c a d 
+T7364: c b e 
+T7365: b e 
+T7366: b 
+T7367: d a b e c 
+T7368: e d a b c 
+T7369: a e c d 
+T7370: d c 
+T7371: b c d e a 
+T7372: a e d 
+T7373: c b 
+T7374: c a b e 
+T7375: a b 
+T7376: d a b 
+T7377: b 
+T7378: d a b 
+T7379: c b a d e 
+T7380: a b c 
+T7381: c d e b 
+T7382: c e d a 
+T7383: c e 
+T7384: c d e a b 
+T7385: a e c 
+T7386: d 
+T7387: a 
+T7388: d 
+T7389: d e b a 
+T7390: b e d 
+T7391: c a e 
+T7392: a c b d e 
+T7393: d a e c b 
+T7394: a d c b e 
+T7395: b d a c e 
+T7396: d a e 
+T7397: a b e 
+T7398: d c a b e 
+T7399: b 
+T7400: d 
+T7401: e 
+T7402: c b e a d 
+T7403: a e 
+T7404: a e 
+T7405: b a 
+T7406: c d b 
+T7407: d a c e b 
+T7408: a c 
+T7409: a c d 
+T7410: c a d 
+T7411: e d c b a 
+T7412: c b 
+T7413: a 
+T7414: c a e b d 
+T7415: b c d e 
+T7416: c 
+T7417: a e c b d 
+T7418: e b a d 
+T7419: c e a b d 
+T7420: b c 
+T7421: a e c b 
+T7422: e a c b d 
+T7423: b d a e 
+T7424: b e c 
+T7425: d 
+T7426: e a b 
+T7427: d a c 
+T7428: d a 
+T7429: b d a e c 
+T7430: e 
+T7431: d c a b 
+T7432: c b 
+T7433: a d e 
+T7434: b 
+T7435: a d e 
+T7436: b d a 
+T7437: c e d a 
+T7438: a e c d 
+T7439: e b 
+T7440: d 
+T7441: b a c 
+T7442: d a c b e 
+T7443: a e d b 
+T7444: a b c d 
+T7445: d 
+T7446: e c 
+T7447: b c 
+T7448: d b 
+T7449: e a c 
+T7450: b e d a 
+T7451: c b 
+T7452: b c d 
+T7453: b d e a 
+T7454: a e c 
+T7455: a c e b d 
+T7456: b 
+T7457: e a 
+T7458: b 
+T7459: e b c d a 
+T7460: d c 
+T7461: b e c a d 
+T7462: e a b d c 
+T7463: c d e b a 
+T7464: c e d a b 
+T7465: e b a c 
+T7466: d 
+T7467: b d 
+T7468: a c b e 
+T7469: a c e d b 
+T7470: d a c 
+T7471: d e c b 
+T7472: e b d a c 
+T7473: d c b a 
+T7474: c 
+T7475: c b a d e 
+T7476: c e d b a 
+T7477: c e b d 
+T7478: b e c 
+T7479: c e a b 
+T7480: c e a 
+T7481: a b 
+T7482: e 
+T7483: b e d c 
+T7484: b e d c a 
+T7485: e c d a b 
+T7486: b e c 
+T7487: a d b e c 
+T7488: e d a 
+T7489: b a c e d 
+T7490: e c a 
+T7491: e c a 
+T7492: c b a d e 
+T7493: d c e 
+T7494: d b 
+T7495: a e 
+T7496: c d 
+T7497: e 
+T7498: b e 
+T7499: c 
+T7500: e d 
+T7501: e b 
+T7502: d c e a b 
+T7503: c 
+T7504: e a 
+T7505: a d 
+T7506: a 
+T7507: c d b 
+T7508: b 
+T7509: c e b d a 
+T7510: c b d e a 
+T7511: a e 
+T7512: e a 
+T7513: e 
+T7514: d c b e a 
+T7515: b a e d c 
+T7516: e a 
+T7517: d e 
+T7518: d b c a e 
+T7519: c d e a 
+T7520: c 
+T7521: b 
+T7522: d e c 
+T7523: d 
+T7524: d e c 
+T7525: a c e b d 
+T7526: c e 
+T7527: e b a 
+T7528: d e c a b 
+T7529: a c d 
+T7530: a d b c 
+T7531: d a b 
+T7532: a c e 
+T7533: d a 
+T7534: c d e b a 
+T7535: e 
+T7536: e d a c b 
+T7537: c e d 
+T7538: e d 
+T7539: e d c a 
+T7540: c d a 
+T7541: a b d e 
+T7542: e b c d a 
+T7543: d e b a 
+T7544: d c e a 
+T7545: e 
+T7546: c a b 
+T7547: b c d a e 
+T7548: b 
+T7549: d e 
+T7550: d c e b 
+T7551: d a b e 
+T7552: b 
+T7553: d b c a 
+T7554: a b c 
+T7555: b c a d e 
+T7556: b d a e 
+T7557: e a 
+T7558: b 
+T7559: b c a 
+T7560: b d a e 
+T7561: d e c 
+T7562: a b d c 
+T7563: a e c d b 
+T7564: c e b a d 
+T7565: a 
+T7566: d b a 
+T7567: b e d c a 
+T7568: e 
+T7569: e c a 
+T7570: d e a c b 
+T7571: b 
+T7572: c a d b e 
+T7573: b e c 
+T7574: d a b 
+T7575: a 
+T7576: c 
+T7577: a b c e 
+T7578: e a 
+T7579: c a d b 
+T7580: e c 
+T7581: b d e a 
+T7582: d b c 
+T7583: b e d c 
+T7584: c e 
+T7585: c e d a 
+T7586: d b c e a 
+T7587: a c e d 
+T7588: d a e b c 
+T7589: b c 
+T7590: e 
+T7591: b a c 
+T7592: a 
+T7593: c 
+T7594: a d e b c 
+T7595: c d e a b 
+T7596: d c 
+T7597: b e 
+T7598: e c d b 
+T7599: b c 
+T7600: c e d a b 
+T7601: a b 
+T7602: a b e 
+T7603: e 
+T7604: b d e 
+T7605: b 
+T7606: e d a b c 
+T7607: b 
+T7608: a e d c 
+T7609: a c b e 
+T7610: c b e a 
+T7611: a e d c b 
+T7612: e d 
+T7613: a c e d b 
+T7614: a b c d e 
+T7615: e d a c b 
+T7616: b 
+T7617: d c a 
+T7618: e a c b 
+T7619: a c b e 
+T7620: c a b e 
+T7621: a e b c d 
+T7622: e d c a b 
+T7623: e d b a 
+T7624: e d 
+T7625: e c d a 
+T7626: a d c b e 
+T7627: d b e a 
+T7628: d 
+T7629: b a d e 
+T7630: c 
+T7631: e c b 
+T7632: d b a 
+T7633: a b e 
+T7634: a b d 
+T7635: c a 
+T7636: e 
+T7637: b c a 
+T7638: b a c d e 
+T7639: d b c e a 
+T7640: a e 
+T7641: c b a d e 
+T7642: a d c 
+T7643: e d b 
+T7644: d a c b 
+T7645: b c a d e 
+T7646: d e 
+T7647: c 
+T7648: d a 
+T7649: d a e c 
+T7650: e d a c b 
+T7651: b 
+T7652: d a e 
+T7653: c d a 
+T7654: a b 
+T7655: c 
+T7656: c e a d b 
+T7657: c a 
+T7658: b 
+T7659: c 
+T7660: b e 
+T7661: c a 
+T7662: b 
+T7663: a d b e c 
+T7664: c 
+T7665: d e c b a 
+T7666: e c d 
+T7667: e a 
+T7668: a 
+T7669: b e 
+T7670: e 
+T7671: a d c b e 
+T7672: b 
+T7673: b c e a 
+T7674: e b 
+T7675: a 
+T7676: a d 
+T7677: e d a b 
+T7678: d c e 
+T7679: a b c d e 
+T7680: d 
+T7681: e c 
+T7682: a d c 
+T7683: b a c d e 
+T7684: d 
+T7685: a d 
+T7686: d e a 
+T7687: e 
+T7688: c 
+T7689: a 
+T7690: a 
+T7691: b d c e 
+T7692: b c 
+T7693: a 
+T7694: a 
+T7695: b a d 
+T7696: a 
+T7697: e 
+T7698: b c e 
+T7699: c b a e d 
+T7700: a 
+T7701: d a c b 
+T7702: a 
+T7703: b d c a e 
+T7704: c d e 
+T7705: e c d a 
+T7706: e c a b d 
+T7707: b 
+T7708: c 
+T7709: e c b 
+T7710: e 
+T7711: c 
+T7712: d c 
+T7713: c b e 
+T7714: c 
+T7715: b e 
+T7716: c d 
+T7717: e c 
+T7718: c d e a b 
+T7719: b d 
+T7720: b a e c d 
+T7721: e 
+T7722: d 
+T7723: d c a 
+T7724: a d c 
+T7725: a d 
+T7726: b 
+T7727: e a b d c 
+T7728: c d e 
+T7729: d e b c a 
+T7730: e 
+T7731: b 
+T7732: b c d e 
+T7733: b e 
+T7734: b e a d c 
+T7735: c e a b d 
+T7736: e b d 
+T7737: d 
+T7738: b a c e d 
+T7739: a b e 
+T7740: e 
+T7741: e b d 
+T7742: d c e b a 
+T7743: b c e 
+T7744: d b a e c 
+T7745: a c e 
+T7746: e c a b d 
+T7747: d a e b c 
+T7748: a e c b d 
+T7749: b a e d 
+T7750: d b a e 
+T7751: d c 
+T7752: a b c d 
+T7753: b d c e a 
+T7754: c b 
+T7755: d a b c e 
+T7756: a c b e d 
+T7757: d 
+T7758: e c d a b 
+T7759: d a 
+T7760: c e a b 
+T7761: c a d e b 
+T7762: d a c b e 
+T7763: c e d a 
+T7764: b 
+T7765: a 
+T7766: c 
+T7767: a e c d b 
+T7768: a e 
+T7769: c a d b e 
+T7770: c d a b 
+T7771: c 
+T7772: e 
+T7773: d b c 
+T7774: a d e b c 
+T7775: c 
+T7776: b d a c 
+T7777: a 
+T7778: e c 
+T7779: a e b 
+T7780: a b 
+T7781: a c b d e 
+T7782: c d b e a 
+T7783: d a e 
+T7784: a 
+T7785: e 
+T7786: d c e 
+T7787: d 
+T7788: b d a c 
+T7789: a 
+T7790: b d a 
+T7791: b d e a 
+T7792: e 
+T7793: d a e 
+T7794: c e a d b 
+T7795: a e b 
+T7796: b c e 
+T7797: a b 
+T7798: b d a c e 
+T7799: b d c e 
+T7800: d b a e 
+T7801: e b d a c 
+T7802: d e a 
+T7803: e 
+T7804: a b d 
+T7805: d e b 
+T7806: e d 
+T7807: c a 
+T7808: a b 
+T7809: e b d c 
+T7810: d b a e 
+T7811: e b d 
+T7812: d c b a 
+T7813: e b d 
+T7814: b d c 
+T7815: b e c 
+T7816: e 
+T7817: a 
+T7818: a 
+T7819: e d 
+T7820: d c e a 
+T7821: a 
+T7822: e b c a d 
+T7823: e a 
+T7824: c b a e 
+T7825: b e d a c 
+T7826: e b 
+T7827: c b e a 
+T7828: c e d a 
+T7829: c d b e a 
+T7830: a b e 
+T7831: b c e d 
+T7832: a e 
+T7833: d a e c 
+T7834: a c b d 
+T7835: e 
+T7836: b d 
+T7837: c e d a 
+T7838: d 
+T7839: b c 
+T7840: e b d 
+T7841: c a d 
+T7842: e 
+T7843: a d c 
+T7844: a 
+T7845: b d a 
+T7846: c b e d a 
+T7847: c 
+T7848: b a e d 
+T7849: d a e b 
+T7850: d 
+T7851: e d 
+T7852: c b d a e 
+T7853: e a d b 
+T7854: a b d e c 
+T7855: c 
+T7856: e b 
+T7857: a c b d 
+T7858: d a 
+T7859: b a e c 
+T7860: d e b a 
+T7861: e b a c d 
+T7862: d 
+T7863: c d a b 
+T7864: a d e 
+T7865: e a b 
+T7866: c a e 
+T7867: e d 
+T7868: e a c 
+T7869: a 
+T7870: d b 
+T7871: b a e 
+T7872: c b d 
+T7873: c a e b d 
+T7874: b c a d 
+T7875: d c a b 
+T7876: b c a e d 
+T7877: e c b a 
+T7878: d e b 
+T7879: c 
+T7880: a e d 
+T7881: d a e b 
+T7882: e d a c b 
+T7883: d c b a 
+T7884: c d 
+T7885: a 
+T7886: a c b e 
+T7887: c a 
+T7888: b d e a c 
+T7889: c a b d e 
+T7890: d e a 
+T7891: d a b c e 
+T7892: a b e 
+T7893: c e d a 
+T7894: a 
+T7895: b a c 
+T7896: a d 
+T7897: e a b 
+T7898: d c b 
+T7899: a b 
+T7900: c b e d 
+T7901: c a e d 
+T7902: e c a d 
+T7903: a d b e c 
+T7904: c e a 
+T7905: a c 
+T7906: a c b d 
+T7907: e a b 
+T7908: a 
+T7909: b c e 
+T7910: d c b e a 
+T7911: b c a 
+T7912: a e d c 
+T7913: d e c a 
+T7914: e a 
+T7915: a 
+T7916: a 
+T7917: c 
+T7918: e c 
+T7919: b e 
+T7920: b a d 
+T7921: a 
+T7922: c e b 
+T7923: c 
+T7924: d e c a b 
+T7925: c e 
+T7926: b a c d 
+T7927: b 
+T7928: b e c 
+T7929: c 
+T7930: e a d 
+T7931: a c d e 
+T7932: a d b e 
+T7933: d a e 
+T7934: b d e a c 
+T7935: e 
+T7936: d e 
+T7937: b c 
+T7938: c e b d a 
+T7939: b c 
+T7940: b a 
+T7941: d a c 
+T7942: d b 
+T7943: b 
+T7944: c a d e b 
+T7945: d 
+T7946: e a b c 
+T7947: d b c a e 
+T7948: a 
+T7949: a d 
+T7950: d a 
+T7951: a 
+T7952: e b c a 
+T7953: d a c e 
+T7954: b 
+T7955: d e a 
+T7956: a b 
+T7957: d c 
+T7958: a e b 
+T7959: e d a 
+T7960: a b 
+T7961: a d b e 
+T7962: c d 
+T7963: c a e 
+T7964: d a e 
+T7965: c e b d a 
+T7966: b a 
+T7967: d e a 
+T7968: c a 
+T7969: e 
+T7970: c e 
+T7971: e 
+T7972: b a 
+T7973: c a 
+T7974: a d c e 
+T7975: d 
+T7976: e a 
+T7977: b a e c 
+T7978: d 
+T7979: c e 
+T7980: d c a b e 
+T7981: e c a d 
+T7982: c b 
+T7983: d e c b 
+T7984: b d e c a 
+T7985: d b c e 
+T7986: e c 
+T7987: c 
+T7988: c a d e b 
+T7989: e d a b 
+T7990: a e b 
+T7991: d 
+T7992: d c a b 
+T7993: a 
+T7994: d b e c a 
+T7995: a e c b 
+T7996: a c b 
+T7997: c a d 
+T7998: e d a b 
+T7999: a 
+T8000: e d a b c 
+T8001: b a d e 
+T8002: b 
+T8003: a c d e b 
+T8004: a c d b e 
+T8005: c a 
+T8006: c 
+T8007: a 
+T8008: b 
+T8009: a c 
+T8010: c b d a e 
+T8011: c a 
+T8012: b 
+T8013: e a d c 
+T8014: e 
+T8015: e c b a 
+T8016: c e a b 
+T8017: c d b 
+T8018: e 
+T8019: e a b 
+T8020: c b a 
+T8021: e d 
+T8022: c a d b 
+T8023: b 
+T8024: e b 
+T8025: c 
+T8026: a d b 
+T8027: a 
+T8028: d b c 
+T8029: b a e 
+T8030: a 
+T8031: e 
+T8032: d b 
+T8033: a e 
+T8034: b a 
+T8035: c a e 
+T8036: c a d e 
+T8037: d e b a c 
+T8038: b d e 
+T8039: d b e a c 
+T8040: c d b 
+T8041: c 
+T8042: d e a 
+T8043: d 
+T8044: c 
+T8045: d e c a 
+T8046: b d 
+T8047: d e b c a 
+T8048: d b 
+T8049: d e a b c 
+T8050: a 
+T8051: a e 
+T8052: d a c b 
+T8053: c 
+T8054: d c 
+T8055: c e b d 
+T8056: e c 
+T8057: c a d e 
+T8058: a b 
+T8059: a d 
+T8060: b c d a e 
+T8061: c a d e b 
+T8062: c e b 
+T8063: b a e d c 
+T8064: a c 
+T8065: a c d 
+T8066: a d b e 
+T8067: d b c 
+T8068: b d c 
+T8069: c e d a 
+T8070: a 
+T8071: a d 
+T8072: a e d c 
+T8073: d 
+T8074: c a e d b 
+T8075: d a 
+T8076: d a e c b 
+T8077: a e b d c 
+T8078: a e 
+T8079: e d 
+T8080: e a c 
+T8081: b 
+T8082: b d c 
+T8083: e b d 
+T8084: b 
+T8085: d 
+T8086: e d a c 
+T8087: d e 
+T8088: b a c 
+T8089: a c 
+T8090: e 
+T8091: a c b 
+T8092: b e d a 
+T8093: c 
+T8094: a d c e b 
+T8095: b e c d 
+T8096: d 
+T8097: b d e 
+T8098: c d a e 
+T8099: d a e b 
+T8100: e b d c a 
+T8101: c 
+T8102: a e 
+T8103: b e a c 
+T8104: a c e b 
+T8105: d c a e b 
+T8106: e a 
+T8107: b 
+T8108: c b 
+T8109: a b c d 
+T8110: b a e d c 
+T8111: e c b d a 
+T8112: a c d e 
+T8113: c b d a e 
+T8114: e c d b 
+T8115: c d e a b 
+T8116: a c d e b 
+T8117: b d 
+T8118: b d 
+T8119: b d e 
+T8120: b 
+T8121: a b d 
+T8122: a 
+T8123: c b e 
+T8124: d e a 
+T8125: c 
+T8126: a 
+T8127: a b e d c 
+T8128: a d c e b 
+T8129: c b a e d 
+T8130: a 
+T8131: d 
+T8132: b a 
+T8133: e d 
+T8134: e d b a 
+T8135: b 
+T8136: d c e a 
+T8137: a e 
+T8138: a 
+T8139: c 
+T8140: d c a 
+T8141: a 
+T8142: a c b e d 
+T8143: a 
+T8144: b e a d 
+T8145: b c 
+T8146: e 
+T8147: b 
+T8148: c e a b 
+T8149: e 
+T8150: d c e a b 
+T8151: a c d 
+T8152: e c a d b 
+T8153: c d b a e 
+T8154: c a d b 
+T8155: e a c b 
+T8156: a b c e d 
+T8157: e a c b 
+T8158: c a b e d 
+T8159: e b a 
+T8160: c 
+T8161: c d a b 
+T8162: d 
+T8163: e d c 
+T8164: d 
+T8165: d a e b 
+T8166: a c d e 
+T8167: d a e 
+T8168: a b e c d 
+T8169: e c 
+T8170: c 
+T8171: b c 
+T8172: e 
+T8173: e c 
+T8174: e 
+T8175: a c b e d 
+T8176: e 
+T8177: d a c e 
+T8178: b 
+T8179: c a 
+T8180: d e c a 
+T8181: d 
+T8182: d b a c 
+T8183: b e a 
+T8184: c d 
+T8185: a e 
+T8186: b a c 
+T8187: a 
+T8188: a d c e 
+T8189: e 
+T8190: a c d 
+T8191: b d 
+T8192: c a e d 
+T8193: c d a e b 
+T8194: e d b a 
+T8195: b a e 
+T8196: e 
+T8197: c b 
+T8198: b d e a 
+T8199: c d b a 
+T8200: e a 
+T8201: e a b 
+T8202: d 
+T8203: e d 
+T8204: c e d 
+T8205: b 
+T8206: a b d 
+T8207: e a c d 
+T8208: b a d e c 
+T8209: e b c a d 
+T8210: e c a d 
+T8211: b e 
+T8212: b a c 
+T8213: c e a 
+T8214: e d 
+T8215: c a e b d 
+T8216: e 
+T8217: a e 
+T8218: d b 
+T8219: c d e b 
+T8220: c b a 
+T8221: e c d 
+T8222: b d a c 
+T8223: e 
+T8224: d 
+T8225: d b 
+T8226: c d b a 
+T8227: e a 
+T8228: a c e 
+T8229: b a c e 
+T8230: d 
+T8231: e b c 
+T8232: d e c a 
+T8233: d a b 
+T8234: e c b a d 
+T8235: d a e b 
+T8236: c b 
+T8237: e 
+T8238: b a d 
+T8239: d b e a c 
+T8240: c 
+T8241: e d b c a 
+T8242: b a 
+T8243: b d e a c 
+T8244: a b c 
+T8245: d 
+T8246: d 
+T8247: a c 
+T8248: c b a 
+T8249: a e c 
+T8250: a d 
+T8251: a c e b 
+T8252: b a c 
+T8253: e a b d c 
+T8254: e b 
+T8255: a c d 
+T8256: a b c 
+T8257: a b d e 
+T8258: b c a 
+T8259: b e a c d 
+T8260: c e a 
+T8261: c e 
+T8262: e d 
+T8263: b d a 
+T8264: d 
+T8265: e b d c a 
+T8266: c b e 
+T8267: b 
+T8268: e 
+T8269: d e a c 
+T8270: b d a 
+T8271: d e c b a 
+T8272: a d c b 
+T8273: a e d 
+T8274: c b a e d 
+T8275: d c a b e 
+T8276: e c b 
+T8277: d a c 
+T8278: a e d b c 
+T8279: a 
+T8280: d b 
+T8281: e d 
+T8282: a b 
+T8283: b c a e d 
+T8284: e b d a c 
+T8285: a 
+T8286: d c b a e 
+T8287: b c 
+T8288: d b 
+T8289: b a e d c 
+T8290: a e 
+T8291: d b c e a 
+T8292: d c 
+T8293: a 
+T8294: e d c 
+T8295: c d 
+T8296: c e b d 
+T8297: c e b a d 
+T8298: e b d 
+T8299: d b 
+T8300: e c 
+T8301: a d e 
+T8302: e c 
+T8303: a 
+T8304: c e d 
+T8305: b a e d c 
+T8306: b c a d e 
+T8307: e c d 
+T8308: e 
+T8309: a e d c 
+T8310: a 
+T8311: c a d 
+T8312: b e a 
+T8313: d b c a 
+T8314: d e b 
+T8315: d e a b 
+T8316: e 
+T8317: c e b 
+T8318: a e d b c 
+T8319: d e 
+T8320: b 
+T8321: b e d c 
+T8322: e a d c b 
+T8323: a e b 
+T8324: b e 
+T8325: d c b a 
+T8326: b d a c 
+T8327: a 
+T8328: d c 
+T8329: e a 
+T8330: e a c d 
+T8331: e b 
+T8332: b d e a 
+T8333: b a 
+T8334: b 
+T8335: b d a c e 
+T8336: d e 
+T8337: b 
+T8338: b c a e 
+T8339: b d e a c 
+T8340: d 
+T8341: a e 
+T8342: c d a 
+T8343: e d c a b 
+T8344: d c e a 
+T8345: e c b d 
+T8346: c e b d 
+T8347: e c b a 
+T8348: e a b c d 
+T8349: c e a b 
+T8350: d b a 
+T8351: d a c b e 
+T8352: e b c d 
+T8353: b c a 
+T8354: c d 
+T8355: a 
+T8356: a d 
+T8357: c 
+T8358: c b e d 
+T8359: a b d c e 
+T8360: d e a 
+T8361: b e 
+T8362: d 
+T8363: a e d 
+T8364: d 
+T8365: d a b 
+T8366: d 
+T8367: b a 
+T8368: a c e b 
+T8369: d 
+T8370: e b 
+T8371: c b e 
+T8372: d b e a 
+T8373: a b d e 
+T8374: b d c e 
+T8375: d 
+T8376: b c a e d 
+T8377: b d c e 
+T8378: d c 
+T8379: a e b c 
+T8380: c b a e 
+T8381: e 
+T8382: a 
+T8383: b c a e 
+T8384: d b a c 
+T8385: d b 
+T8386: b 
+T8387: b e 
+T8388: a b d 
+T8389: d e c a b 
+T8390: d a c e 
+T8391: a d e b 
+T8392: e d c b a 
+T8393: d e a b c 
+T8394: b c a d e 
+T8395: d b 
+T8396: a c 
+T8397: e a b d 
+T8398: c e b 
+T8399: e d 
+T8400: d b a c e 
+T8401: b 
+T8402: a d 
+T8403: d c b a e 
+T8404: e c a d b 
+T8405: b c a 
+T8406: c 
+T8407: a e b c d 
+T8408: c e d 
+T8409: d 
+T8410: c d a e b 
+T8411: d b e a 
+T8412: a d e b c 
+T8413: e b d a 
+T8414: e a d c b 
+T8415: b a c e 
+T8416: d 
+T8417: a 
+T8418: d 
+T8419: a e d b c 
+T8420: a b d e c 
+T8421: d e a c 
+T8422: e a d b c 
+T8423: b e c a 
+T8424: d 
+T8425: e d 
+T8426: a d b c 
+T8427: d a b e 
+T8428: e 
+T8429: d a 
+T8430: e d b 
+T8431: d a 
+T8432: b e 
+T8433: c e b a d 
+T8434: a e d 
+T8435: e 
+T8436: b d c e a 
+T8437: c a b d 
+T8438: b d e c a 
+T8439: d e b c a 
+T8440: a d b 
+T8441: a c b e d 
+T8442: a c e d 
+T8443: b e c d a 
+T8444: d e 
+T8445: a 
+T8446: b e d 
+T8447: c 
+T8448: c 
+T8449: c e a b 
+T8450: d b c a 
+T8451: a 
+T8452: e b 
+T8453: d c a e 
+T8454: d a 
+T8455: d 
+T8456: d e 
+T8457: a d 
+T8458: d e b 
+T8459: e 
+T8460: a b e d c 
+T8461: c e b d a 
+T8462: a e b c 
+T8463: d 
+T8464: b a d c e 
+T8465: b 
+T8466: a d b c e 
+T8467: b d a c e 
+T8468: a b c e 
+T8469: c d a 
+T8470: d b e a c 
+T8471: d e c 
+T8472: d 
+T8473: a b d c 
+T8474: e b 
+T8475: e d c 
+T8476: e a c 
+T8477: e d 
+T8478: e 
+T8479: a d 
+T8480: e a c d 
+T8481: d e 
+T8482: a 
+T8483: d a e c 
+T8484: d 
+T8485: b d c 
+T8486: d e b a c 
+T8487: d a b e 
+T8488: c b e 
+T8489: b 
+T8490: c d b e a 
+T8491: c 
+T8492: d e c a b 
+T8493: d e b c a 
+T8494: d 
+T8495: c e 
+T8496: c e a 
+T8497: d a c e b 
+T8498: c 
+T8499: d b c a e 
+T8500: e 
+T8501: d e b c a 
+T8502: a d b 
+T8503: b c e 
+T8504: e d b a c 
+T8505: c e d 
+T8506: b c d 
+T8507: c b d e 
+T8508: c e 
+T8509: c a e b d 
+T8510: a d b e c 
+T8511: e b c a d 
+T8512: d 
+T8513: b a e 
+T8514: d 
+T8515: d c 
+T8516: e a b 
+T8517: e c a b 
+T8518: c 
+T8519: d a c e 
+T8520: d b e 
+T8521: c b 
+T8522: c 
+T8523: b e d 
+T8524: a e c d b 
+T8525: c d b a 
+T8526: c b e 
+T8527: b c e d a 
+T8528: b c 
+T8529: d c 
+T8530: d a c e 
+T8531: c a e 
+T8532: a 
+T8533: a e b c d 
+T8534: b a 
+T8535: c b 
+T8536: b c d e a 
+T8537: d b a 
+T8538: d c b e 
+T8539: a b d c 
+T8540: b d c e 
+T8541: e b d 
+T8542: d c e a 
+T8543: c b d e a 
+T8544: a d b 
+T8545: c 
+T8546: e d c a 
+T8547: a d 
+T8548: c b a d 
+T8549: c a b d e 
+T8550: d e a c 
+T8551: a d e 
+T8552: b e 
+T8553: b 
+T8554: b d c 
+T8555: d e 
+T8556: a d b c 
+T8557: a 
+T8558: c a 
+T8559: d 
+T8560: a e b d 
+T8561: b 
+T8562: b c a d 
+T8563: c e 
+T8564: c a 
+T8565: b c d a e 
+T8566: c b e d a 
+T8567: a e d b c 
+T8568: c e 
+T8569: a c 
+T8570: b a e 
+T8571: e d c 
+T8572: c d e b 
+T8573: c d b 
+T8574: d 
+T8575: e 
+T8576: a e d 
+T8577: d b e a 
+T8578: b d 
+T8579: b e c a d 
+T8580: a d 
+T8581: a e 
+T8582: d b e a 
+T8583: b c a e d 
+T8584: b c e d 
+T8585: a 
+T8586: c b d e 
+T8587: c e b d 
+T8588: a b 
+T8589: c e d a b 
+T8590: d e c 
+T8591: c e d a b 
+T8592: e d b c a 
+T8593: a 
+T8594: b c d a e 
+T8595: b a e d 
+T8596: b c d e a 
+T8597: c 
+T8598: b c d e 
+T8599: c e b 
+T8600: c b 
+T8601: e 
+T8602: c a d 
+T8603: d e c a 
+T8604: d b e 
+T8605: e a 
+T8606: c a d e b 
+T8607: d b a 
+T8608: d a c 
+T8609: b d c e 
+T8610: e d c 
+T8611: d b a 
+T8612: c a e 
+T8613: c b a e d 
+T8614: d 
+T8615: d 
+T8616: b c d 
+T8617: d e b 
+T8618: b c e 
+T8619: c a d 
+T8620: d e b 
+T8621: d 
+T8622: a e 
+T8623: e d a 
+T8624: e c d a b 
+T8625: b e a 
+T8626: d b a 
+T8627: d e 
+T8628: c 
+T8629: b a e c d 
+T8630: a e d 
+T8631: c b e a 
+T8632: b d 
+T8633: c d b e a 
+T8634: a b d c 
+T8635: d 
+T8636: c a b e d 
+T8637: a d b 
+T8638: e 
+T8639: b c a d 
+T8640: e 
+T8641: a b c 
+T8642: d e b 
+T8643: d b a e c 
+T8644: e c b d 
+T8645: b e c d 
+T8646: e d b 
+T8647: c a 
+T8648: a e 
+T8649: c a e b 
+T8650: e d b c a 
+T8651: a c b 
+T8652: b c d 
+T8653: e b d a c 
+T8654: e 
+T8655: b e c d 
+T8656: c d a 
+T8657: e b a 
+T8658: a c 
+T8659: c b 
+T8660: d 
+T8661: d 
+T8662: d b a e 
+T8663: e c 
+T8664: d e c b a 
+T8665: d a c 
+T8666: d 
+T8667: a 
+T8668: e d 
+T8669: d 
+T8670: c e d b 
+T8671: d 
+T8672: c e a d b 
+T8673: d c e 
+T8674: c e 
+T8675: b e c 
+T8676: b 
+T8677: e 
+T8678: a b d e 
+T8679: d b e a c 
+T8680: e 
+T8681: d c e a 
+T8682: a 
+T8683: a d c 
+T8684: c a e b d 
+T8685: d b 
+T8686: e c 
+T8687: b a d e 
+T8688: a b c 
+T8689: d b a 
+T8690: c d 
+T8691: d b e a 
+T8692: e c b d 
+T8693: e b c d 
+T8694: a 
+T8695: b e c d 
+T8696: a b 
+T8697: e 
+T8698: a 
+T8699: c e d b a 
+T8700: d e c b a 
+T8701: d 
+T8702: d e a c b 
+T8703: b d c e a 
+T8704: a d c e 
+T8705: b e d 
+T8706: d a c 
+T8707: c a b 
+T8708: a b d e c 
+T8709: b c d e a 
+T8710: e b c a d 
+T8711: d a e c b 
+T8712: d 
+T8713: d 
+T8714: a b e d 
+T8715: a 
+T8716: e c 
+T8717: b a e c 
+T8718: b a 
+T8719: d b 
+T8720: d a e 
+T8721: c 
+T8722: d c a e b 
+T8723: c a 
+T8724: c 
+T8725: d c a 
+T8726: b 
+T8727: c e b d a 
+T8728: c d 
+T8729: e b 
+T8730: d c e b 
+T8731: c 
+T8732: a d b c 
+T8733: c e a 
+T8734: d c 
+T8735: a c 
+T8736: c d 
+T8737: d a c 
+T8738: d c 
+T8739: e d b c 
+T8740: a d e c 
+T8741: a d e b c 
+T8742: b a c e 
+T8743: b c e 
+T8744: e a c d b 
+T8745: e b a d c 
+T8746: c a b e d 
+T8747: e b c d 
+T8748: b c d e a 
+T8749: e b a c 
+T8750: a e 
+T8751: b 
+T8752: c a b 
+T8753: a d c e b 
+T8754: a b e d 
+T8755: d b a c e 
+T8756: c 
+T8757: e 
+T8758: c b 
+T8759: c e a 
+T8760: b d c e 
+T8761: e c b d 
+T8762: c e 
+T8763: c 
+T8764: e d 
+T8765: c 
+T8766: e c 
+T8767: c b d e a 
+T8768: d b e a 
+T8769: d b c e 
+T8770: c 
+T8771: e a b 
+T8772: d b c a e 
+T8773: c a e b d 
+T8774: b d c a e 
+T8775: d e b 
+T8776: b a c 
+T8777: b d 
+T8778: d a b e c 
+T8779: a b c d 
+T8780: b e a d c 
+T8781: c a b e 
+T8782: d e b c a 
+T8783: a c b e 
+T8784: e a d 
+T8785: a 
+T8786: b d a e 
+T8787: c 
+T8788: d e c a b 
+T8789: c a e d 
+T8790: c 
+T8791: d b e c a 
+T8792: b d 
+T8793: d b e 
+T8794: e a 
+T8795: a d 
+T8796: c a 
+T8797: e b d 
+T8798: c 
+T8799: c b a e d 
+T8800: d b 
+T8801: d e 
+T8802: c a d 
+T8803: a c 
+T8804: a 
+T8805: e d b a 
+T8806: a e c b d 
+T8807: c b 
+T8808: a e c 
+T8809: a c b 
+T8810: c d 
+T8811: b a d 
+T8812: e a c d 
+T8813: e b c d a 
+T8814: c d b e a 
+T8815: b d a 
+T8816: d b e 
+T8817: b e d 
+T8818: c d b a 
+T8819: b e c d a 
+T8820: c b e 
+T8821: e d c b 
+T8822: d a e 
+T8823: a 
+T8824: a b d c 
+T8825: c a b d e 
+T8826: c a d e 
+T8827: d b a 
+T8828: a 
+T8829: d c e 
+T8830: c e 
+T8831: d 
+T8832: b e c 
+T8833: b 
+T8834: a 
+T8835: c b 
+T8836: d b 
+T8837: a c b e d 
+T8838: e b a 
+T8839: e 
+T8840: d 
+T8841: c b e d a 
+T8842: e b c d a 
+T8843: e 
+T8844: a d b 
+T8845: a e b c d 
+T8846: b d e 
+T8847: c 
+T8848: d 
+T8849: a c d 
+T8850: a b d e 
+T8851: e a c 
+T8852: d a c 
+T8853: e a d 
+T8854: a e d b c 
+T8855: a 
+T8856: c e a d 
+T8857: e a 
+T8858: c b 
+T8859: d e 
+T8860: a d c e 
+T8861: a e 
+T8862: c b 
+T8863: d a e c b 
+T8864: e b c a 
+T8865: d c e 
+T8866: e a d c b 
+T8867: e 
+T8868: c a d b e 
+T8869: e d a c b 
+T8870: e 
+T8871: b d 
+T8872: d c b a 
+T8873: d a e c b 
+T8874: a d b e 
+T8875: e 
+T8876: b e d 
+T8877: a d c e 
+T8878: e 
+T8879: b d c a e 
+T8880: c e b 
+T8881: b 
+T8882: a c d 
+T8883: b a e d c 
+T8884: d c b a 
+T8885: e b c d 
+T8886: a 
+T8887: d 
+T8888: b e d a 
+T8889: d b a 
+T8890: d b e a 
+T8891: d b 
+T8892: b 
+T8893: e 
+T8894: d c 
+T8895: c d b a e 
+T8896: c d 
+T8897: e 
+T8898: c d e a 
+T8899: a e b 
+T8900: a e c 
+T8901: a 
+T8902: d c e 
+T8903: d e 
+T8904: d b a e c 
+T8905: c e a b 
+T8906: a 
+T8907: e b a c d 
+T8908: c e 
+T8909: c a d 
+T8910: a 
+T8911: c e b 
+T8912: a 
+T8913: c 
+T8914: c d e 
+T8915: a b e c d 
+T8916: a e d b c 
+T8917: d 
+T8918: a d b e 
+T8919: c a 
+T8920: d b a e 
+T8921: c d a e b 
+T8922: c d e b a 
+T8923: c d e a b 
+T8924: d b a 
+T8925: c 
+T8926: a d 
+T8927: d e 
+T8928: c a b d e 
+T8929: b d e a 
+T8930: e d a c 
+T8931: c 
+T8932: d c e b 
+T8933: d a c b e 
+T8934: a c b e d 
+T8935: d c b a e 
+T8936: b 
+T8937: e d b a c 
+T8938: e d c b 
+T8939: e 
+T8940: e a d 
+T8941: a c e d 
+T8942: c 
+T8943: d c e 
+T8944: e a c b 
+T8945: c b a e d 
+T8946: e 
+T8947: c d 
+T8948: a 
+T8949: e 
+T8950: d c e 
+T8951: c e 
+T8952: c a e 
+T8953: c 
+T8954: d c a 
+T8955: c b a d 
+T8956: e d a b 
+T8957: b a c d e 
+T8958: a d e b c 
+T8959: a 
+T8960: e 
+T8961: a e c b d 
+T8962: c e 
+T8963: e b d a c 
+T8964: d e c a b 
+T8965: d b a e 
+T8966: b c 
+T8967: a c 
+T8968: e c b a 
+T8969: c e 
+T8970: d c 
+T8971: d e 
+T8972: c 
+T8973: d b a 
+T8974: a b 
+T8975: a d 
+T8976: b c 
+T8977: e a b 
+T8978: a 
+T8979: c a 
+T8980: c e b d a 
+T8981: c 
+T8982: e 
+T8983: a c e b 
+T8984: d e a b c 
+T8985: c b d 
+T8986: a 
+T8987: d c b e 
+T8988: b a 
+T8989: c d b 
+T8990: b 
+T8991: c 
+T8992: e d b c a 
+T8993: e d a 
+T8994: e a b d c 
+T8995: b d c e a 
+T8996: c d e 
+T8997: c e b d a 
+T8998: d 
+T8999: a b e c 
+T9000: b a c 
+T9001: c e d a b 
+T9002: b a 
+T9003: c d e 
+T9004: c b d e 
+T9005: c 
+T9006: d 
+T9007: e a b d c 
+T9008: c a e d 
+T9009: a b 
+T9010: d e a c 
+T9011: e d 
+T9012: a e d b c 
+T9013: c 
+T9014: e c a b 
+T9015: c b 
+T9016: b 
+T9017: e a c b d 
+T9018: b d e c 
+T9019: d a c 
+T9020: a d c 
+T9021: c 
+T9022: c d b a 
+T9023: a 
+T9024: e b 
+T9025: d b c a e 
+T9026: a e 
+T9027: b d e c 
+T9028: c b d a e 
+T9029: d 
+T9030: e c 
+T9031: e a 
+T9032: e 
+T9033: a d e 
+T9034: d e c b 
+T9035: b d 
+T9036: b 
+T9037: c e a d 
+T9038: d 
+T9039: a 
+T9040: a c d e 
+T9041: d e c 
+T9042: b e c a 
+T9043: b e c a d 
+T9044: c b a d 
+T9045: d e 
+T9046: e 
+T9047: e d 
+T9048: d a b e 
+T9049: e d a 
+T9050: d e b 
+T9051: e b c d a 
+T9052: a 
+T9053: d e 
+T9054: d c e b a 
+T9055: d e a 
+T9056: a 
+T9057: c a 
+T9058: e d c 
+T9059: e d c a b 
+T9060: a d b e c 
+T9061: b e c a d 
+T9062: a b 
+T9063: d a e 
+T9064: e a c 
+T9065: e 
+T9066: e a b d 
+T9067: a d e b c 
+T9068: b c a 
+T9069: a b e d c 
+T9070: d e c a 
+T9071: b a e 
+T9072: e c d 
+T9073: c e 
+T9074: c e d a 
+T9075: e b a c 
+T9076: b c d a 
+T9077: a d c e 
+T9078: c a b e d 
+T9079: a d b c 
+T9080: e c d 
+T9081: a c d 
+T9082: b d a c 
+T9083: a d e 
+T9084: c a e 
+T9085: b a d e 
+T9086: b c e d 
+T9087: e a b d c 
+T9088: b c 
+T9089: b a c d 
+T9090: e c d b a 
+T9091: b d c 
+T9092: e b c d a 
+T9093: c b a d e 
+T9094: a 
+T9095: b 
+T9096: b c e d a 
+T9097: c b 
+T9098: a e d c 
+T9099: b d e a c 
+T9100: b e d c a 
+T9101: d a 
+T9102: c d 
+T9103: d a c b 
+T9104: e 
+T9105: b d 
+T9106: e c a b d 
+T9107: a e 
+T9108: d a e b 
+T9109: d a e b c 
+T9110: a d e c 
+T9111: a e c 
+T9112: a b d e c 
+T9113: b c d a 
+T9114: a 
+T9115: d b 
+T9116: e 
+T9117: b 
+T9118: d 
+T9119: e c a d 
+T9120: e a d b c 
+T9121: b e a d 
+T9122: a b d 
+T9123: a c e 
+T9124: d e a 
+T9125: e b d a c 
+T9126: a e d 
+T9127: c b 
+T9128: a d 
+T9129: a c b 
+T9130: a b c d e 
+T9131: d 
+T9132: b e 
+T9133: a e d 
+T9134: d b 
+T9135: b d e a 
+T9136: a 
+T9137: d e a 
+T9138: e a 
+T9139: c b 
+T9140: e b 
+T9141: d b 
+T9142: e b 
+T9143: b a e 
+T9144: e c a 
+T9145: c e a 
+T9146: c b a 
+T9147: b a d 
+T9148: b e c 
+T9149: b c e 
+T9150: a d 
+T9151: e 
+T9152: a 
+T9153: a 
+T9154: b d e 
+T9155: e 
+T9156: c d a e b 
+T9157: d a 
+T9158: b c e d 
+T9159: b d 
+T9160: e b d a 
+T9161: a d 
+T9162: c b 
+T9163: d c b e 
+T9164: a 
+T9165: d e c 
+T9166: a e c d b 
+T9167: d c a e b 
+T9168: d 
+T9169: e a c d 
+T9170: e d a 
+T9171: e b d 
+T9172: e 
+T9173: b c a e d 
+T9174: a d 
+T9175: b e c a d 
+T9176: d b 
+T9177: b c 
+T9178: c 
+T9179: a 
+T9180: c e a d 
+T9181: e c b 
+T9182: e b 
+T9183: e d 
+T9184: b 
+T9185: a e b c 
+T9186: b e a c d 
+T9187: a d 
+T9188: c 
+T9189: a d 
+T9190: a d c e b 
+T9191: e 
+T9192: c 
+T9193: b c a d 
+T9194: d b e 
+T9195: a e c b d 
+T9196: b 
+T9197: a b e d 
+T9198: b a c d 
+T9199: b d a 
+T9200: c b e d a 
+T9201: d c 
+T9202: e b 
+T9203: d e c b 
+T9204: e d b c 
+T9205: a e c 
+T9206: d a b 
+T9207: e d c b a 
+T9208: d b a 
+T9209: d b c a e 
+T9210: b a c e 
+T9211: d e b 
+T9212: e 
+T9213: b e d c 
+T9214: e b c 
+T9215: a d 
+T9216: c e a b 
+T9217: d a c b 
+T9218: b d a c e 
+T9219: d a b c 
+T9220: b c d 
+T9221: b d c 
+T9222: e a 
+T9223: b d e a c 
+T9224: d b e 
+T9225: d b c 
+T9226: c a 
+T9227: b e d 
+T9228: d e c b a 
+T9229: e b a 
+T9230: e b c 
+T9231: a b e 
+T9232: b a d c e 
+T9233: e 
+T9234: a b c e 
+T9235: c d 
+T9236: c e 
+T9237: b a c 
+T9238: a c e b 
+T9239: b 
+T9240: a 
+T9241: b a d c 
+T9242: e d c b 
+T9243: e a d c 
+T9244: b d a 
+T9245: e c 
+T9246: a e d c 
+T9247: e d a 
+T9248: c b d a e 
+T9249: e c d 
+T9250: e d 
+T9251: b e a c 
+T9252: a e 
+T9253: d 
+T9254: e d 
+T9255: b e d a 
+T9256: b d c 
+T9257: c b 
+T9258: e c d 
+T9259: a b c d e 
+T9260: a c d b e 
+T9261: d a 
+T9262: d b e 
+T9263: d e 
+T9264: e d 
+T9265: b d a c e 
+T9266: e a d 
+T9267: d c 
+T9268: e 
+T9269: c d e 
+T9270: c d a 
+T9271: e 
+T9272: d 
+T9273: d e a b c 
+T9274: e c b 
+T9275: a e d c 
+T9276: b a d c 
+T9277: c e d b a 
+T9278: a 
+T9279: e c 
+T9280: b c a d e 
+T9281: c e 
+T9282: b e 
+T9283: b 
+T9284: b e c a d 
+T9285: a b e 
+T9286: a e b c d 
+T9287: c 
+T9288: e d b c a 
+T9289: d c b a 
+T9290: a e b d 
+T9291: d b c a 
+T9292: c 
+T9293: a e 
+T9294: c d b 
+T9295: e c a d b 
+T9296: a d e 
+T9297: e c d 
+T9298: b a c d e 
+T9299: a d c b 
+T9300: b c d e 
+T9301: d a 
+T9302: a c b d 
+T9303: d c a e b 
+T9304: b e 
+T9305: d a e 
+T9306: c e a b d 
+T9307: e b d c 
+T9308: a c 
+T9309: d c e b a 
+T9310: d b a e 
+T9311: c d e b 
+T9312: a e c 
+T9313: a b e c 
+T9314: d e a c b 
+T9315: e 
+T9316: a e b d 
+T9317: b e c d 
+T9318: c e d a b 
+T9319: a b 
+T9320: e c d b a 
+T9321: b e a d c 
+T9322: e b d c 
+T9323: a 
+T9324: a e c 
+T9325: b d c 
+T9326: b d a c 
+T9327: e c a d b 
+T9328: b c a e 
+T9329: a d e c b 
+T9330: d e 
+T9331: a b c d e 
+T9332: b c a d 
+T9333: c a 
+T9334: e 
+T9335: b c 
+T9336: a c e d b 
+T9337: c d a e b 
+T9338: a e b 
+T9339: d 
+T9340: a e c b 
+T9341: d c e 
+T9342: d b 
+T9343: e b d 
+T9344: e a 
+T9345: e 
+T9346: d b a e 
+T9347: e c a 
+T9348: c d 
+T9349: b c d 
+T9350: e d 
+T9351: c e 
+T9352: a e 
+T9353: c a 
+T9354: a c 
+T9355: a d b 
+T9356: a 
+T9357: d b 
+T9358: e d b 
+T9359: a b d 
+T9360: b a c d e 
+T9361: d b 
+T9362: c a b d 
+T9363: b c e 
+T9364: a 
+T9365: a b c 
+T9366: a e c d 
+T9367: d 
+T9368: e 
+T9369: d 
+T9370: e d 
+T9371: e b c 
+T9372: d a c 
+T9373: b c 
+T9374: d 
+T9375: b e a c 
+T9376: c b 
+T9377: a 
+T9378: a b e c d 
+T9379: b d e a c 
+T9380: a b c 
+T9381: e 
+T9382: e b 
+T9383: d e a 
+T9384: a c d 
+T9385: c d 
+T9386: b e d a 
+T9387: b d a c e 
+T9388: b d 
+T9389: e d b 
+T9390: c d b a 
+T9391: c d b a 
+T9392: b c a 
+T9393: b a 
+T9394: a d 
+T9395: c a 
+T9396: e c 
+T9397: d c e a 
+T9398: b 
+T9399: c 
+T9400: a d 
+T9401: e d 
+T9402: c e d 
+T9403: c d a e 
+T9404: a c e b d 
+T9405: d b e a 
+T9406: c a d 
+T9407: a e d 
+T9408: d a b c 
+T9409: b 
+T9410: c a e 
+T9411: c d a e b 
+T9412: a d b 
+T9413: d a e 
+T9414: a 
+T9415: e b a c d 
+T9416: a d 
+T9417: e 
+T9418: c 
+T9419: b a e c 
+T9420: c e b d 
+T9421: b d e c 
+T9422: d b a c 
+T9423: d e a c 
+T9424: d b c 
+T9425: a 
+T9426: a d b c e 
+T9427: c d e a 
+T9428: d c 
+T9429: c d e a b 
+T9430: d 
+T9431: b 
+T9432: a d 
+T9433: e b 
+T9434: e d 
+T9435: d a e 
+T9436: d 
+T9437: b 
+T9438: c b e d 
+T9439: d e a 
+T9440: c 
+T9441: e c b a 
+T9442: d 
+T9443: c 
+T9444: a c d 
+T9445: c e a b 
+T9446: a 
+T9447: e 
+T9448: c a b d e 
+T9449: b a c e 
+T9450: b 
+T9451: e d b a 
+T9452: d a e 
+T9453: a 
+T9454: c a d 
+T9455: b d 
+T9456: a e c 
+T9457: b a c e d 
+T9458: d 
+T9459: a b e 
+T9460: b c a 
+T9461: a 
+T9462: c 
+T9463: a e b c 
+T9464: c 
+T9465: a d c e 
+T9466: e 
+T9467: b d 
+T9468: a b e d 
+T9469: e c 
+T9470: a e b c d 
+T9471: a b e 
+T9472: b c 
+T9473: b a e d c 
+T9474: a d 
+T9475: d a b 
+T9476: b 
+T9477: b a 
+T9478: c e 
+T9479: a c d 
+T9480: a c b 
+T9481: d c 
+T9482: e c a 
+T9483: c e d b a 
+T9484: d e 
+T9485: e c b d 
+T9486: e b d c a 
+T9487: a d 
+T9488: b a c d 
+T9489: a 
+T9490: a b e c 
+T9491: b 
+T9492: a e b d 
+T9493: a d e c b 
+T9494: e 
+T9495: d 
+T9496: d e 
+T9497: c d e a 
+T9498: d e b 
+T9499: b e a c 
+T9500: e 
+T9501: d b 
+T9502: b c 
+T9503: e d b 
+T9504: a d e 
+T9505: a c e 
+T9506: a c b d 
+T9507: c e d a 
+T9508: a d e 
+T9509: d e c a b 
+T9510: c 
+T9511: e 
+T9512: d 
+T9513: e b c 
+T9514: e b d a 
+T9515: d e a 
+T9516: e b a c d 
+T9517: e d c b a 
+T9518: e d c a b 
+T9519: e a c d 
+T9520: b e a d 
+T9521: d a e b c 
+T9522: c 
+T9523: b c a 
+T9524: d c e a b 
+T9525: e d c 
+T9526: a c b 
+T9527: a e c 
+T9528: e d a c b 
+T9529: a 
+T9530: c e d b a 
+T9531: b c d 
+T9532: d c a e 
+T9533: e b c a d 
+T9534: b c d 
+T9535: e d a 
+T9536: d e 
+T9537: d e b c a 
+T9538: c 
+T9539: a d b e c 
+T9540: c 
+T9541: d c b 
+T9542: d 
+T9543: b e 
+T9544: a b 
+T9545: d 
+T9546: a 
+T9547: b 
+T9548: c a b 
+T9549: e c 
+T9550: c b a e d 
+T9551: b 
+T9552: a b 
+T9553: a 
+T9554: d e b a 
+T9555: c d 
+T9556: d e 
+T9557: d b a c 
+T9558: c b a e d 
+T9559: a e d 
+T9560: a e 
+T9561: e 
+T9562: e b 
+T9563: a c d b e 
+T9564: a 
+T9565: e 
+T9566: a b c d 
+T9567: e 
+T9568: d 
+T9569: b d e c 
+T9570: c b a d e 
+T9571: d e a c 
+T9572: e b c 
+T9573: d a e c 
+T9574: e d a c b 
+T9575: e 
+T9576: a b c e 
+T9577: e d 
+T9578: a b e c 
+T9579: e d c a b 
+T9580: c e 
+T9581: c b e d 
+T9582: e c a b 
+T9583: c 
+T9584: c e d 
+T9585: e b d a c 
+T9586: b c 
+T9587: c b d a e 
+T9588: e 
+T9589: b e c 
+T9590: a c e b 
+T9591: d 
+T9592: d b e c 
+T9593: e 
+T9594: e 
+T9595: e c d 
+T9596: d 
+T9597: a e b d c 
+T9598: a b 
+T9599: e 
+T9600: c 
+T9601: e a c b d 
+T9602: a e b 
+T9603: b e a c 
+T9604: b 
+T9605: b 
+T9606: e c d 
+T9607: e 
+T9608: b a d 
+T9609: b a d 
+T9610: c 
+T9611: e a d 
+T9612: a d 
+T9613: a e 
+T9614: d a c e b 
+T9615: e c d a 
+T9616: d a b e 
+T9617: c b e a 
+T9618: a d b c 
+T9619: b a e 
+T9620: d b e 
+T9621: b d 
+T9622: c d b e a 
+T9623: a c b e d 
+T9624: a 
+T9625: e c 
+T9626: a b c 
+T9627: b 
+T9628: e 
+T9629: b a c d e 
+T9630: d b c 
+T9631: e a c 
+T9632: e a b c d 
+T9633: b a 
+T9634: d b 
+T9635: a b c 
+T9636: e 
+T9637: e b 
+T9638: b c a e 
+T9639: d 
+T9640: c e 
+T9641: d e c b a 
+T9642: b e c 
+T9643: c b a d e 
+T9644: b 
+T9645: e c b 
+T9646: e c 
+T9647: e a 
+T9648: d e b 
+T9649: e b 
+T9650: c a d e 
+T9651: b c 
+T9652: e c 
+T9653: e a 
+T9654: a d c b e 
+T9655: d a c 
+T9656: b a 
+T9657: c d 
+T9658: a c e d 
+T9659: c a 
+T9660: c a d b e 
+T9661: b 
+T9662: b e c 
+T9663: e b c d a 
+T9664: c 
+T9665: a b c d 
+T9666: e b 
+T9667: e d a b c 
+T9668: b d 
+T9669: d b c a 
+T9670: d b e 
+T9671: c 
+T9672: a e c d 
+T9673: e b c 
+T9674: c a b d 
+T9675: e d b a 
+T9676: a 
+T9677: d b e c 
+T9678: c e d 
+T9679: a e d c 
+T9680: a d 
+T9681: d a c e b 
+T9682: c b e 
+T9683: c e d a b 
+T9684: b 
+T9685: a 
+T9686: c 
+T9687: c b a d e 
+T9688: a b c d 
+T9689: e 
+T9690: e 
+T9691: c d e 
+T9692: c 
+T9693: b 
+T9694: d c e 
+T9695: c e a d 
+T9696: d a 
+T9697: b a e 
+T9698: a b e 
+T9699: a d b e c 
+T9700: a b e c 
+T9701: a e 
+T9702: b e d 
+T9703: e a c d 
+T9704: d 
+T9705: d c e b a 
+T9706: b 
+T9707: e d c b a 
+T9708: a e 
+T9709: b 
+T9710: d e c 
+T9711: d b e 
+T9712: b a c d 
+T9713: c e 
+T9714: d c 
+T9715: b d a e c 
+T9716: d e c a 
+T9717: b a e 
+T9718: a e d c 
+T9719: b d c a 
+T9720: e d c 
+T9721: b d e a c 
+T9722: c 
+T9723: c b a 
+T9724: b a d e c 
+T9725: e c b 
+T9726: c 
+T9727: a d e c 
+T9728: b d c 
+T9729: d e a b c 
+T9730: b 
+T9731: d e b 
+T9732: b e 
+T9733: e 
+T9734: d c e a b 
+T9735: c a b e d 
+T9736: d e 
+T9737: e c b 
+T9738: d a c b 
+T9739: b a d c e 
+T9740: b e c a 
+T9741: a b c d 
+T9742: b e a d 
+T9743: c 
+T9744: a d c 
+T9745: a c 
+T9746: a d e 
+T9747: b a c e d 
+T9748: a e b d 
+T9749: e d b 
+T9750: e 
+T9751: a 
+T9752: b a c 
+T9753: d e 
+T9754: d b e 
+T9755: b a c d e 
+T9756: a b d c 
+T9757: c 
+T9758: b e d 
+T9759: b c a d e 
+T9760: c b d a e 
+T9761: c a b e d 
+T9762: a 
+T9763: c a d b e 
+T9764: e 
+T9765: d e c b a 
+T9766: d 
+T9767: e b d c 
+T9768: e d c a 
+T9769: e d b c 
+T9770: e 
+T9771: a b c d 
+T9772: b 
+T9773: d c b e a 
+T9774: c b a d e 
+T9775: c d b 
+T9776: e c d b 
+T9777: e 
+T9778: e b d a 
+T9779: e 
+T9780: a 
+T9781: c e a b 
+T9782: e d 
+T9783: c a 
+T9784: b e a d c 
+T9785: c 
+T9786: b d e a c 
+T9787: c d e b a 
+T9788: e 
+T9789: e 
+T9790: a 
+T9791: e c d a b 
+T9792: a e b d 
+T9793: b c a e 
+T9794: d 
+T9795: b e c a d 
+T9796: a 
+T9797: c e 
+T9798: c e a d b 
+T9799: b 
+T9800: d e a c b 
+T9801: b e c 
+T9802: e c 
+T9803: b d a e 
+T9804: b d c 
+T9805: c a d b 
+T9806: c e a d 
+T9807: a b e d c 
+T9808: c 
+T9809: a 
+T9810: b 
+T9811: e a c d 
+T9812: d c b a 
+T9813: d c 
+T9814: d 
+T9815: a d c b 
+T9816: a 
+T9817: a 
+T9818: e a b d c 
+T9819: d 
+T9820: e a 
+T9821: e c a b 
+T9822: a d e c 
+T9823: a b c e 
+T9824: a c 
+T9825: c 
+T9826: d b 
+T9827: e d b c a 
+T9828: b a 
+T9829: e 
+T9830: c 
+T9831: d e c 
+T9832: e c d a 
+T9833: c a b d e 
+T9834: c d e a b 
+T9835: b 
+T9836: c 
+T9837: b e c 
+T9838: d a b c 
+T9839: a d e 
+T9840: e d 
+T9841: c e 
+T9842: e c 
+T9843: b d e c a 
+T9844: b a c 
+T9845: d a b 
+T9846: e a 
+T9847: a e b d 
+T9848: d e c a b 
+T9849: a b c e 
+T9850: e d c b 
+T9851: e d c a b 
+T9852: a b e d 
+T9853: a d b e c 
+T9854: b 
+T9855: b c 
+T9856: b a e d c 
+T9857: e 
+T9858: c a d 
+T9859: d c 
+T9860: e c b 
+T9861: e b c a d 
+T9862: e b a d 
+T9863: a 
+T9864: c e 
+T9865: e d a 
+T9866: b e a c d 
+T9867: d a b 
+T9868: a 
+T9869: d c e b a 
+T9870: e a b d c 
+T9871: d c b e 
+T9872: c e a 
+T9873: b e 
+T9874: c a d e 
+T9875: d 
+T9876: d 
+T9877: c a e b 
+T9878: e a c 
+T9879: a 
+T9880: e 
+T9881: c a 
+T9882: e 
+T9883: e b a 
+T9884: e b 
+T9885: b e c 
+T9886: a 
+T9887: d c b a 
+T9888: e a c b d 
+T9889: c b a d 
+T9890: c b a d e 
+T9891: a b 
+T9892: c e b d 
+T9893: e d b c a 
+T9894: b a 
+T9895: c b a 
+T9896: e 
+T9897: c a 
+T9898: d 
+T9899: e d b a c 
+T9900: b 
+T9901: e 
+T9902: e b a c d 
+T9903: e d b a c 
+T9904: e d c 
+T9905: a b 
+T9906: c e 
+T9907: c e b d a 
+T9908: c a d 
+T9909: e d 
+T9910: d c b e 
+T9911: a b 
+T9912: b d e 
+T9913: c b a e d 
+T9914: e 
+T9915: e b 
+T9916: c d e b 
+T9917: e d b c 
+T9918: c 
+T9919: c 
+T9920: c e a 
+T9921: d b e 
+T9922: c e b 
+T9923: d 
+T9924: e b a 
+T9925: a e 
+T9926: e b c d a 
+T9927: e 
+T9928: d 
+T9929: c e a 
+T9930: d 
+T9931: d b c a e 
+T9932: b 
+T9933: d 
+T9934: d b e a c 
+T9935: b d a c 
+T9936: c 
+T9937: e a c b 
+T9938: e 
+T9939: b 
+T9940: d c e 
+T9941: b d e c a 
+T9942: c b e 
+T9943: b a 
+T9944: a b e 
+T9945: b c a e d 
+T9946: b a e d c 
+T9947: d c e a 
+T9948: d a 
+T9949: a c 
+T9950: e 
+T9951: d 
+T9952: d e b a 
+T9953: c b 
+T9954: d b c 
+T9955: d b 
+T9956: c e a d b 
+T9957: b d 
+T9958: a d c e b 
+T9959: d b a c e 
+T9960: e c 
+T9961: e 
+T9962: b e 
+T9963: b d c 
+T9964: e 
+T9965: c b e a 
+T9966: a c d b 
+T9967: d b a e 
+T9968: d 
+T9969: a d c e 
+T9970: c 
+T9971: a 
+T9972: c e b d a 
+T9973: e b a 
+T9974: e a d c b 
+T9975: e a c 
+T9976: a c d e b 
+T9977: d a 
+T9978: d 
+T9979: c b d 
+T9980: d a c b e 
+T9981: c 
+T9982: b c d 
+T9983: a c e d 
+T9984: c b 
+T9985: b 
+T9986: d b c 
+T9987: c a b e 
+T9988: c b d 
+T9989: b e c d 
+T9990: c 
+T9991: d a b c 
+T9992: e c a 
+T9993: e 
+T9994: d a c e 
+T9995: a b c d 
+T9996: a 
+T9997: a c b d 
+T9998: b c a d 
+T9999: a e 
